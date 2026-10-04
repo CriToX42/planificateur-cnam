@@ -26,8 +26,8 @@ jobs:
       TZ: Europe/Paris
       GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v5
-      - uses: astral-sh/setup-uv@v6
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
 
       - name: Lire la fiche et préparer la maquette
         id: import
