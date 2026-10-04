@@ -1,0 +1,16 @@
+name: Ajouter un diplôme
+description: Publier un diplôme du Cnam Paris sur le planificateur.
+title: Ajouter un diplôme
+labels: [ajout-diplome]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Colle l'adresse de la fiche diplôme (cnam-paris.fr, onglet Programme). Le programme est lu et publié automatiquement : une réponse arrive ici en une minute environ, puis le site est mis à jour.
+  - type: input
+    id: url
+    attributes:
+      label: Adresse de la fiche diplôme
+      placeholder: https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/…kjsp
+    validations:
+      required: true

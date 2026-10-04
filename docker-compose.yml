@@ -1,0 +1,8 @@
+# Test local du site statique : http://localhost:8000
+services:
+  site:
+    image: nginx:alpine
+    ports:
+      - "8000:80"
+    volumes:
+      - ./site:/usr/share/nginx/html:ro

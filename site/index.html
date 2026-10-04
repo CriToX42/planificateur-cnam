@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Planificateur Cnam</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='28' height='28' fill='%23fff' stroke='%231B2A4A' stroke-width='2'/%3E%3Cpath d='M9 22V10h5v12M18 22V14h5v8' fill='none' stroke='%232748C8' stroke-width='2.5'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..800&display=swap" rel="stylesheet">
+  <meta name="description" content="Répartir les UE d’un diplôme du Cnam Paris sur ses semestres et suivre ce qui est validé.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">Planificateur Cnam</a>
+    <button id="sync-state" class="sync-state" type="button" aria-live="polite"></button>
+  </header>
+  <main id="app"></main>
+  <dialog id="ue-dialog" aria-labelledby="ue-dialog-title"></dialog>
+  <dialog id="sync-dialog" aria-label="Conflits de synchronisation"></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

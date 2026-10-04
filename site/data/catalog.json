@@ -1,0 +1,21 @@
+{
+ "repo": "CriToX42/planificateur-cnam",
+ "diplomas": [
+  {
+   "id": "1608276",
+   "key": "www.cnam-paris.fr:1608276",
+   "versions": [
+    {
+     "version": "20260930",
+     "fetched_at": "2026-09-30T21:53:43",
+     "hash": "fb79431acdd624b10487c47e7aa14e79a5916efd09d2c1f3becfe5d2b5b91ea0"
+    }
+   ],
+   "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-ingenieur-specialite-informatique-parcours-cybersecurite-1608276.kjsp?RF=1404475742767",
+   "title": "Diplôme d'ingénieur Spécialité informatique Parcours Cybersécurité",
+   "code": "CYC9106A-PAR",
+   "total_credits": 180,
+   "checked_at": "2026-09-30T21:53:43"
+  }
+ ]
+}

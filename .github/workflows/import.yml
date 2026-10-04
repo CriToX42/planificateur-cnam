@@ -1,0 +1,69 @@
+name: Importer un diplôme
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Adresse de la fiche diplôme
+        required: true
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: donnees
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.labels.*.name, 'ajout-diplome')
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Paris
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Lire la fiche et préparer la maquette
+        id: import
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          INPUT_URL: ${{ inputs.url }}
+        run: |
+          if [ -n "$INPUT_URL" ]; then
+            uv run --no-dev python -m cnam import --url "$INPUT_URL" --comment "$RUNNER_TEMP/comment.md"
+          else
+            uv run --no-dev python -m cnam import --issue-body-env ISSUE_BODY --comment "$RUNNER_TEMP/comment.md"
+          fi
+
+      - name: Enregistrer et republier
+        if: steps.import.outputs.ok == 'true'
+        run: |
+          git add site/data
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Maquette ${{ steps.import.outputs.diploma }}, version ${{ steps.import.outputs.version }}"
+          git pull --rebase
+          git push
+          gh workflow run pages.yml --ref main
+
+      - name: Répondre dans l'issue
+        if: always() && github.event_name == 'issues'
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          COMMENT="$RUNNER_TEMP/comment.md"
+          [ -s "$COMMENT" ] || echo "L'import a échoué de façon inattendue. Journal : $RUN_URL" > "$COMMENT"
+          gh issue comment "$NUMBER" --body-file "$COMMENT"
+          if [ "${{ steps.import.outputs.ok }}" = "true" ]; then
+            gh issue close "$NUMBER" --reason completed
+          else
+            gh issue close "$NUMBER" --reason "not planned"
+          fi

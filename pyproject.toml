@@ -1,0 +1,19 @@
+[project]
+name = "planificateur-cnam"
+version = "0.2.0"
+description = "Planificateur de diplôme Cnam Paris : lecture des fiches diplôme pour le site statique"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

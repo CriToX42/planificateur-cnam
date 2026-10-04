@@ -1,0 +1,1262 @@
+{
+ "title": "Diplôme d'ingénieur Spécialité informatique Parcours Cybersécurité",
+ "code": "CYC9106A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-ingenieur-specialite-informatique-parcours-cybersecurite-1608276.kjsp?RF=1404475742767",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3",
+    "g4",
+    "g5",
+    "g6"
+   ],
+   "kind": "parent",
+   "year": "y1",
+   "parent": null,
+   "label": "Blocs fondamentaux, 4 UE dans au moins 3 domaines de compétences à choisir parmi les 5 domaines proposés en respectant les règles d'exclusion",
+   "rule": {
+    "ue_count": 4,
+    "credits": null,
+    "min_domains": 3,
+    "total_ects": 24
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Bloc fondamental IAO, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i9",
+    "i10",
+    "i11"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Bloc fondamental AISL, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i12",
+    "i13",
+    "i14",
+    "i15"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Bloc fondamental SIBI, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i16",
+    "i17",
+    "i18",
+    "i19"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Bloc fondamental IRSM, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i20",
+    "i21",
+    "i22"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Bloc fondamental EI, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g7",
+   "items": [
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Anglais, 1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g8",
+   "items": [
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35",
+    "i36",
+    "i37",
+    "i38",
+    "i39",
+    "i40",
+    "i41",
+    "i42",
+    "i43",
+    "i44",
+    "i45",
+    "i46",
+    "i47",
+    "i48",
+    "i49",
+    "i50",
+    "i51",
+    "i52",
+    "i53",
+    "i54",
+    "i55",
+    "i56",
+    "i57",
+    "i58",
+    "i59"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "SHES, 6 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 6,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UTC501",
+   "title": "Outils mathématiques pour Informatique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC501-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UTC502",
+   "title": "Principes fondamentaux des Systèmes d'exploitation",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC502-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC503",
+   "title": "Paradigmes de programmation",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC503-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UTC504",
+   "title": "Systèmes d'Information et Bases de Données",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC504-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UTC505",
+   "title": "Introduction à la cyberstructure de l'internet : réseaux et sécurité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC505-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "RCP105",
+   "title": "Modélisation, optimisation, complexité et algorithmes",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "RCP101",
+   "title": "Recherche opérationnelle et aide à la décision",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "NFP122",
+   "title": "Conception et développement Front-End",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "NSY115",
+   "title": "Conduite d'un projet informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "GLG105",
+   "title": "Génie Logiciel et Architecture Cloud Native",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GLG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "NFE108",
+   "title": "Méthodologies des systèmes d'information",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "NFP107",
+   "title": "Systèmes de gestion de bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "NFE113",
+   "title": "Conception et administration de bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/NFE113/0"
+  },
+  {
+   "id": "i15",
+   "code": "NFE114",
+   "title": "Systèmes d'information web",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "RSX101",
+   "title": "Réseaux et protocoles pour l'Internet",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "RSX102",
+   "title": "Technologies pour les applications en réseau : contribution au profil NetDevOps",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "SMB101",
+   "title": "Systèmes d'exploitation : principes, programmation et virtualisation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SMB101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "CYB105",
+   "title": "Contrôle d'accès et Gestion des identités numériques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "MUX101",
+   "title": "Multimédia et interaction humain-machine",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MUX101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "MUX103",
+   "title": "Numérique inclusif - Design d'interactions et accessibilité",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MUX103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "NSY103",
+   "title": "Linux : principes et programmation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "ENG261",
+   "title": "Information et communication scientifique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG261-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UAEP05",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP05/0"
+  },
+  {
+   "id": "i25",
+   "code": "UAAD91",
+   "title": "Admission à l'école d'ingénieur",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAD91/0"
+  },
+  {
+   "id": "i26",
+   "code": "ANG100",
+   "title": "Anglais général pour débutants",
+   "ects": 6,
+   "year": "y2",
+   "group": "g7",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y2",
+   "group": "g7",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "RSX112",
+   "title": "Sécurité des réseaux",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "CYB103",
+   "title": "Cryptographie pour la protection des données",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "CYB108",
+   "title": "Durcissement et mise en œuvre de mesures de sécurité avancées pour les données, les réseaux et les systèmes (Hardening)",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "NTA101",
+   "title": "Intelligence Artificielle : défis technologiques et enjeux sociétaux",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTA101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "CFA109",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "NTD217",
+   "title": "Principes et fondamentaux de la gouvernance des connaissances",
+   "ects": 3,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i35",
+   "code": "MSE103",
+   "title": "Management et organisation des entreprises - Compléments",
+   "ects": 3,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i36",
+   "code": "GFN106",
+   "title": "Pilotage financier de l'entreprise",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "PRS201",
+   "title": "Prospective, décision, transformation",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i38",
+   "code": "ESC101",
+   "title": "Mercatique I : Les Etudes de marché et les nouveaux enjeux de la Data à l'heure de l'IA",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i39",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i40",
+   "code": "DSY101",
+   "title": "L'organisation & ses modèles : Panorama",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i41",
+   "code": "DVE207",
+   "title": "Droit et pratique des contrats internationaux",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DVE207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i42",
+   "code": "UEU001",
+   "title": "Union européenne : enjeux et grands débats",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i43",
+   "code": "UEU002",
+   "title": "Mondialisation et Union européenne",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i44",
+   "code": "ESD104",
+   "title": "Politiques et stratégies économiques dans la mondialisation",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESD104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i45",
+   "code": "RTC201",
+   "title": "Socio-histoire de l'innovation techno-scientifique",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i46",
+   "code": "GDN100",
+   "title": "Management de projet",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i47",
+   "code": "DNT104",
+   "title": "Droit du numérique",
+   "ects": 4,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNT104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i48",
+   "code": "MTR107",
+   "title": "Introduction au management qualité",
+   "ects": 3,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i49",
+   "code": "HSE134",
+   "title": "Intégrer les enjeux de transitions écologiques dans les pratiques professionnelles",
+   "ects": 3,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE134-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i50",
+   "code": "HSE225",
+   "title": "Eléments de santé au travail pour les ingénieurs et les managers (ESTIM)",
+   "ects": 3,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i51",
+   "code": "ERG105",
+   "title": "Introduction à l'Ergonomie : développement du travail, santé, performance et conception",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i52",
+   "code": "FPG114",
+   "title": "Outils RH à l'ère de l'IA générative",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i53",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i54",
+   "code": "DRS101",
+   "title": "Droit du travail : relations individuelles",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i55",
+   "code": "DRS102",
+   "title": "Droit du travail : relations collectives",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i56",
+   "code": "DRS106",
+   "title": "Droit social européen et international",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/DRS106/0"
+  },
+  {
+   "id": "i57",
+   "code": "FAD111",
+   "title": "Analyse du travail et ingénierie de la formation professionnelle",
+   "ects": 8,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i58",
+   "code": "FAB121",
+   "title": "Outils et méthodes du Lean",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB121/0"
+  },
+  {
+   "id": "i59",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y2",
+   "group": "g8",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i60",
+   "code": "ENG270",
+   "title": "Innovation",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENG270/0"
+  },
+  {
+   "id": "i61",
+   "code": "ENG251",
+   "title": "Initiation à la recherche",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG251-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i62",
+   "code": "MSE212",
+   "title": "Management interculturel",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i63",
+   "code": "UA2B30",
+   "title": "Test d'anglais",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2B30/0"
+  },
+  {
+   "id": "i64",
+   "code": "ENG210",
+   "title": "Ingénieur de demain",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i65",
+   "code": "UAEP06",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP06/0"
+  },
+  {
+   "id": "i66",
+   "code": "CYB201",
+   "title": "Détection et remédiation d'attaques",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i67",
+   "code": "CYB202",
+   "title": "Cybersécurité avancée pour les systèmes et applications",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i68",
+   "code": "SMB215",
+   "title": "Projets en nouvelles infrastructures et systèmes numériques souverains",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SMB215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i69",
+   "code": "UAEP07",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP07/0"
+  },
+  {
+   "id": "i70",
+   "code": "UAM91C",
+   "title": "Mémoire ingénieur",
+   "ects": 30,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAM91C/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée journée",
+  "Formation à distance planifiée soir ou samedi"
+ ]
+}
