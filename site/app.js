@@ -117,8 +117,15 @@ const SYNC_LABEL = {
   conflict: 'Conflit à résoudre',
 };
 
+const SYNC_SHORT = {
+  off: 'Local', pending: 'Synchro…', syncing: 'Synchro…', idle: 'Synchronisé', offline: 'Hors ligne', error: 'Synchro en échec', conflict: 'Conflit',
+};
+
 function renderSyncState(info = sync.info()) {
-  syncButton.textContent = SYNC_LABEL[info.status];
+  syncButton.replaceChildren(
+    h('span', { class: 'label-long' }, SYNC_LABEL[info.status]),
+    h('span', { class: 'label-short', 'aria-hidden': 'true' }, SYNC_SHORT[info.status]),
+  );
   syncButton.dataset.kind = info.status;
   syncButton.title = info.detail || (info.status === 'idle' && info.lastSync
     ? `Gist de @${info.login}, dernière synchro le ${dateTimeFr(info.lastSync)}`
@@ -206,7 +213,9 @@ function openConflicts() {
 
 // ================================================================= ACCUEIL
 
-const home = { open: false, catalog: null, error: null, query: '', type: '', level: '', draft: null, tokenBusy: false };
+// Taille d'une page de résultats : plus courte au doigt, où chaque fiche occupe plus de hauteur.
+const PAGE = matchMedia('(max-width: 900px)').matches ? 10 : 25;
+const home = { open: false, catalog: null, error: null, query: '', type: '', level: '', limit: PAGE, draft: null, tokenBusy: false };
 
 // Un diplôme est identifié par son code ; ses anciens identifiants restent valables (alias).
 const findDiploma = (catalog, id) => catalog?.diplomas.find((d) => d.id === id || d.aliases?.includes(id)) ?? null;
@@ -286,7 +295,7 @@ function renderHome() {
       h('input', {
         id: 'find', type: 'search', value: home.query, 'data-key': 'find', autocomplete: 'off',
         placeholder: 'Rechercher un diplôme, ou coller l’adresse de sa fiche',
-        oninput: (ev) => { home.query = ev.target.value; paint(renderHome); },
+        oninput: (ev) => { home.query = ev.target.value; home.limit = PAGE; paint(renderHome); },
       }),
       renderFilters(),
       renderResults(),
@@ -313,7 +322,7 @@ function renderFilters() {
   const levels = [...count('level_out')].sort((a, b) => LEVEL_ORDER(a[0]) - LEVEL_ORDER(b[0]) || a[0].localeCompare(b[0]));
   const select = (key, label, entries, all) => h('label', { class: 'filter' },
     h('span', {}, label),
-    h('select', { value: home[key], 'data-key': `f-${key}`, onchange: (ev) => { home[key] = ev.target.value; paint(renderHome); } },
+    h('select', { value: home[key], 'data-key': `f-${key}`, onchange: (ev) => { home[key] = ev.target.value; home.limit = PAGE; paint(renderHome); } },
       h('option', { value: '' }, all),
       entries.map(([v, n]) => h('option', { value: v }, `${v} (${n})`))));
   return h('div', { class: 'filters' },
@@ -349,7 +358,11 @@ function renderResults() {
   const filtered = q || home.type || home.level;
   return [
     h('p', { class: 'muted results-count' }, filtered ? `${plural(list.length, 'diplôme correspond', 'diplômes correspondent')} sur ${diplomas.length}` : `${plural(diplomas.length, 'diplôme', 'diplômes')} du Cnam Paris`),
-    list.length ? diplomaList(list) : h('p', { class: 'muted results-note' }, 'Aucun diplôme ne correspond à cette recherche.'),
+    list.length ? diplomaList(list.slice(0, home.limit)) : h('p', { class: 'muted results-note' }, 'Aucun diplôme ne correspond à cette recherche.'),
+    list.length > home.limit ? h('button', {
+      class: 'btn btn-quiet more-btn', 'data-key': 'more',
+      onclick: () => { home.limit += PAGE; paint(renderHome); },
+    }, `Afficher ${Math.min(PAGE, list.length - home.limit)} de plus (${list.length - home.limit} restants)`) : null,
     h('p', { class: 'muted results-note' }, 'Ton diplôme n’est pas dans la liste ? Colle l’adresse de sa fiche sur cnam-paris.fr dans le champ ci-dessus pour demander son ajout.'),
   ];
 }
@@ -360,8 +373,18 @@ function highlighted(title, hits) {
   return title.split(/([A-Za-zÀ-ÖØ-öø-ÿ0-9+]+)/).map((part) => (hits.has(normalize(part)) ? h('mark', {}, part) : part));
 }
 
+async function chooseDiploma(d) {
+  await startDraft(d);
+  paint(renderHome);
+  document.querySelector('.draft')?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+}
+
 function diplomaList(list) {
-  return h('ul', { class: 'dip-list', 'data-scroll': 'diplomas' }, list.map(({ diploma: d, hits }) => h('li', { class: `dip-row ${d.retired ? 'dip-retired' : ''}` },
+  // Toute la ligne est cliquable (pratique au doigt) ; le bouton reste pour le clavier.
+  return h('ul', { class: 'dip-list', 'data-scroll': 'diplomas' }, list.map(({ diploma: d, hits }) => h('li', {
+    class: `dip-row ${d.retired ? 'dip-retired' : ''}`,
+    onclick: (ev) => { if (!ev.target.closest('button')) chooseDiploma(d); },
+  },
     h('div', { class: 'dip-text' },
       h('span', { class: 'dip-title' }, highlighted(d.title, hits)),
       h('span', { class: 'muted' }, [d.type, d.level_out, d.total_credits && `${d.total_credits} ECTS`, d.code].filter(Boolean).join(', ')),
@@ -372,7 +395,7 @@ function diplomaList(list) {
     ),
     h('button', {
       class: 'btn btn-quiet', 'data-key': `dip-${d.id}`,
-      onclick: async () => { await startDraft(d); paint(renderHome); document.querySelector('.draft')?.scrollIntoView({ block: 'start', behavior: 'smooth' }); },
+      onclick: () => chooseDiploma(d),
     }, 'Créer un plan'),
   )));
 }
@@ -480,7 +503,7 @@ function renderPlanList() {
     byDiploma.get(p.diploma).push(p);
   }
   const catalogEntry = (id) => findDiploma(home.catalog, id);
-  return h('section', { class: 'plans', 'aria-labelledby': 'plans-title' },
+  return h('section', { class: `plans ${plans.length ? 'plans-has' : ''}`, 'aria-labelledby': 'plans-title' },
     h('header', { class: 'plans-head' },
       h('h2', { id: 'plans-title' }, 'Mes plans'),
       h('div', { class: 'actions' },
@@ -952,13 +975,15 @@ function renderPlan() {
     P.tab = tab;
     try { localStorage.setItem(`cnam-tab-${P.plan.id}`, tab); } catch { /* stockage indisponible */ }
     paint(renderPlan);
+    const panel = document.querySelector('.tab-body');
+    if (panel && panel.getBoundingClientRect().top < 0) panel.scrollIntoView({ block: 'start' });
   };
   const pending = pendingChoices().length;
   const toPlace = toPlaceItems().length;
   const tabs = [
     ['programme', 'Programme', pending],
     ['planning', 'Planning', toPlace],
-    ['recap', 'Récapitulatif', 0],
+    ['recap', 'Récapitulatif', 0, 'Récap'],
     ['reglages', 'Réglages', 0],
   ];
   const body = { programme: renderProgramme, planning: renderPlanning, recap: renderRecap, reglages: renderSettings }[P.tab] || renderPlanning;
@@ -966,10 +991,12 @@ function renderPlan() {
     renderCartouche(),
     renderPlanNotices(),
     h('nav', { class: 'tabs', role: 'tablist', 'aria-label': 'Sections du plan' },
-      tabs.map(([id, label, badge]) => h('button', {
-        role: 'tab', class: 'tab', 'aria-selected': String(P.tab === id), 'data-key': `tab-${id}`,
+      tabs.map(([id, label, badge, short]) => h('button', {
+        role: 'tab', class: 'tab', 'aria-selected': String(P.tab === id), 'data-key': `tab-${id}`, 'aria-label': label,
         onclick: () => setTab(id),
-      }, label, badge ? h('span', { class: 'tab-badge', 'aria-label': `${badge} en attente` }, badge) : null)),
+      },
+        short ? [h('span', { class: 'label-long' }, label), h('span', { class: 'label-short' }, short)] : label,
+        badge ? h('span', { class: 'tab-badge', 'aria-label': `${badge} en attente` }, badge) : null)),
     ),
     h('div', { class: `tab-body tab-${P.tab}`, role: 'tabpanel' }, body()),
   );
@@ -1157,7 +1184,7 @@ function renderPlanning() {
       : null,
     h('div', { class: 'board-wrap' },
       h('aside', {
-        class: 'pool dropzone', 'aria-label': 'UE à placer', 'data-drop': 'pool',
+        class: `pool dropzone ${P.poolCollapsed ? 'pool-collapsed' : ''}`, 'aria-label': 'UE à placer', 'data-drop': 'pool',
         ondragover: (ev) => { if (dragging?.placementId || dragging?.fromPrior) { ev.preventDefault(); ev.currentTarget.classList.add('drop-hover'); } },
         ondragleave: (ev) => { if (!ev.currentTarget.contains(ev.relatedTarget)) ev.currentTarget.classList.remove('drop-hover'); },
         ondrop: (ev) => {
@@ -1170,6 +1197,11 @@ function renderPlanning() {
         h('header', { class: 'col-head pool-head' },
           h('span', { class: 'col-title' }, 'À placer'),
           h('span', { class: 'col-sub num' }, `${pool.length} UE, ${fmt(pool.reduce((a, it) => a + it.ects, 0))} ECTS`),
+          pool.length ? h('span', { class: 'col-sub touch-only' }, 'Touche une UE pour choisir son semestre.') : null,
+          pool.length ? h('button', {
+            class: 'btn btn-quiet pool-toggle', 'aria-expanded': String(!P.poolCollapsed), 'data-key': 'pool-toggle',
+            onclick: () => { P.poolCollapsed = !P.poolCollapsed; paint(renderPlan); },
+          }, P.poolCollapsed ? 'Afficher' : 'Replier') : null,
         ),
         h('div', { class: 'col-body', 'data-scroll': 'pool' },
           pool.length
@@ -1247,7 +1279,9 @@ function column(sl) {
       h('span', { class: 'col-year num' }, sl.out ? 'Hors période' : `${sl.y}-${sl.y + 1}`),
       h('span', { class: 'col-title' }, sl.sem === 1 ? '1er semestre' : '2nd semestre'),
     ),
-    h('div', { class: 'col-body' }, cards.length ? cards : h('p', { class: 'col-empty' }, sl.out ? '' : 'Dépose une UE ici')),
+    h('div', { class: 'col-body' }, cards.length ? cards : h('p', { class: 'col-empty' }, sl.out ? '' : [
+      h('span', { class: 'mouse-only' }, 'Dépose une UE ici'), h('span', { class: 'touch-only' }, 'Aucune UE pour ce semestre'),
+    ])),
     h('footer', { class: 'col-foot' },
       h('span', { class: 'col-sum num' }, h('strong', {}, fmt(totals.total)), ' ECTS'),
       totals.validated ? h('span', { class: 'col-sub num ok' }, `${fmt(totals.validated)} validés`) : null,
@@ -1279,7 +1313,9 @@ function priorColumn() {
     ),
     h('div', { class: 'col-body' }, list.length
       ? list.map(priorCard)
-      : h('p', { class: 'col-empty' }, 'Dépose ici les UE obtenues avant ce plan')),
+      : h('p', { class: 'col-empty' },
+        h('span', { class: 'mouse-only' }, 'Dépose ici les UE obtenues avant ce plan'),
+        h('span', { class: 'touch-only' }, 'Pour y mettre une UE obtenue avant ce plan, touche-la puis « Marquer comme déjà validée ».'))),
     h('footer', { class: 'col-foot' },
       h('span', { class: 'col-sum num' }, h('strong', {}, fmt(total)), ' ECTS'),
       list.length ? h('span', { class: 'col-sub num ok' }, plural(list.length, 'UE', 'UE')) : null,
@@ -1536,16 +1572,16 @@ function renderRecap() {
   const priorBody = prior.length ? h('tbody', { class: 'prior' },
     h('tr', { class: 'sem-row' },
       h('th', { scope: 'rowgroup', colspan: '2' }, 'Déjà validé'),
-      h('td', { class: 'num' }, fmt(priorEcts)),
-      h('td', { class: 'num' }, '—'),
-      h('td', { class: 'num ok' }, fmt(priorEcts)),
-      h('td', { class: 'num bad' }, '—'),
+      h('td', { class: 'num', 'data-label': 'ECTS validés avant le plan' }, fmt(priorEcts)),
+      h('td', { class: 'num', 'data-label': 'inscrits' }, '—'),
+      h('td', { class: 'num ok', 'data-label': 'validés' }, fmt(priorEcts)),
+      h('td', { class: 'num bad', 'data-label': 'échoués' }, '—'),
     ),
     prior.map((it) => h('tr', { class: 'ue-row s-validated' },
       h('td', {}, h('button', { class: 'row-code', onclick: () => openDialog(it.id), 'data-key': `rp-${it.id}` }, it.code)),
       h('td', { class: 'ue-title' }, it.title),
-      h('td', { class: 'num' }, fmt(it.ects)),
-      h('td', { colspan: '3' },
+      h('td', { class: 'num ue-ects', 'data-label': 'ECTS' }, fmt(it.ects)),
+      h('td', { colspan: '3', class: 'ue-status' },
         h('span', { class: 'prior-label' }, 'Validée avant le plan'),
         h('button', { class: 'btn btn-link', 'data-key': `rpu-${it.id}`, onclick: () => unmarkPrior(it.id) }, 'Retirer')),
     )),
@@ -1558,10 +1594,10 @@ function renderRecap() {
     return h('tbody', { class: sl.out ? 'out' : '' },
       h('tr', { class: 'sem-row' },
         h('th', { scope: 'rowgroup', colspan: '2' }, sl.label, sl.out ? h('span', { class: 'tag tag-warn' }, 'Hors période') : null),
-        h('td', { class: 'num' }, fmt(t.total)),
-        h('td', { class: 'num' }, fmt(t.enrolled)),
-        h('td', { class: 'num ok' }, fmt(t.validated)),
-        h('td', { class: 'num bad' }, t.failed ? fmt(t.failed) : '—'),
+        h('td', { class: 'num', 'data-label': 'ECTS prévus' }, fmt(t.total)),
+        h('td', { class: 'num', 'data-label': 'inscrits' }, fmt(t.enrolled)),
+        h('td', { class: 'num ok', 'data-label': 'validés' }, fmt(t.validated)),
+        h('td', { class: 'num bad', 'data-label': 'échoués' }, t.failed ? fmt(t.failed) : '—'),
       ),
       rows.length
         ? rows.map((p) => {
@@ -1570,8 +1606,8 @@ function renderRecap() {
           return h('tr', { class: `ue-row s-${p.status}` },
             h('td', {}, h('button', { class: 'row-code', onclick: () => openDialog(it.id), 'data-key': `rc-${p.id}-${sl.i}` }, it.code)),
             h('td', { class: 'ue-title' }, it.title, p.annual ? h('span', { class: 'tag' }, cont ? 'Annuel, suite' : 'Annuel') : null),
-            h('td', { class: 'num' }, fmt(p.annual ? it.ects / 2 : it.ects)),
-            h('td', { colspan: '3' }, cont
+            h('td', { class: 'num ue-ects', 'data-label': 'ECTS' }, fmt(p.annual ? it.ects / 2 : it.ects)),
+            h('td', { colspan: '3', class: 'ue-status' }, cont
               ? h('span', { class: 'muted' }, STATUS[p.status].label)
               : segmented(`rs-${p.id}`, statusOptions, p.status, (v) => setStatus(p.id, v))),
           );
@@ -1596,10 +1632,10 @@ function renderRecap() {
         bodies,
         h('tfoot', {}, h('tr', {},
           h('th', { scope: 'row', colspan: '2' }, 'Total planning'),
-          h('td', { class: 'num' }, fmt(grand.total)),
-          h('td', { class: 'num' }, fmt(grand.enrolled)),
-          h('td', { class: 'num ok' }, fmt(grand.validated)),
-          h('td', { class: 'num bad' }, grand.failed ? fmt(grand.failed) : '—'),
+          h('td', { class: 'num', 'data-label': 'ECTS prévus' }, fmt(grand.total)),
+          h('td', { class: 'num', 'data-label': 'inscrits' }, fmt(grand.enrolled)),
+          h('td', { class: 'num ok', 'data-label': 'validés' }, fmt(grand.validated)),
+          h('td', { class: 'num bad', 'data-label': 'échoués' }, grand.failed ? fmt(grand.failed) : '—'),
         )),
       ),
     ),
