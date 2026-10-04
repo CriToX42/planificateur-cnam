@@ -5,6 +5,7 @@ import * as store from './store.js';
 import * as sync from './sync.js';
 import { migrateState } from './migrate.js';
 import { search, normalize } from './search.js';
+import './theme.js';
 
 const app = document.getElementById('app');
 const dialog = document.getElementById('ue-dialog');

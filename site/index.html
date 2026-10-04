@@ -4,6 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Planificateur Cnam</title>
+  <meta name="theme-color" content="#f2f4f1">
+  <script>
+    // Thème choisi appliqué avant le premier affichage (sinon flash du thème par défaut).
+    try { const t = localStorage.getItem('planificateur-cnam:theme'); if (t && t !== 'auto') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='28' height='28' fill='%23fff' stroke='%231B2A4A' stroke-width='2'/%3E%3Cpath d='M9 22V10h5v12M18 22V14h5v8' fill='none' stroke='%232748C8' stroke-width='2.5'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,9 +19,27 @@
 <body>
   <header class="topbar">
     <a class="brand" href="#/">Planificateur Cnam</a>
-    <button id="sync-state" class="sync-state" type="button" aria-live="polite"></button>
+    <div class="topbar-actions">
+      <button id="sync-state" class="sync-state" type="button" aria-live="polite"></button>
+      <details class="theme-menu" id="theme-menu">
+        <summary aria-label="Changer de thème">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1.5a6.5 6.5 0 0 1 0 13z" fill="currentColor"/></svg>
+          <span id="theme-label">Thème</span>
+        </summary>
+        <fieldset class="theme-options">
+          <legend class="sr-only">Thème</legend>
+          <label><input type="radio" name="theme" value="auto"> Automatique <span class="swatch"><i style="background:#f2f4f1"></i><i style="background:#0e1626"></i></span></label>
+          <label><input type="radio" name="theme" value="light"> Clair <span class="swatch"><i style="background:#f2f4f1"></i><i style="background:#1b2a4a"></i><i style="background:#2748c8"></i></span></label>
+          <label><input type="radio" name="theme" value="dark"> Sombre <span class="swatch"><i style="background:#0e1626"></i><i style="background:#e3e8f3"></i><i style="background:#8aa2ff"></i></span></label>
+          <label><input type="radio" name="theme" value="cnam"> Cnam (rouge et blanc) <span class="swatch"><i style="background:#ffffff"></i><i style="background:#c1002a"></i><i style="background:#333333"></i></span></label>
+        </fieldset>
+      </details>
+    </div>
   </header>
   <main id="app"></main>
+  <footer class="site-foot">
+    <p>Outil créé par des élèves, sans lien officiel avec le Cnam. Les programmes sont relus chaque semaine sur cnam-paris.fr ; en cas de doute, la fiche du Cnam fait foi. <a href="https://github.com/CriToX42/planificateur-cnam">Code source et suggestions sur GitHub</a>.</p>
+  </footer>
   <dialog id="ue-dialog" aria-labelledby="ue-dialog-title"></dialog>
   <dialog id="sync-dialog" aria-label="Conflits de synchronisation"></dialog>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
