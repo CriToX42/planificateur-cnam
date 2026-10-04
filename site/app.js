@@ -601,6 +601,8 @@ const G = (id) => P.groups.get(id);
 
 function normalizeState(st) {
   st.selected ??= []; st.branches ??= []; st.placements ??= []; st.other ??= {}; st.overrides ??= {}; st.prior ??= [];
+  // « Autre » avait ses propres statuts (À faire / En cours / Validé) : mêmes statuts que les UE désormais.
+  for (const [id, v] of Object.entries(st.other)) if (v === 'todo') st.other[id] = 'planned';
 }
 
 async function openPlan(id) {
@@ -860,7 +862,13 @@ const STATUS = {
   failed: { label: 'Échouée', short: 'Échouée' },
 };
 const STATUS_CYCLE = { planned: 'enrolled', enrolled: 'validated', validated: 'planned' };
-const OTHER_STATUS = { todo: 'À faire', enrolled: 'En cours', validated: 'Validé' };
+const STATUS_LABELS = Object.fromEntries(Object.entries(STATUS).map(([k, v]) => [k, v.label]));
+const otherStatus = (itemId) => S().other[itemId] || 'planned';
+
+function setOtherStatus(itemId, status) {
+  S().other[itemId] = status;
+  commit();
+}
 
 // Crédits par colonne, ventilés par statut. Une UE annuelle compte pour moitié sur chaque semestre.
 function slotTotals(i) {
@@ -879,8 +887,8 @@ function progress() {
   for (const p of visiblePlacements()) if (p.status !== 'failed') r[p.status] += I(p.item).ects;
   for (const it of visiblePrior()) r.validated += it.ects;
   for (const it of otherItems()) {
-    const s = S().other[it.id] || 'todo';
-    if (s !== 'todo') r[s] += it.ects;
+    const s = otherStatus(it.id);
+    if (s !== 'failed') r[s] += it.ects;
   }
   return r;
 }
@@ -1081,7 +1089,7 @@ function availabilityTags(it) {
 
 function whereLabel(it) {
   if (!isActive(it)) return '';
-  if (!hasOffer(it)) return OTHER_STATUS[S().other[it.id] || 'todo'];
+  if (!hasOffer(it)) return STATUS[otherStatus(it.id)].label;
   if (isPrior(it.id)) return 'Déjà validée';
   const p = liveOf(it.id);
   if (!p) return 'À placer';
@@ -1419,12 +1427,12 @@ function renderOtherPanel() {
 }
 
 function otherRow(it) {
-  const cur = S().other[it.id] || 'todo';
+  const cur = otherStatus(it.id);
   return h('div', { class: `other-row os-${cur}` },
     h('button', { class: 'row-code', onclick: () => openDialog(it.id), 'data-key': `oc-${it.id}` }, it.code || '—'),
     h('span', { class: 'row-title' }, it.title, yearTag(it.year) ? h('span', { class: 'tag' }, yearTag(it.year)) : null),
     h('span', { class: 'row-ects num' }, it.ects ? `${it.ects} ECTS` : '—'),
-    segmented(`o-${it.id}`, OTHER_STATUS, cur, (v) => { S().other[it.id] = v; commit(); }),
+    segmented(`o-${it.id}`, STATUS_LABELS, cur, (v) => setOtherStatus(it.id, v)),
   );
 }
 
@@ -1504,7 +1512,7 @@ function renderDialog(itemId) {
       annualButtons.length ? [h('h3', {}, 'Sur une année complète'), h('div', { class: 'slot-grid' }, annualButtons)] : null,
       live ? [
         h('h3', {}, 'Statut'),
-        segmented(`dst-${live.id}`, Object.fromEntries(Object.entries(STATUS).map(([k, v]) => [k, v.label])), live.status, (v) => setStatus(live.id, v)),
+        segmented(`dst-${live.id}`, STATUS_LABELS, live.status, (v) => setStatus(live.id, v)),
       ] : null,
       isPrior(it.id) ? [
         h('h3', {}, 'Statut'),
@@ -1529,7 +1537,7 @@ function renderDialog(itemId) {
       h('p', { class: 'muted' }, isOverridden(it)
         ? 'Aucun semestre retenu : cet élément se valide hors planning.'
         : 'Aucun semestre indiqué sur la fiche : cet élément se valide hors planning.'),
-      segmented(`dos-${it.id}`, OTHER_STATUS, S().other[it.id] || 'todo', (v) => { S().other[it.id] = v; commit(); }),
+      segmented(`dos-${it.id}`, STATUS_LABELS, otherStatus(it.id), (v) => setOtherStatus(it.id, v)),
     );
   } else {
     placement = h('p', { class: 'muted dlg-section' }, group?.kind === 'choice'
@@ -1562,7 +1570,7 @@ function renderDialog(itemId) {
 function renderRecap() {
   const slots = slotList();
   const all = visiblePlacements();
-  const statusOptions = Object.fromEntries(Object.entries(STATUS).map(([k, v]) => [k, v.label]));
+  const statusOptions = STATUS_LABELS;
   const grand = { planned: 0, enrolled: 0, validated: 0, failed: 0, total: 0 };
 
   const prior = visiblePrior();
@@ -1641,7 +1649,7 @@ function renderRecap() {
     ),
     others.length ? h('section', { class: 'other' },
       h('header', { class: 'other-head' }, h('h2', {}, 'Autre'),
-        h('p', { class: 'muted' }, `${fmt(others.filter((it) => S().other[it.id] === 'validated').reduce((a, it) => a + it.ects, 0))} ECTS validés sur ${fmt(others.reduce((a, it) => a + it.ects, 0))}`)),
+        h('p', { class: 'muted' }, `${fmt(others.filter((it) => otherStatus(it.id) === 'validated').reduce((a, it) => a + it.ects, 0))} ECTS validés sur ${fmt(others.reduce((a, it) => a + it.ects, 0))}`)),
       h('div', { class: 'other-list' }, others.map(otherRow)),
     ) : null,
   );

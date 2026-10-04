@@ -20,7 +20,7 @@ Dans un plan :
 - **Déjà validé** : première colonne du planning, pour les UE obtenues avant le plan. Elles comptent comme validées sans occuper de semestre.
 - **Correction des semestres** : si la fiche du Cnam n'est pas à jour, ouvre une UE et coche ses semestres réels. La correction vaut pour ce plan, est marquée « corrigé » et se retrouve dans Réglages.
 - **Statuts** : Planifiée, Inscrite, Validée, Échouée. Une UE échouée reste dans l'historique de son semestre et revient dans « À placer ».
-- **Autre** : éléments sans semestre sur la fiche (expérience professionnelle, mémoire, test d'anglais, UE non ouvertes). Ils sont hors planning, mais leurs crédits validés comptent dans la progression.
+- **Autre** : éléments sans semestre sur la fiche (expérience professionnelle, mémoire, test d'anglais, UE non ouvertes). Ils sont hors planning mais ont les mêmes statuts que les UE (Planifiée, Inscrite, Validée, Échouée) et comptent de la même façon dans la progression.
 
 ## Fonctionnement du dépôt
 

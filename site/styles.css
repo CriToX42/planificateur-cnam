@@ -593,6 +593,7 @@ details.group[open] > .group-head::before { transform: rotate(90deg); }
   padding: 8px; border-bottom: 1px solid var(--hair);
 }
 .other-row.os-validated { background: var(--green-wash); }
+.other-row.os-failed .row-title { color: var(--ink-2); text-decoration: line-through; text-decoration-color: var(--red); }
 
 .seg { display: inline-flex; border: 1.5px solid var(--ink-2); border-radius: 3px; overflow: hidden; }
 .seg-btn {
@@ -605,7 +606,7 @@ details.group[open] > .group-head::before { transform: rotate(90deg); }
 .seg-btn.seg-enrolled[aria-checked="true"] { background: var(--blue); }
 .seg-btn.seg-validated[aria-checked="true"] { background: var(--green); }
 .seg-btn.seg-failed[aria-checked="true"] { background: var(--red); }
-.seg-btn.seg-planned[aria-checked="true"], .seg-btn.seg-todo[aria-checked="true"] { background: var(--pencil); }
+.seg-btn.seg-planned[aria-checked="true"] { background: var(--pencil); }
 
 /* ------------------------------------------------------------ Récapitulatif */
 
