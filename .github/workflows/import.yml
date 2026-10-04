@@ -48,7 +48,11 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Maquette ${{ steps.import.outputs.diploma }}, version ${{ steps.import.outputs.version }}"
+          if [ "${{ steps.import.outputs.changed }}" = "true" ]; then
+            git commit -m "Maquette ${{ steps.import.outputs.diploma }}, version ${{ steps.import.outputs.version }}"
+          else
+            git commit -m "Maquette ${{ steps.import.outputs.diploma }} vérifiée, programme inchangé"
+          fi
           git pull --rebase
           git push
           gh workflow run pages.yml --ref main
