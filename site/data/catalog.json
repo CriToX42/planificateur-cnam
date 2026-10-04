@@ -16,6 +16,22 @@
    "code": "CYC9106A-PAR",
    "total_credits": 180,
    "checked_at": "2026-10-04T15:44:11"
+  },
+  {
+   "id": "1486888",
+   "key": "www.cnam-paris.fr:1486888",
+   "versions": [
+    {
+     "version": "20261004",
+     "fetched_at": "2026-10-04T19:45:07",
+     "hash": "b0f24f86f61ccc115978011946cc86ff9ed79257c897c3a1c39ad785d9be834e"
+    }
+   ],
+   "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-informatique-parcours-informatique-generale-1486888.kjsp",
+   "title": "Licence informatique Parcours Informatique générale",
+   "code": "LG02501A-PAR",
+   "total_credits": 180,
+   "checked_at": "2026-10-04T19:45:07"
   }
  ]
 }
