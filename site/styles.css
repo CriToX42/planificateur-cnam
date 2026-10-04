@@ -191,7 +191,17 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--blue); width: 
 }
 .intake input[type="search"]:focus { border-color: var(--blue); outline: none; box-shadow: 0 0 0 3px var(--blue-wash); }
 .results-note { margin: 12px 0 0; font-size: 14px; max-width: 70ch; }
-.dip-list { list-style: none; margin: 14px 0 0; padding: 0; border: 1.5px solid var(--rule); background: var(--sheet); }
+.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; margin-top: 12px; }
+.filter { display: flex; flex-direction: column; gap: 4px; flex: 1 1 220px; font-size: 13px; font-weight: 600; }
+.filter select { min-height: 40px; }
+.results-count { margin: 14px 0 0; font-size: 13px; }
+.dip-list { max-height: 460px; overflow-y: auto; }
+.dip-retired .dip-title { color: var(--ink-2); }
+.dip-flags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
+.dip-flags .tag { margin-left: 0; }
+.tag-nosem { border-style: dashed; }
+.field-version select { max-width: 360px; }
+.dip-list { list-style: none; margin: 8px 0 0; padding: 0; border: 1.5px solid var(--rule); background: var(--sheet); }
 .dip-row { display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; padding: 12px 14px; border-bottom: 1px solid var(--hair); }
 .dip-row:last-child { border-bottom: 0; }
 .dip-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }

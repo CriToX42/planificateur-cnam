@@ -2,15 +2,16 @@
 
 Répartit les UE d'un diplôme du Cnam Paris sur tes semestres, et suit ce qui est planifié, ce à quoi tu es inscrit et ce qui est validé.
 
-Le site est statique et publié sur GitHub Pages. Les programmes des diplômes sont lus sur le site du Cnam par des GitHub Actions et publiés en JSON avec le site. Les plans de chaque élève restent dans son navigateur, avec une synchronisation optionnelle vers un Gist secret de son compte GitHub.
+Le site est statique et publié sur GitHub Pages. Chaque lundi, une GitHub Action parcourt le sitemap du Cnam Paris, découvre toutes les fiches diplôme (licences, masters, DEUST, diplômes d'ingénieur, titres RNCP, certificats, doctorats…), relit leur programme et le publie en JSON avec le site. Les plans de chaque élève restent dans son navigateur, avec une synchronisation optionnelle vers un Gist secret de son compte GitHub.
 
 ## Utiliser le site
 
-- **Créer un plan** : choisis un diplôme dans la liste, puis ses années, la rentrée et la durée.
-- **Ajouter un diplôme absent de la liste** : colle l'adresse de sa fiche cnam-paris.fr dans le champ de recherche, puis « Demander l'ajout sur GitHub ». Une issue est ouverte, une Action lit la fiche, publie la maquette, répond dans l'issue et la ferme. Le site est mis à jour une à deux minutes plus tard.
+- **Créer un plan** : cherche ton diplôme (texte, type, niveau de sortie), puis choisis ses années, la rentrée et la durée. La dernière maquette est proposée, les anciennes restent accessibles dans un menu déroulant.
+- **Mentions** : « semestres non indiqués par le Cnam » quand la fiche ne donne aucun semestre (on corrige alors les semestres à la main dans le plan), « plus proposée » quand la formation a disparu du site du Cnam (elle reste planifiable).
+- **Diplôme absent de la liste** (fiche hors du sitemap, nouveauté pas encore vue) : colle l'adresse de sa fiche dans le champ de recherche, puis « Demander l'ajout sur GitHub ». Une issue est ouverte, une Action lit la fiche, publie la maquette, répond dans l'issue et la ferme.
 - **Sauvegarder ou changer d'appareil** : « Exporter » télécharge tes plans en JSON, « Importer un fichier » les ajoute sans jamais écraser un plan existant.
 - **Synchroniser** : crée un jeton GitHub avec la seule permission `gist`, puis colle-le dans la section de synchronisation de l'accueil. Les plans sont envoyés après chaque modification et récupérés à l'ouverture. Si un plan a changé sur deux appareils, le site demande quelle version garder.
-- **Nouvelle maquette** : chaque lundi, une Action relit les fiches. Si un programme a changé, une nouvelle version datée est publiée. Les plans existants restent sur leur version, et un bandeau propose d'en faire une copie reportée sur la nouvelle maquette (par code d'UE). Les UE disparues sont signalées.
+- **Nouvelle maquette** : si un programme a changé lors de la relecture du lundi, une nouvelle version datée est publiée. Les plans existants restent sur leur version, et un bandeau propose d'en faire une copie reportée sur la nouvelle maquette (par code d'UE). Les UE disparues sont signalées.
 
 Dans un plan :
 
@@ -30,18 +31,24 @@ site/                       le site publié tel quel sur GitHub Pages
   sync.js                   synchronisation avec un Gist, détection des conflits
   migrate.js                report d'un plan sur une nouvelle maquette
   data/catalog.json         diplômes publiés et leurs versions
-  data/maquettes/<id>/<version>.json
+  data/maquettes/<code>/<version>.json
 cnam/                       lecture des fiches (Python), lancée par les Actions
-  scraper.py                analyse de la fiche diplôme (div.schema)
-  catalog.py                versions datées YYYYMMDD, créées seulement si le programme change
-  __main__.py               python -m cnam import | refresh
+  scraper.py                analyse d'une fiche diplôme (div.schema), classement des pages
+  catalog.py                diplômes identifiés par leur code ; versions YYYYMMDD créées seulement si le programme change
+  crawl.py                  découverte par le sitemap, relecture, formations retirées
+  __main__.py               python -m cnam import | crawl
+crawl/index.json            classement des pages déjà vues (diplôme, UE, autre), non publié
 .github/workflows/
   pages.yml                 tests puis publication sur Pages, à chaque push sur main
   import.yml                import à l'ouverture d'une issue « Ajouter un diplôme », ou à la main
-  refresh.yml               relecture de tous les diplômes chaque lundi
+  crawl.yml                 découverte et relecture de tous les diplômes chaque lundi
 ```
 
-Les commits faits par une Action ne relancent pas les autres workflows : `import.yml` et `refresh.yml` déclenchent donc eux-mêmes `pages.yml` après avoir enregistré les données. La relecture hebdomadaire commite au moins la date de vérification, ce qui évite que GitHub désactive la tâche planifiée après 60 jours sans activité.
+Un diplôme est identifié par son code (`CYC9106A-PAR`) et non par son adresse, qui peut changer : une nouvelle adresse met à jour la fiche existante. Les anciens identifiants restent des alias, et les plans qui les utilisent sont convertis à l'ouverture.
+
+Le sitemap est la source autorisée par le `robots.txt` du Cnam (qui interdit `/servlet/`). Ses dates de modification sont identiques pour toutes les pages, donc les fiches diplôme sont relues chaque semaine (environ 340 requêtes, une par seconde). Les pages d'UE ne sont lues qu'une fois, pour les classer. Un diplôme n'est marqué « plus proposé » que s'il disparaît du sitemap, jamais à cause d'une erreur de lecture.
+
+Les commits faits par une Action ne relancent pas les autres workflows : `import.yml` et `crawl.yml` déclenchent donc eux-mêmes `pages.yml` après avoir enregistré les données. La relecture hebdomadaire commite au moins la date de vérification, ce qui évite que GitHub désactive la tâche planifiée après 60 jours sans activité.
 
 ## Développement
 
@@ -51,6 +58,10 @@ uv run pytest
 
 ```bash
 uv run python -m cnam import --url "https://www.cnam-paris.fr/…kjsp"
+```
+
+```bash
+uv run python -m cnam crawl --limit 20
 ```
 
 Pour voir le site en local, au choix :

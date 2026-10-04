@@ -205,7 +205,20 @@ function openConflicts() {
 
 // ================================================================= ACCUEIL
 
-const home = { open: false, catalog: null, error: null, query: '', draft: null, tokenBusy: false };
+const home = { open: false, catalog: null, error: null, query: '', type: '', level: '', draft: null, tokenBusy: false };
+
+// Un diplôme est identifié par son code ; ses anciens identifiants restent valables (alias).
+const findDiploma = (catalog, id) => catalog?.diplomas.find((d) => d.id === id || d.aliases?.includes(id)) ?? null;
+
+function canonicalizePlans(catalog) {
+  for (const plan of store.listPlans()) {
+    const d = findDiploma(catalog, plan.diploma);
+    if (d && d.id !== plan.diploma) {
+      plan.diploma = d.id;
+      store.savePlan(plan);
+    }
+  }
+}
 
 async function openHome({ preselect, focusSync } = {}) {
   P = null;
@@ -214,10 +227,11 @@ async function openHome({ preselect, focusSync } = {}) {
   try {
     home.catalog = await store.loadCatalog({ refresh: true });
     home.error = null;
+    canonicalizePlans(home.catalog);
   } catch (e) {
     home.error = `${e.message} Recharge la page dans un instant.`;
   }
-  const target = preselect && home.catalog?.diplomas.find((d) => d.id === preselect);
+  const target = preselect && findDiploma(home.catalog, preselect);
   if (target) await startDraft(target);
   else if (preselect && home.catalog) toast('Ce diplôme n’est pas encore publié : la mise en ligne prend une à deux minutes. Recharge la page.', 'error');
   paint(renderHome);
@@ -273,11 +287,37 @@ function renderHome() {
         placeholder: 'Rechercher un diplôme, ou coller l’adresse de sa fiche',
         oninput: (ev) => { home.query = ev.target.value; paint(renderHome); },
       }),
+      renderFilters(),
       renderResults(),
     ),
     home.draft && renderDraft(),
     renderPlanList(),
     renderSyncPanel(),
+  );
+}
+
+const LEVEL_ORDER = (label) => {
+  const m = label.match(/Niveau (\d+)/);
+  return m ? Number(m[1]) : 99;
+};
+
+function renderFilters() {
+  if (!home.catalog?.diplomas.length || /^https?:\/\//i.test(home.query.trim())) return null;
+  const count = (key) => {
+    const c = new Map();
+    for (const d of home.catalog.diplomas) if (d[key]) c.set(d[key], (c.get(d[key]) || 0) + 1);
+    return c;
+  };
+  const types = [...count('type')].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const levels = [...count('level_out')].sort((a, b) => LEVEL_ORDER(a[0]) - LEVEL_ORDER(b[0]) || a[0].localeCompare(b[0]));
+  const select = (key, label, entries, all) => h('label', { class: 'filter' },
+    h('span', {}, label),
+    h('select', { value: home[key], 'data-key': `f-${key}`, onchange: (ev) => { home[key] = ev.target.value; paint(renderHome); } },
+      h('option', { value: '' }, all),
+      entries.map(([v, n]) => h('option', { value: v }, `${v} (${n})`))));
+  return h('div', { class: 'filters' },
+    select('type', 'Type', types, 'Tous les types'),
+    select('level', 'Niveau de sortie', levels, 'Tous les niveaux'),
   );
 }
 
@@ -296,18 +336,28 @@ function renderResults() {
     return hit ? diplomaList([hit]) : requestBlock(parsed.href);
   }
 
-  const list = q ? diplomas.filter((d) => norm(`${d.title} ${d.code ?? ''}`).includes(norm(q))) : diplomas;
+  const list = diplomas
+    .filter((d) => !q || norm(`${d.title} ${d.code ?? ''}`).includes(norm(q)))
+    .filter((d) => !home.type || d.type === home.type)
+    .filter((d) => !home.level || d.level_out === home.level)
+    .sort((a, b) => Number(Boolean(a.retired)) - Number(Boolean(b.retired)) || a.title.localeCompare(b.title, 'fr'));
+  const filtered = q || home.type || home.level;
   return [
+    h('p', { class: 'muted results-count' }, filtered ? `${plural(list.length, 'diplôme correspond', 'diplômes correspondent')} sur ${diplomas.length}` : `${plural(diplomas.length, 'diplôme', 'diplômes')} du Cnam Paris`),
     list.length ? diplomaList(list) : h('p', { class: 'muted results-note' }, 'Aucun diplôme ne correspond à cette recherche.'),
     h('p', { class: 'muted results-note' }, 'Ton diplôme n’est pas dans la liste ? Colle l’adresse de sa fiche sur cnam-paris.fr dans le champ ci-dessus pour demander son ajout.'),
   ];
 }
 
 function diplomaList(list) {
-  return h('ul', { class: 'dip-list' }, list.map((d) => h('li', { class: 'dip-row' },
+  return h('ul', { class: 'dip-list', 'data-scroll': 'diplomas' }, list.map((d) => h('li', { class: `dip-row ${d.retired ? 'dip-retired' : ''}` },
     h('div', { class: 'dip-text' },
       h('span', { class: 'dip-title' }, d.title),
-      h('span', { class: 'muted' }, [d.code, d.total_credits && `${d.total_credits} ECTS`, `programme vérifié le ${dateFr(d.checked_at)}`].filter(Boolean).join(', ')),
+      h('span', { class: 'muted' }, [d.type, d.level_out, d.total_credits && `${d.total_credits} ECTS`, d.code].filter(Boolean).join(', ')),
+      (d.retired || d.has_semesters === false) ? h('span', { class: 'dip-flags' },
+        d.retired ? h('span', { class: 'tag tag-warn' }, 'plus proposée') : null,
+        d.has_semesters === false ? h('span', { class: 'tag tag-nosem' }, 'semestres non indiqués par le Cnam') : null,
+      ) : null,
     ),
     h('button', {
       class: 'btn btn-quiet', 'data-key': `dip-${d.id}`,
@@ -348,16 +398,14 @@ function renderDraft() {
       h('h2', { id: 'draft-title' }, d.diploma.title),
       h('p', { class: 'muted' }, [d.diploma.code, d.data.total_credits && `${d.data.total_credits} ECTS`].filter(Boolean).join(', ')),
     ),
-    d.diploma.versions.length > 1 ? h('fieldset', { class: 'field' },
-      h('legend', {}, 'Version du programme'),
-      h('div', { class: 'versions' },
-        d.diploma.versions.map((v, i) => h('label', { class: 'version' },
-          h('input', { type: 'radio', name: 'maquette', checked: v.version === d.version, onchange: () => pickVersion(v.version), 'data-key': `v${v.version}` }),
-          h('span', { class: 'version-id' }, v.version),
-          h('span', { class: 'muted' }, i === 0 ? 'la plus récente' : `récupérée le ${dateFr(v.fetched_at)}`),
-        )),
-      ),
-    ) : h('p', { class: 'draft-note' }, `Programme du ${dateFr(d.diploma.versions[0].fetched_at)} (version ${d.version}).`),
+    d.diploma.retired ? h('p', { class: 'notice' }, `Cette formation n’est plus proposée par le Cnam Paris${d.diploma.retired_at ? ` depuis le ${dateFr(d.diploma.retired_at)}` : ''}. Tu peux quand même planifier sa dernière maquette.`) : null,
+    d.diploma.has_semesters === false ? h('p', { class: 'notice' }, 'La fiche du Cnam n’indique aucun semestre pour ce diplôme : ses UE iront dans « Autre ». Dans le plan, ouvre une UE pour cocher ses semestres réels.') : null,
+    d.diploma.versions.length > 1
+      ? h('label', { class: 'field field-version' }, h('span', {}, 'Version du programme'),
+        h('select', { value: d.version, 'data-key': 'ver', onchange: (ev) => pickVersion(ev.target.value) },
+          d.diploma.versions.map((v, i) => h('option', { value: v.version },
+            i === 0 ? `${v.version}, la plus récente` : `${v.version}, du ${dateFr(v.fetched_at)}`))))
+      : h('p', { class: 'draft-note' }, `Programme du ${dateFr(d.diploma.versions[0].fetched_at)} (version ${d.version}).`),
     h('fieldset', { class: 'field' },
       h('legend', {}, 'Années du programme à inclure'),
       h('div', { class: 'chips' },
@@ -420,7 +468,7 @@ function renderPlanList() {
     if (!byDiploma.has(p.diploma)) byDiploma.set(p.diploma, []);
     byDiploma.get(p.diploma).push(p);
   }
-  const catalogEntry = (id) => home.catalog?.diplomas.find((d) => d.id === id);
+  const catalogEntry = (id) => findDiploma(home.catalog, id);
   return h('section', { class: 'plans', 'aria-labelledby': 'plans-title' },
     h('header', { class: 'plans-head' },
       h('h2', { id: 'plans-title' }, 'Mes plans'),
@@ -533,11 +581,13 @@ async function openPlan(id) {
     return;
   }
   try {
-    const [data, catalog] = await Promise.all([
-      store.loadMaquette(plan.diploma, plan.version),
-      store.loadCatalog().catch(() => null),
-    ]);
-    const diploma = catalog?.diplomas.find((d) => d.id === plan.diploma) ?? null;
+    const catalog = await store.loadCatalog().catch(() => null);
+    const diploma = findDiploma(catalog, plan.diploma);
+    if (diploma && diploma.id !== plan.diploma) {
+      plan.diploma = diploma.id; // ancien identifiant (numéro de page) : on passe au code du diplôme
+      store.savePlan(plan);
+    }
+    const data = await store.loadMaquette(plan.diploma, plan.version);
     normalizeState(plan.state);
     P = {
       plan, data, diploma,
@@ -582,6 +632,9 @@ async function migrateToLatest(latest) {
 
 function renderPlanNotices() {
   const notices = [];
+  if (P.diploma?.retired) {
+    notices.push(h('div', { class: 'notice' }, h('span', {}, 'Cette formation n’est plus proposée par le Cnam Paris. Ton plan reste utilisable.')));
+  }
   const latest = P.diploma?.versions[0];
   if (latest && latest.version !== P.plan.version) {
     notices.push(h('div', { class: 'notice' },

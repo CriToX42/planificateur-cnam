@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 from dataclasses import dataclass, field
 from urllib.parse import urljoin, urlsplit, urlunsplit
@@ -25,7 +26,23 @@ from bs4 import BeautifulSoup, Tag
 
 ALLOWED_HOST_SUFFIXES = ("cnam-paris.fr", "cnam.fr")
 BASE_URL = "https://www.cnam-paris.fr"
-USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) cnam-planner/0.1"
+REPO = os.environ.get("GITHUB_REPOSITORY", "CriToX42/planificateur-cnam")
+USER_AGENT = f"Mozilla/5.0 (compatible; planificateur-cnam/0.3; +https://github.com/{REPO})"
+
+# Type de formation déduit du début de l'intitulé, dans l'ordre (le plus précis d'abord).
+DIPLOMA_TYPES = [
+    (r"^licence professionnelle", "Licence professionnelle"),
+    (r"^licence", "Licence"),
+    (r"^mast[eè]re", "Mastère spécialisé"),
+    (r"^master", "Master"),
+    (r"^deust", "DEUST"),
+    (r"^doctorat", "Doctorat"),
+    (r"^dipl[ôo]me d'ing[ée]nieur", "Diplôme d'ingénieur"),
+    (r"^titre rncp|^titre ", "Titre RNCP"),
+    (r"^certificat|^certification", "Certificat"),
+    (r"^bachelor", "Bachelor"),
+    (r"^dipl[ôo]me|^dpct|^dut|^but", "Diplôme d'établissement"),
+]
 
 SEMESTER_PREFIXES = {
     "1er semestre": ["S1"],
@@ -216,6 +233,27 @@ def _year_label(raw: str) -> str:
     return re.sub(r"\b(\d+)eme\b", r"\1e", label, flags=re.I)
 
 
+def diploma_type(title: str) -> str:
+    low = title.strip().lower()
+    return next((label for pattern, label in DIPLOMA_TYPES if re.search(pattern, low)), "Autre")
+
+
+def _diploma_code(soup: BeautifulSoup) -> str | None:
+    m = re.search(r"Code dipl[ôo]me/certificat\s*:\s*([A-Z0-9-]+)", soup.get_text(" "))
+    return m.group(1) if m else None
+
+
+def classify(html: str) -> tuple[str, str | None]:
+    """Nature d'une page de formation : 'diplome', 'sans-programme', 'ue' ou 'autre', avec son code."""
+    soup = BeautifulSoup(_fix_c1(html), "lxml")
+    code = _diploma_code(soup)
+    if code:
+        has_program = bool(soup.select("div.schema div.ue"))
+        return ("diplome" if has_program else "sans-programme"), code
+    m = re.search(r"Code UE\s*:\s*([A-Z0-9-]+)", soup.get_text(" "))
+    return ("ue", m.group(1)) if m else ("autre", None)
+
+
 def parse_program(html: str, url: str) -> dict:
     soup = BeautifulSoup(_fix_c1(html), "lxml")
     schema = soup.select_one("div.schema")
@@ -223,9 +261,9 @@ def parse_program(html: str, url: str) -> dict:
         raise ScrapeError("Aucun programme trouvé sur cette page. Vérifie qu'il s'agit bien d'une fiche diplôme.")
 
     title = _text(soup.select_one("h1")) or "Diplôme sans titre"
-    code = None
-    if m := re.search(r"Code dipl[ôo]me/certificat\s*:\s*([A-Z0-9-]+)", soup.get_text(" ")):
-        code = m.group(1)
+    code = _diploma_code(soup)
+    level_in = _text(soup.select_one(".encadre_contenu__niveau-entree")) or None
+    level_out = _text(soup.select_one(".encadre_contenu__niveau-sortie")) or None
     badge = soup.select_one(".badge--credit")
     total_credits = int(_text(badge)) if badge and _text(badge).isdigit() else None
 
@@ -266,11 +304,13 @@ def parse_program(html: str, url: str) -> dict:
         "groups": b.groups,
         "items": b.items,
         "modalities": sorted(modalities),
+        # Hors empreinte : ne doit pas créer de nouvelle version à lui seul.
+        "meta": {"type": diploma_type(title), "level_in": level_in, "level_out": level_out},
     }
 
 
 def content_hash(program: dict) -> str:
-    stable = {k: v for k, v in program.items() if k != "url"}
+    stable = {k: v for k, v in program.items() if k not in ("url", "meta")}
     return hashlib.sha256(json.dumps(stable, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
 
 

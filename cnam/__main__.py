@@ -2,7 +2,7 @@
 
     python -m cnam import --url URL [--comment FICHIER]
     python -m cnam import --issue-body-env VARIABLE [--comment FICHIER]
-    python -m cnam refresh [--summary FICHIER]
+    python -m cnam crawl [--no-discovery] [--delay SECONDES] [--limit N] [--summary FICHIER]
 
 Les résultats sont aussi écrits dans $GITHUB_OUTPUT (changed, ok) pour les étapes suivantes.
 """
@@ -16,6 +16,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from . import crawl
 from .catalog import DATA_DIR, Catalog
 from .scraper import ScrapeError, normalize_url
 
@@ -90,23 +91,14 @@ def cmd_import(args: argparse.Namespace) -> int:
     return 0
 
 
-def cmd_refresh(args: argparse.Namespace) -> int:
+def cmd_crawl(args: argparse.Namespace) -> int:
     catalog = open_catalog(args.root)
-    rows, changed = [], False
-    for entry in list(catalog.diplomas):
-        try:
-            result = catalog.import_url(entry["url"], datetime.now())
-        except ScrapeError as exc:
-            rows.append(f"| {entry['title']} | erreur : {exc} |")
-            continue
-        changed |= result.created
-        status = f"nouvelle version {result.version}" if result.created else f"inchangé ({result.version})"
-        rows.append(f"| {result.title} | {status} |")
-    catalog.save()
-    summary = "\n".join(["| Diplôme | Résultat |", "| --- | --- |", *rows]) if rows else "Aucun diplôme dans le catalogue."
-    print(summary)
-    write(args.summary or os.environ.get("GITHUB_STEP_SUMMARY"), summary)
-    set_output(changed=changed)
+    crawler = crawl.Crawler(catalog, index_path=args.index, delay=args.delay)
+    report = crawler.run(discover=not args.no_discovery, limit=args.limit)
+    text = crawl.summary(report, catalog)
+    print(text)
+    write(args.summary or os.environ.get("GITHUB_STEP_SUMMARY"), text)
+    set_output(changed=bool(report["new"] or report["versions"] or report["retired"] or report["restored"]))
     return 0
 
 
@@ -128,9 +120,13 @@ def main(argv: list[str] | None = None) -> int:
     imp.add_argument("--comment", help="fichier où écrire la réponse à publier")
     imp.set_defaults(func=cmd_import)
 
-    ref = sub.add_parser("refresh", help="relire tous les diplômes du catalogue")
-    ref.add_argument("--summary", help="fichier où écrire le tableau récapitulatif")
-    ref.set_defaults(func=cmd_refresh)
+    crw = sub.add_parser("crawl", help="découvrir les diplômes du sitemap et relire ceux du catalogue")
+    crw.add_argument("--index", type=Path, default=crawl.INDEX_PATH, help="classement des pages déjà vues")
+    crw.add_argument("--no-discovery", action="store_true", help="relire seulement les diplômes déjà connus")
+    crw.add_argument("--delay", type=float, default=1.0, help="pause entre deux requêtes (secondes)")
+    crw.add_argument("--limit", type=int, help="nombre maximal de pages lues (essai)")
+    crw.add_argument("--summary", help="fichier où écrire le récapitulatif")
+    crw.set_defaults(func=cmd_crawl)
 
     args = parser.parse_args(argv)
     return args.func(args)

@@ -1,4 +1,4 @@
-name: Relire les diplômes
+name: Découvrir et relire les diplômes
 
 on:
   schedule:
@@ -14,8 +14,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 120 # premier passage : ~1 500 pages à 1 requête par seconde
     env:
       TZ: Europe/Paris
       GH_TOKEN: ${{ github.token }}
@@ -23,17 +24,18 @@ jobs:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v10.2.0
 
-      - name: Relire chaque fiche et créer une version si le programme a changé
-        run: uv run --no-dev python -m cnam refresh
+      - name: Lire le sitemap, classer les nouvelles pages, relire les fiches diplôme
+        run: uv run --no-dev python -m cnam crawl
 
-      # Le commit hebdomadaire (au moins la date de vérification) garde aussi la tâche planifiée active.
+      # Le commit hebdomadaire (au moins les dates de vérification) garde aussi la tâche planifiée active.
       - name: Enregistrer et republier
         run: |
-          git add site/data
+          git add site/data crawl
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Relecture hebdomadaire des diplômes"
+          NEW=$(git diff --cached --name-only --diff-filter=A -- site/data/maquettes | wc -l)
+          git commit -m "Diplômes du Cnam Paris : $NEW nouvelle(s) maquette(s)"
           git pull --rebase
           git push
           gh workflow run pages.yml --ref main
