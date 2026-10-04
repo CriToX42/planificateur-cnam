@@ -4,6 +4,7 @@
 import * as store from './store.js';
 import * as sync from './sync.js';
 import { migrateState } from './migrate.js';
+import { search, normalize } from './search.js';
 
 const app = document.getElementById('app');
 const dialog = document.getElementById('ue-dialog');
@@ -51,7 +52,6 @@ const shortModality = (m) => {
 const plural = (n, one, many) => `${n} ${n > 1 ? many : one}`;
 const dateFr = (iso) => new Date(iso).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
 const dateTimeFr = (iso) => new Date(iso).toLocaleString('fr-FR', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
-const norm = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 
 function currentAcademicYear() {
   const d = new Date();
@@ -333,14 +333,18 @@ function renderResults() {
       return h('p', { class: 'form-error' }, 'Seules les fiches diplôme du Cnam (cnam-paris.fr, cnam.fr) peuvent être ajoutées.');
     }
     const hit = diplomas.find((d) => d.key === parsed.key);
-    return hit ? diplomaList([hit]) : requestBlock(parsed.href);
+    return hit ? diplomaList([{ diploma: hit, hits: new Set() }]) : requestBlock(parsed.href);
   }
 
-  const list = diplomas
-    .filter((d) => !q || norm(`${d.title} ${d.code ?? ''}`).includes(norm(q)))
+  const pool = diplomas
     .filter((d) => !home.type || d.type === home.type)
-    .filter((d) => !home.level || d.level_out === home.level)
-    .sort((a, b) => Number(Boolean(a.retired)) - Number(Boolean(b.retired)) || a.title.localeCompare(b.title, 'fr'));
+    .filter((d) => !home.level || d.level_out === home.level);
+  // Avec une recherche : du plus pertinent au moins pertinent ; sinon par ordre alphabétique.
+  const ranked = q ? search(pool, q) : pool.map((diploma) => ({ diploma, score: 0, hits: new Set() }));
+  const list = ranked
+    .map((r, i) => ({ ...r, i }))
+    .sort((a, b) => Number(Boolean(a.diploma.retired)) - Number(Boolean(b.diploma.retired))
+      || (q ? a.i - b.i : a.diploma.title.localeCompare(b.diploma.title, 'fr')));
   const filtered = q || home.type || home.level;
   return [
     h('p', { class: 'muted results-count' }, filtered ? `${plural(list.length, 'diplôme correspond', 'diplômes correspondent')} sur ${diplomas.length}` : `${plural(diplomas.length, 'diplôme', 'diplômes')} du Cnam Paris`),
@@ -349,10 +353,16 @@ function renderResults() {
   ];
 }
 
+// Titre avec les mots trouvés par la recherche surlignés.
+function highlighted(title, hits) {
+  if (!hits.size) return title;
+  return title.split(/([A-Za-zÀ-ÖØ-öø-ÿ0-9+]+)/).map((part) => (hits.has(normalize(part)) ? h('mark', {}, part) : part));
+}
+
 function diplomaList(list) {
-  return h('ul', { class: 'dip-list', 'data-scroll': 'diplomas' }, list.map((d) => h('li', { class: `dip-row ${d.retired ? 'dip-retired' : ''}` },
+  return h('ul', { class: 'dip-list', 'data-scroll': 'diplomas' }, list.map(({ diploma: d, hits }) => h('li', { class: `dip-row ${d.retired ? 'dip-retired' : ''}` },
     h('div', { class: 'dip-text' },
-      h('span', { class: 'dip-title' }, d.title),
+      h('span', { class: 'dip-title' }, highlighted(d.title, hits)),
       h('span', { class: 'muted' }, [d.type, d.level_out, d.total_credits && `${d.total_credits} ECTS`, d.code].filter(Boolean).join(', ')),
       (d.retired || d.has_semesters === false) ? h('span', { class: 'dip-flags' },
         d.retired ? h('span', { class: 'tag tag-warn' }, 'plus proposée') : null,

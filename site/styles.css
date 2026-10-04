@@ -197,6 +197,7 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--blue); width: 
 .results-count { margin: 14px 0 0; font-size: 13px; }
 .dip-list { max-height: 460px; overflow-y: auto; }
 .dip-retired .dip-title { color: var(--ink-2); }
+.dip-title mark { background: var(--marker-wash); color: inherit; box-shadow: inset 0 -2px 0 var(--marker); padding: 0 1px; }
 .dip-flags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
 .dip-flags .tag { margin-left: 0; }
 .tag-nosem { border-style: dashed; }
