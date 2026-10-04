@@ -21,7 +21,7 @@ jobs:
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v10
+      - uses: astral-sh/setup-uv@v10.2.0
 
       - name: Relire chaque fiche et créer une version si le programme a changé
         run: uv run --no-dev python -m cnam refresh
