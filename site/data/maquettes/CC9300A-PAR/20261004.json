@@ -1,0 +1,106 @@
+{
+ "title": "Certificat de compétence Radioprotection",
+ "code": "CC9300A-PAR",
+ "total_credits": 36,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-radioprotection-1486682.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "PHR103",
+   "title": "Prévention des risques physiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PHR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RDP105",
+   "title": "Radioprotection pratique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RDP105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "RDP103",
+   "title": "Radioprotection",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RDP103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "RDP104",
+   "title": "Radioprotection opérationnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RDP104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UA4134",
+   "title": "Conduite de projet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4134/0"
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

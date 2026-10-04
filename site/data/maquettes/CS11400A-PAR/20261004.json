@@ -1,0 +1,83 @@
+{
+ "title": "Certificat de spécialisation Culture et création en mutations",
+ "code": "CS11400A-PAR",
+ "total_credits": 26,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-culture-et-creation-en-mutations-1486728.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CCE114",
+   "title": "Culture et espace public, nouveaux lieux culturels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CCE115",
+   "title": "Numérique et intelligence artificielle : théories, actualité et pratiques dans le champ culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CCE240",
+   "title": "Transitions écologiques et sociétales du secteur culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE240-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CCE241",
+   "title": "Diversité des publics et de la création, actualité des arts et de la culture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE241-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

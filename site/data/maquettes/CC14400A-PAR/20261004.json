@@ -1,0 +1,99 @@
+{
+ "title": "Certificat de compétence Organisation et coaching d'équipe",
+ "code": "CC14400A-PAR",
+ "total_credits": 26,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-organisation-et-coaching-d-equipe-1486652.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "TET101",
+   "title": "Management social et humain",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET101/0"
+  },
+  {
+   "id": "i2",
+   "code": "DSY020",
+   "title": "Méthodes et outils de l'organisation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY020-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DSY006",
+   "title": "Démarches et outils de l'organisateur",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CCE105",
+   "title": "Pratiques écrites et orales de la communication professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "GDN209",
+   "title": "Coaching et dynamiques collaboratives des équipes d'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN209-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

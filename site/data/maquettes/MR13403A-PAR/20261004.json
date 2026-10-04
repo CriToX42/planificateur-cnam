@@ -1,0 +1,300 @@
+{
+ "title": "Master management stratégique parcours International Business and Corporate Development (Cnam Paris)",
+ "code": "MR13403A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-strategique-parcours-international-business-and-corporate-development-cnam-paris--1620877.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "US173F",
+   "title": "Orientation and Integration",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173F/0"
+  },
+  {
+   "id": "i2",
+   "code": "US172N",
+   "title": "Financial Accounting",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172N/0"
+  },
+  {
+   "id": "i3",
+   "code": "USM310",
+   "title": "Marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM310/0"
+  },
+  {
+   "id": "i4",
+   "code": "USM311",
+   "title": "E - Business",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM311/0"
+  },
+  {
+   "id": "i5",
+   "code": "US172Q",
+   "title": "Human Resources Management",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172Q/0"
+  },
+  {
+   "id": "i6",
+   "code": "USM304",
+   "title": "Organization Theory",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM304/0"
+  },
+  {
+   "id": "i7",
+   "code": "US172S",
+   "title": "Management of the firm",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172S/0"
+  },
+  {
+   "id": "i8",
+   "code": "US172U",
+   "title": "Management Accounting",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172U/0"
+  },
+  {
+   "id": "i9",
+   "code": "US172W",
+   "title": "Finance",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172W/0"
+  },
+  {
+   "id": "i10",
+   "code": "US172X",
+   "title": "Management of the firm (part 2)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172X/0"
+  },
+  {
+   "id": "i11",
+   "code": "UA1719",
+   "title": "Interactive Group Project",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA1719/0"
+  },
+  {
+   "id": "i12",
+   "code": "USM316",
+   "title": "Business Law and Contract Management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM316/0"
+  },
+  {
+   "id": "i13",
+   "code": "US173C",
+   "title": "Career Management",
+   "ects": 1,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173C/0"
+  },
+  {
+   "id": "i14",
+   "code": "US173L",
+   "title": "Business Ethics and Due Diligence",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173L/0"
+  },
+  {
+   "id": "i15",
+   "code": "US173S",
+   "title": "International Corporate Strategy",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173S/0"
+  },
+  {
+   "id": "i16",
+   "code": "USM30H",
+   "title": "Corporate Social Responsibility",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM30H/0"
+  },
+  {
+   "id": "i17",
+   "code": "US172Y",
+   "title": "Project Management Fundamentals",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172Y/0"
+  },
+  {
+   "id": "i18",
+   "code": "USM312",
+   "title": "Business Model Evolution & Strategic Marketing",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM312/0"
+  },
+  {
+   "id": "i19",
+   "code": "US1734",
+   "title": "Management in multicultural contexts",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1734/0"
+  },
+  {
+   "id": "i20",
+   "code": "US173V",
+   "title": "Consulting and Change Management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173V/0"
+  },
+  {
+   "id": "i21",
+   "code": "USM30J",
+   "title": "E-commerce & Logistics",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM30J/0"
+  },
+  {
+   "id": "i22",
+   "code": "US173X",
+   "title": "International Corporate Finance",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173X/0"
+  },
+  {
+   "id": "i23",
+   "code": "USM317",
+   "title": "International Marketing",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM317/0"
+  },
+  {
+   "id": "i24",
+   "code": "US173U",
+   "title": "International Trade",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173U/0"
+  },
+  {
+   "id": "i25",
+   "code": "UAMG16",
+   "title": "Professional Experience and Master Thesis",
+   "ects": 11,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG16/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

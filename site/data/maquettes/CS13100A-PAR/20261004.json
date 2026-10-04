@@ -1,0 +1,43 @@
+{
+ "title": "Certificat de spécialisation Mesures acoustiques",
+ "code": "CS13100A-PAR",
+ "total_credits": 9,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-mesures-acoustiques-1552013.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ACC120",
+   "title": "Instrumentation et mesures",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ACC115",
+   "title": "Travaux pratiques d'acoustique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC115-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

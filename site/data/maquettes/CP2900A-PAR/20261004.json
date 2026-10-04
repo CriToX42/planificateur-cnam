@@ -1,0 +1,136 @@
+{
+ "title": "Certificat professionnel Chargé d'information, d'accueil et d'orientation",
+ "code": "CP2900A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-charge-d-information-d-accueil-et-d-orientation-1486691.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "TET099",
+   "title": "La méthode du récit de vie : se connaître pour mieux accompagner",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET099-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "AST004",
+   "title": "Institutions et acteurs de l'intervention sociale : accueil, information, orientation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "TRS001",
+   "title": "La relation aux publics accompagnés",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TRS001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CCE001",
+   "title": "Outils et démarche de la communication écrite et orale",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "TET003",
+   "title": "Méthodes de recherche et traitement de l'information : entretiens et questionnaires professionnels",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "TET007",
+   "title": "Recherche d'informations: théorie et pratique sur le web",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET007-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UA2322",
+   "title": "Rapport d'expérience",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2322/0"
+  },
+  {
+   "id": "i8",
+   "code": "UASO04",
+   "title": "Atelier recherche documentaire, recherche de stage et/ ou pratique de terrain",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASO04/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

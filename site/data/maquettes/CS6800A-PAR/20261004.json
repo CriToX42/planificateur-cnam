@@ -1,0 +1,69 @@
+{
+ "title": "Certificat de spécialisation Management de l'innovation publique",
+ "code": "CS6800A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-management-de-l-innovation-publique-1486754.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "MNP214",
+   "title": "Outils et dispositifs de l'innovation publique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MNP214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "MNP215",
+   "title": "Design de service et innovation publique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MNP215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "TDD204",
+   "title": "Participations organisations et communs",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD204-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "title": "Certification enregistrée au répertoire spécifique Programmer orienté objet en Java",
+ "code": "CRS0400A-PAR",
+ "total_credits": 10,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certification-enregistree-au-repertoire-specifique-programmer-oriente-objet-en-java-1509278.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NFA032",
+   "title": "Programmation  Java : programmation objet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance",
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA032-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NFA035",
+   "title": "Programmation Java : bibliothèques et patterns",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA035-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "title": "Titre RNCP Niveau 7 Responsable d’établissements  médicaux et médico-sociaux",
+ "code": "CRN0300A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-7-responsable-d-etablissements-medicaux-et-medico-sociaux-1486716.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i3",
+    "i4",
+    "i5"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Parcours gestion des établissements",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i6",
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Parcours stratégie et management des achats",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS218",
+   "title": "Systèmes de santé et cadre juridique des établissements",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EGS155",
+   "title": "Introduction à la e-santé et aux systèmes d'information dans les établissements de santé",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS155-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EGS219",
+   "title": "Contrôle de gestion et pilotage des établissements de santé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EGS220",
+   "title": "Systèmes d'informations et e-santé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS220-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "EGS221",
+   "title": "Stratégies des établissements",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "EGS253",
+   "title": "Management et pratiques de l'achat",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i7",
+   "code": "EGS254",
+   "title": "Stratégies et politiques achat",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i8",
+   "code": "EGS255",
+   "title": "Pilotage de la performance achat",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "EGS150",
+   "title": "Gestion des ressources humaines et stratégiques en établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS150-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "EGS151",
+   "title": "Comptabilité et analyse financière des établissements de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS151-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "UASA10",
+   "title": "Expérience professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA10/0"
+  },
+  {
+   "id": "i12",
+   "code": "UASA09",
+   "title": "Mémoire",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA09/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

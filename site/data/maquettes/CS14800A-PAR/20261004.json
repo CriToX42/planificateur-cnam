@@ -1,0 +1,43 @@
+{
+ "title": "Certificat de spécialisation Diplomatie économique des ressources énergétiques, agricoles & minérales (DREAM)",
+ "code": "CS14800A-PAR",
+ "total_credits": 6,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-diplomatie-economique-des-ressources-energetiques-agricoles-amp-minerales-dream--1550986.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAS52",
+   "title": "Module transversal",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS52/0"
+  },
+  {
+   "id": "i2",
+   "code": "USAS53",
+   "title": "Module « pays »",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS53/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

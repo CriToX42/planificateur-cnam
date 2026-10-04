@@ -1,0 +1,194 @@
+{
+ "title": "Licence professionnelle bio-industries et Biotechnologies Parcours Bio-informatique",
+ "code": "LP10101A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-bio-industries-et-biotechnologies-parcours-bio-informatique-1486922.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BNF101",
+   "title": "Bases Informatiques : Systèmes d'exploitation, bases de données, Internet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "BNF102",
+   "title": "Initiation à la programmation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "NFA031",
+   "title": "Programmation avec Java : notions de base",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA031-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NFA032",
+   "title": "Programmation  Java : programmation objet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance",
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA032-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "BNF103",
+   "title": "Algorithmique de la bio-informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "STA109",
+   "title": "Biostatistique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BNF104",
+   "title": "Utilisation et applications de la bio-informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ANG310",
+   "title": "Anglais et pratiques professionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG310-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UASB01",
+   "title": "Projet bio-informatique",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASB01/0"
+  },
+  {
+   "id": "i11",
+   "code": "UASB02",
+   "title": "Stage",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASB02/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

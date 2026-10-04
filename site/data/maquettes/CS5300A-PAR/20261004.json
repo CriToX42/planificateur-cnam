@@ -1,0 +1,91 @@
+{
+ "title": "Certificat de spécialisation Chargé diversité (Cnam Paris)",
+ "code": "CS5300A-PAR",
+ "total_credits": 8,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-charge-diversite-cnam-paris--1620862.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "AST232",
+   "title": "Sociologie de la diversité et des discriminations",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRS210",
+   "title": "Droit et discriminations : agir contre les discriminations",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "AST233",
+   "title": "Discrimination et psychologie sociocognitive",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST233-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

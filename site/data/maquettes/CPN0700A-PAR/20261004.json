@@ -1,0 +1,113 @@
+{
+ "title": "Titre RNCP Niveau 7 Manager d'organismes à vocation sociale et culturelle en économie sociale et solidaire",
+ "code": "CPN0700A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-7-manager-d-organismes-a-vocation-sociale-et-culturelle-en-economie-sociale-et-solidaire-1486705.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USCT36",
+   "title": "Piloter et animer la gouvernance stratégique d'un OVS en ESS",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT36/0"
+  },
+  {
+   "id": "i2",
+   "code": "USCT38",
+   "title": "Gérer les finances d'un OVSC en ESS et piloter les relations partenariales",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT38/0"
+  },
+  {
+   "id": "i3",
+   "code": "USCT3D",
+   "title": "Piloter un projet innovant de transformation sociale en ESS",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT3D/0"
+  },
+  {
+   "id": "i4",
+   "code": "USCT37",
+   "title": "Piloter et animer la gouvernance stratégique d'un OVS en ESS - Approfondissement",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT37/0"
+  },
+  {
+   "id": "i5",
+   "code": "USCT3B",
+   "title": "Manager les ressources humaines d'un OVSC en ESS",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT3B/0"
+  },
+  {
+   "id": "i6",
+   "code": "USCT3E",
+   "title": "Piloter un projet innovant de transformation sociale en ESS - Approfondissement",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT3E/0"
+  },
+  {
+   "id": "i7",
+   "code": "UA2326",
+   "title": "Ecriture du mémoire",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2326/0"
+  },
+  {
+   "id": "i8",
+   "code": "UA231K",
+   "title": "Expérience professionnelle",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA231K/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

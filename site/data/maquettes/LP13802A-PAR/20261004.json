@@ -1,0 +1,233 @@
+{
+ "title": "Licence professionnelle métiers du décisionnel et de la statistique Parcours Web analytics - Marketing digital",
+ "code": "LP13802A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-du-decisionnel-et-de-la-statistique-parcours-web-analytics-marketing-digital-1486943.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i4",
+    "i5"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ESC101",
+   "title": "Mercatique I : Les Etudes de marché et les nouveaux enjeux de la Data à l'heure de l'IA",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ESC102",
+   "title": "Mercatique II : Stratégie marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ESC104",
+   "title": "Etudes quantitatives en Marketing/Vente (Distribution, Marketing, Commerce, Vente).",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NTD204",
+   "title": "Datavisualisation pour tous",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CSV002",
+   "title": "I.A. & Datascience au service de la gestion de la relation client – CRM",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSV002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ESC125",
+   "title": "Boîtes à outils",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC125-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "ANG310",
+   "title": "Anglais et pratiques professionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG310-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ESC127",
+   "title": "Référencement payant (SEA) et Social Ads",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC127-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ESC128",
+   "title": "E-commerce",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC128-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "ESC131",
+   "title": "Référencement naturel (SEO)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC131-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "ESC130",
+   "title": "Marketing et réseaux sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "UA180M",
+   "title": "Projet tutoré",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA180M/0"
+  },
+  {
+   "id": "i13",
+   "code": "UA180N",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA180N/0"
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

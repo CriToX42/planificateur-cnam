@@ -1,0 +1,106 @@
+{
+ "title": "Certificat professionnel Développeur web junior",
+ "code": "CP6500A-PAR",
+ "total_credits": 28,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-developpeur-web-junior-1486702.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NFA040",
+   "title": "Architecture et langages Web",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA040-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NFA041",
+   "title": "Programmation Javascript",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA041-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "NFA008",
+   "title": "Bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA008-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NFA042",
+   "title": "Développement web côté serveur",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA042-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NFA021",
+   "title": "Développement web (3) : mise en pratique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA021-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,353 @@
+{
+ "title": "Licence professionnelle management et gestion des organisations Parcours Gestion des établissements sanitaires, sociaux et médico-sociaux",
+ "code": "LP11502A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-management-et-gestion-des-organisations-parcours-gestion-des-etablissements-sanitaires-sociaux-et-medico-sociaux-1486930.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS101",
+   "title": "Environnement législatif, économique et politique des établissements médico-sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EGS102",
+   "title": "Environnement législatif, économique et politique des établissements sanitaires et sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EGS119",
+   "title": "Méthodologie de conduite de projets en secteur médico-social, sanitaire ou social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EGS105",
+   "title": "Initiation à la comptabilité et au contrôle de gestion appliqués aux E2SMS",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "EGS106",
+   "title": "Principes de droit social et de droit du travail applicables aux ESSMS",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "EGS118",
+   "title": "Management des organisations et ressources humaines en secteur médico-social, sanitaire et social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "HTS104",
+   "title": "Techniques et méthodologie de la démarche scientifique : bases théoriques",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "HTS105",
+   "title": "Techniques et méthodologie de la démarche scientifique : aspects pratiques",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "HTS107",
+   "title": "La relation d'aide et qualité de vie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "DNF001",
+   "title": "Ouverture au monde du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNF001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "ARA100",
+   "title": "Initiation à la langue et culture arabe, parcours collectif",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ARA100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "LSF100",
+   "title": "Introduction à la langue des signes française (LSF) et à la culture Sourde",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LSF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i16",
+   "code": "FLE100",
+   "title": "Français langue étrangère : parcours collectif",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "FLE200",
+   "title": "Français langue étrangère: parcours personnalisé d'apprentissage",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "UASA05",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA05/0"
+  },
+  {
+   "id": "i19",
+   "code": "UASA06",
+   "title": "Projet tuteuré",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA06/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

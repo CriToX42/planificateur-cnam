@@ -1,0 +1,43 @@
+{
+ "title": "Diplôme inter-universitaire Commodity trading & responsabilité globale",
+ "code": "DIU0500A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-inter-universitaire-commodity-trading-amp-responsabilite-globale-1550987.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAS50",
+   "title": "Matières premières et transition environnementale : des enjeux sociétaux aux problématiques commerciales et financières",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS50/0"
+  },
+  {
+   "id": "i2",
+   "code": "USAS51",
+   "title": "Transition environnementale & négoce de matières premières",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS51/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

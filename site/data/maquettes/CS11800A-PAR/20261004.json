@@ -1,0 +1,79 @@
+{
+ "title": "Certificat de spécialisation Supply Chain",
+ "code": "CS11800A-PAR",
+ "total_credits": 14,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-supply-chain-1486732.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "DVE206",
+   "title": "Négoce international et supply chain 1",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DVE206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DVE207",
+   "title": "Droit et pratique des contrats internationaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DVE207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DVE222",
+   "title": "Négoce international et supply chain 2 : approche pratique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DVE222-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UAIP2P",
+   "title": "Cycle de conférences sur le commerce international",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP2P/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

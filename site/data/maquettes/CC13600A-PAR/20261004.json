@@ -1,0 +1,109 @@
+{
+ "title": "Certificat de compétence Référent BIM",
+ "code": "CC13600A-PAR",
+ "total_credits": 33,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-referent-bim-1559314.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BTP120",
+   "title": "Management de projet  BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP120/0"
+  },
+  {
+   "id": "i2",
+   "code": "BTP171",
+   "title": "Programmation BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP171-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "BTP172",
+   "title": "Traitement des données BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP172-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BTP173",
+   "title": "Outils Numériques, Labs, processus : BIM, Réalité virtuelle, Jumeaux Numériques, IA",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP173-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "BTP130",
+   "title": "BIM infrastructures et SIG",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BTP170",
+   "title": "Stratégie BIM",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP170-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

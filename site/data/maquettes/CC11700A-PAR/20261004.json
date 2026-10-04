@@ -1,0 +1,231 @@
+{
+ "title": "Certificat de compétence Microbiologie",
+ "code": "CC11700A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-microbiologie-1486641.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i1"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i2"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i5",
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "AGR100",
+   "title": "Microbiologie générale: croissance et méthodes d'étude des microorganismes",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "BLG104",
+   "title": "Microbiologie : bactériologie, virologie et immunologie",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "AGR101",
+   "title": "Microbiologie alimentaire: sécurité sanitaire et aliments fermentés",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BCA124",
+   "title": "TP Microbiologie pour la sécurité sanitaire et la fermentation d'aliments",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UTC705",
+   "title": "Statistique",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC705-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UTC705",
+   "title": "Statistique",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC705-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "STA109",
+   "title": "Biostatistique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "BLG212",
+   "title": "Bio-industries et microbiologie appliquée",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "BNF104",
+   "title": "Utilisation et applications de la bio-informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF104-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

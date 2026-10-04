@@ -1,0 +1,200 @@
+{
+ "title": "Certificat de compétence Analyste en cybersécurité",
+ "code": "CC13800A-PAR",
+ "total_credits": 24,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-analyste-en-cybersecurite-1486649.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i1",
+    "i2",
+    "i3",
+    "i4",
+    "i5"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NSY104",
+   "title": "Architectures des systèmes informatiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NFE108",
+   "title": "Méthodologies des systèmes d'information",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "NFE113",
+   "title": "Conception et administration de bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/NFE113/0"
+  },
+  {
+   "id": "i4",
+   "code": "SMB101",
+   "title": "Systèmes d'exploitation : principes, programmation et virtualisation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SMB101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NSY103",
+   "title": "Linux : principes et programmation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "RSX112",
+   "title": "Sécurité des réseaux",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CYB105",
+   "title": "Contrôle d'accès et Gestion des identités numériques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "SEC101",
+   "title": "Cybersécurité : référentiel, objectifs et déploiement",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SEC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "SEC102",
+   "title": "Menaces informatiques et codes malveillants : analyse et lutte",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SEC102-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

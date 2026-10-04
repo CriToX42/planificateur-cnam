@@ -1,0 +1,110 @@
+{
+ "title": "Certificat de compétence Analyste Cloud",
+ "code": "CC15700A-PAR",
+ "total_credits": 36,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-analyste-cloud-1486658.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "RSX101",
+   "title": "Réseaux et protocoles pour l'Internet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NSY104",
+   "title": "Architectures des systèmes informatiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "SMB111",
+   "title": "Systèmes et applications répartis pour le cloud",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SMB111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NSY107",
+   "title": "Architectures Cloud, intégration des applications et sécurité.",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "SEC101",
+   "title": "Cybersécurité : référentiel, objectifs et déploiement",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SEC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "CYB105",
+   "title": "Contrôle d'accès et Gestion des identités numériques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CYB105-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

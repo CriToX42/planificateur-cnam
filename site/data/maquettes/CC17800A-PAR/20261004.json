@@ -1,0 +1,54 @@
+{
+ "title": "Certificat de compétence Orientation Bilan Insertion (Cnam Paris)",
+ "code": "CC17800A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-orientation-bilan-insertion-cnam-paris--1620857.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USOP28",
+   "title": "Enseignements théoriques",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USOP28/0"
+  },
+  {
+   "id": "i2",
+   "code": "USOP25",
+   "title": "Présentation de gestes professionnels",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USOP25/0"
+  },
+  {
+   "id": "i3",
+   "code": "USOP29",
+   "title": "Mise en œuvre de gestes professionnels",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USOP29/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

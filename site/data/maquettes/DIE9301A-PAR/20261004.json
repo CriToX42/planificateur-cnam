@@ -1,0 +1,393 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Responsable technique et opérationnel des systèmes mécaniques et électriques parcours Mécanique (Cnam Paris)",
+ "code": "DIE9301A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-responsable-technique-et-operationnel-des-systemes-mecaniques-et-electriques-parcours-mecanique-cnam-paris--1622321.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i11",
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i14",
+    "i15",
+    "i16"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [],
+   "children": [
+    "g5",
+    "g6"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g4",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i19"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g4",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UTC604",
+   "title": "Mathématiques pour ingénieur",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC604-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UTC402",
+   "title": "Introduction à la mécanique des solides déformables",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC402-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC403",
+   "title": "Introduction à la physique des vibrations et des ondes",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC403-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UTC404",
+   "title": "Fondamentaux de la thermodynamique et de la mécanique des fluides",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC404-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UTC405",
+   "title": "Notions fondamentales sur les matériaux",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC405-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MEC101",
+   "title": "Introduction aux éléments finis",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "MEC121",
+   "title": "Mécanique des solides",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "MEC122",
+   "title": "Mécanique des milieux continus",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "FAB113",
+   "title": "Démarches et outils de CAO pour l'ingénieur",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAB113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "MEC124",
+   "title": "Analyse et modélisation des mécanismes",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "MEC125",
+   "title": "Vibrations des structures",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC125-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "MEC126",
+   "title": "Calcul des structures par éléments finis",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC126-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "MEC132",
+   "title": "Structures avancées et composites",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "FAB101",
+   "title": "Procédés d'obtention des préformes",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB101/0"
+  },
+  {
+   "id": "i15",
+   "code": "FAB104",
+   "title": "Maîtrise statistique de la production",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB104/0"
+  },
+  {
+   "id": "i16",
+   "code": "FAB208",
+   "title": "Démarche de conception produit-process",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB208/0"
+  },
+  {
+   "id": "i17",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i19",
+   "code": "",
+   "title": "Deux UE socio-économiques au choix",
+   "ects": 12,
+   "year": "y1",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "UA4601",
+   "title": "Expérience professionnelle de 24 mois",
+   "ects": 51,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4601/0"
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "title": "Mastère spécialisé (label conférence des grandes écoles) Systèmes Mécatroniques et Robotiques",
+ "code": "MS1800A-PAR",
+ "total_credits": 75,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/mastere-specialise-label-conference-des-grandes-ecoles-systemes-mecatroniques-et-robotiques-1487010.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "AUT106",
+   "title": "Représentation d'état appliquée à la commande des systèmes linéaires",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AUT106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "AUT109",
+   "title": "Travaux Pratiques - Commande des systèmes, correcteurs PID, correcteurs à retour d'état",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AUT109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "AUT107",
+   "title": "Introduction aux systèmes de commande temps réel et aux réseaux de terrain",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AUT107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "AUT215",
+   "title": "Méthodes avancées de commande",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AUT215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "AUT209",
+   "title": "Conception et mise en oeuvre de commandes distribuées temps réel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AUT209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ROB201",
+   "title": "Modélisation et commande de systèmes robotiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ROB201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "ROB203",
+   "title": "Technologies et utilisation des Robots",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ROB203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UTC303",
+   "title": "Introduction aux réseaux informatiques et de terrain",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC303-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UAEA0R",
+   "title": "Mémoire",
+   "ects": 30,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEA0R/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Mastère spécialisé",
+  "level_in": "Niveau 7 (Bac+5)",
+  "level_out": "Sans niveau spécifique"
+ }
+}

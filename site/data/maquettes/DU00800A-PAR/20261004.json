@@ -1,0 +1,32 @@
+{
+ "title": "Diplôme d'Université IA et e-santé dans les ESSMS pour manager et prendre soin (Cnam Paris)",
+ "code": "DU00800A-PAR",
+ "total_credits": 4,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-ia-et-e-sante-dans-les-essms-pour-manager-et-prendre-soin-cnam-paris--1620870.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA40",
+   "title": "IA et e-santé dans les ESSMS pour manager et prendre soin",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA40/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

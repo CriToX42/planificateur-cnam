@@ -1,0 +1,231 @@
+{
+ "title": "Master management sectoriel Parcours Leadership, complexité et management humaniste des établissements et services pour personnes âgées",
+ "code": "MR12404A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-sectoriel-parcours-leadership-complexite-et-management-humaniste-des-etablissements-et-services-pour-personnes-agees-1486983.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS150",
+   "title": "Gestion des ressources humaines et stratégiques en établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS150-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EGS151",
+   "title": "Comptabilité et analyse financière des établissements de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS151-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EGS152",
+   "title": "Panorama du système de santé et des établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS152-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EGS153",
+   "title": "Problématiques juridiques dans les établissements de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS153-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "EGS154",
+   "title": "Management des organisations de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS154-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "EGS155",
+   "title": "Introduction à la e-santé et aux systèmes d'information dans les établissements de santé",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS155-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "EGS156",
+   "title": "Comptabilité analytique des établissements de santé",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS156-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UASA0S",
+   "title": "Projet de fin d'études",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA0S/0"
+  },
+  {
+   "id": "i9",
+   "code": "SAN201",
+   "title": "Valeurs, stratégie et leadership dans un service ou un établissement accueillant des personnes âgées",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i10",
+   "code": "SAN202",
+   "title": "Complexité et prise de décisions dans un service ou un établissement accueillant des personnes âgées",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i11",
+   "code": "SAN203",
+   "title": "Management humaniste des services et établissements pour personnes âgées",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i12",
+   "code": "SAN204",
+   "title": "Méthodologie de construction du mémoire",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i13",
+   "code": "SAN205",
+   "title": "Agilité et innovations managériales dans les services et établissements accueillant des personnes âgées",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "UASA0N",
+   "title": "Mémoire fin d'études",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA0N/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

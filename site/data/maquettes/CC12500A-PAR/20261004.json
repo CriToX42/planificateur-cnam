@@ -1,0 +1,68 @@
+{
+ "title": "Certificat de compétence Analyse stratégique  de la concurrence : principes et méthodes",
+ "code": "CC12500A-PAR",
+ "total_credits": 15,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-analyse-strategique-de-la-concurrence-principes-et-methodes-1486645.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EPT210",
+   "title": "Stratégies et marchés",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EPT210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ESD113",
+   "title": "Probabilité et statistique avec R",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESD113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ESD112",
+   "title": "Analyse des comportements stratégiques avec la théorie des jeux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESD112-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

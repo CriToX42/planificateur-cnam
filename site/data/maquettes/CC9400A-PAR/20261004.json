@@ -1,0 +1,80 @@
+{
+ "title": "Certificat de compétence Construction d'une opération de culture scientifique et technique",
+ "code": "CC9400A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-construction-d-une-operation-de-culture-scientifique-et-technique-1486683.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "RTC210",
+   "title": "Science, technique, innovation et société : fondements et méthodes d'analyse",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "RTC211",
+   "title": "Etude socio-culturelle des sciences et techniques en société : histoire, représentation, imaginaires",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RTC212",
+   "title": "Outils de la médiation culturelle et de la communication des sciences et des techniques : initiation",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UA180W",
+   "title": "Expérience professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA180W/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride journée",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

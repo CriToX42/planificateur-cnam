@@ -1,0 +1,495 @@
+{
+ "title": "Master contrôle de gestion et audit organisationnel",
+ "code": "MR14800A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-controle-de-gestion-et-audit-organisationnel-1487002.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i8",
+    "i9"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [],
+   "children": [
+    "g4",
+    "g5"
+   ],
+   "kind": "alternative",
+   "year": "y2",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i24",
+    "i25"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g3",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i26"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g3",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "DRA112",
+   "title": "Règles générales du droit des sociétés",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DRA113",
+   "title": "Principales formes de sociétés",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CFA120",
+   "title": "Comptabilité approfondie de l'entreprise",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CCG103",
+   "title": "Comptabilité et contrôle de gestion perfectionnement 1",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCG103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CCG104",
+   "title": "Comptabilité et contrôle de gestion perfectionnement 2",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCG104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "CCG206",
+   "title": "Contrôle de gestion approfondi I",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCG206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CCG210",
+   "title": "Contrôle de gestion approfondi II",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCG210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "GFN105",
+   "title": "Décisions financières à long terme et évaluation des actifs",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "GFN135",
+   "title": "Analyse financière et politique de financement de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN135-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "NFE235",
+   "title": "Management des systèmes d'information",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE235-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "ANG400",
+   "title": "Anglais Finance Comptabilité",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "CGC208",
+   "title": "Stratégie, changement et contrôle de gestion 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGC208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "CGC209",
+   "title": "Stratégie, changement et contrôle de gestion 2",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGC209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "CFA222",
+   "title": "Audit interne des organisations I",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA222-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "CFA223",
+   "title": "Audit interne des organisations II",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA223-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "CFA232",
+   "title": "Création de valeur et management de l'entreprise",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "CFA234",
+   "title": "Gouvernance et responsabilité sociale des entreprises",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA234-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "CFA237",
+   "title": "Comptabilité, environnement et société",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA237-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "MSE201",
+   "title": "Stratégie d'entreprise I : analyse stratégique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "EAR213",
+   "title": "Analyse de données et décisions dans l'entreprise I",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "CFA247",
+   "title": "Séminaire d'épistémologie et de méthodologie en Comptabilité-Contrôle-Audit",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA247-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "CFA231",
+   "title": "Séminaire de techniques d'expression et de communication  (mémoires masters CCA et CGAO)",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA231-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "UACF08",
+   "title": "Mémoire",
+   "ects": 10,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACF08/0"
+  },
+  {
+   "id": "i26",
+   "code": "UACF1B",
+   "title": "Mémoire",
+   "ects": 12,
+   "year": "y2",
+   "group": "g5",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACF1B/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

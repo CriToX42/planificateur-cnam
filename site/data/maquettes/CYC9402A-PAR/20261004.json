@@ -1,0 +1,559 @@
+{
+ "title": "Diplôme d'ingénieur Spécialité mécanique Parcours Aéronautique - Aérodynamique",
+ "code": "CYC9402A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-ingenieur-specialite-mecanique-parcours-aeronautique-aerodynamique-1486796.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i19",
+    "i20",
+    "i21",
+    "i22"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UTC604",
+   "title": "Mathématiques pour ingénieur",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC604-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UTC402",
+   "title": "Introduction à la mécanique des solides déformables",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC402-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC403",
+   "title": "Introduction à la physique des vibrations et des ondes",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC403-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UTC404",
+   "title": "Fondamentaux de la thermodynamique et de la mécanique des fluides",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC404-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UTC101",
+   "title": "Mathématiques appliquées : Mathématiques - informatique - méthodes numériques",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ANG100",
+   "title": "Anglais général pour débutants",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ENG260",
+   "title": "Information et communication scientifique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG260-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "AER104",
+   "title": "Mécanique des fluides",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "AER108",
+   "title": "Aérodynamique de l'aile",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "AER112",
+   "title": "Mécanique du vol",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "AER115",
+   "title": "Aviation Décarbonée",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "UAEP05",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP05/0"
+  },
+  {
+   "id": "i15",
+   "code": "UAAD94",
+   "title": "Admission à l'école d'ingénieur",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAD94/0"
+  },
+  {
+   "id": "i16",
+   "code": "AER102",
+   "title": "Dynamique des gaz en écoulements compressibles",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "AER114",
+   "title": "Systèmes de propulsion en aéronautique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "MEC241",
+   "title": "Interactions fluides-structures",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC241-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "AER113",
+   "title": "Aéroacoustique industrielle",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "FAB113",
+   "title": "Démarches et outils de CAO pour l'ingénieur",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAB113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "MEC132",
+   "title": "Structures avancées et composites",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "MTX104",
+   "title": "Composites à hautes performances",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "CSC109",
+   "title": "Introduction au Calcul Scientifique : Modélisation, simulation numérique et applications",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "CFD101",
+   "title": "Principes fondamentaux de CFD",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFD101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "CFD201",
+   "title": "La CFD pour l'aérodynamique",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFD201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "ACS201",
+   "title": "Les activités spatiales : histoire, acteurs et enjeux environnementaux à l'heure du New Space",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ENG270",
+   "title": "Innovation",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENG270/0"
+  },
+  {
+   "id": "i28",
+   "code": "UAEP06",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP06/0"
+  },
+  {
+   "id": "i29",
+   "code": "MSE212",
+   "title": "Management interculturel",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "AER213",
+   "title": "Fondamentaux de conception spatiale",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "ENG210",
+   "title": "Ingénieur de demain",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "ENG242",
+   "title": "Initiation à la recherche",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG242-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "UA2B30",
+   "title": "Test d'anglais",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2B30/0"
+  },
+  {
+   "id": "i34",
+   "code": "UAEP07",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEP07/0"
+  },
+  {
+   "id": "i35",
+   "code": "UAM94C",
+   "title": "Mémoire d'ingénieur",
+   "ects": 30,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAM94C/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'ingénieur",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "title": "Licence professionnelle management et gestion des organisations parcours Gestion de l’Innovation dans les entreprises de mode (Cnam Paris)",
+ "code": "LP11508A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-management-et-gestion-des-organisations-parcours-gestion-de-l-innovation-dans-les-entreprises-de-mode-cnam-paris--1620873.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "GDN230",
+   "title": "Marketing de la conception de l'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN230-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GDN202",
+   "title": "Fonction marketing aval et processus d'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GDN217",
+   "title": "Gestion de l'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "US1812",
+   "title": "Histoire du costume et de la mode",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1812/0"
+  },
+  {
+   "id": "i5",
+   "code": "US1813",
+   "title": "Histoire des produits et des innovations textiles dans la mode",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1813/0"
+  },
+  {
+   "id": "i6",
+   "code": "US1814",
+   "title": "Analyse des tendances dans le secteur de la mode",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1814/0"
+  },
+  {
+   "id": "i7",
+   "code": "US1815",
+   "title": "Techniques marketing de la mode",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1815/0"
+  },
+  {
+   "id": "i8",
+   "code": "US1816",
+   "title": "Anglais appliqué à la mode",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1816/0"
+  },
+  {
+   "id": "i9",
+   "code": "UA181Q",
+   "title": "Stage en entreprise trois mois minimum",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA181Q/0"
+  },
+  {
+   "id": "i10",
+   "code": "UA181P",
+   "title": "Projet tuteuré",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA181P/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

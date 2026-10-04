@@ -1,0 +1,637 @@
+{
+ "title": "Master Informatique Parcours Recherche opérationnelle",
+ "code": "MR11602A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-informatique-parcours-recherche-operationnelle-1486966.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i4",
+    "i5",
+    "i6"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i11",
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i24",
+    "i25",
+    "i26",
+    "i27",
+    "i28",
+    "i29",
+    "i30",
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35",
+    "i36",
+    "i37",
+    "i38",
+    "i39",
+    "i40"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Choix",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NFE115",
+   "title": "Introduction à la gestion de données à large échelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "RSX103",
+   "title": "Conception et urbanisation de services réseau",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RCP104",
+   "title": "Optimisation en informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NFP103",
+   "title": "Conception et Spécification des Systèmes Concurrents",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NFP108",
+   "title": "Spécification et Modélisation Informatiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i6",
+   "code": "NFP101",
+   "title": "Programmation orientée objet en Python, Java et autres",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "STA101",
+   "title": "Analyse des données : méthodes descriptives",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "NFP106",
+   "title": "Intelligence artificielle",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "RCP106",
+   "title": "Algorithmique et Programmation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "RCP219",
+   "title": "Outils mathématiques pour l'optimisation numérique et combinatoire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "RCP103",
+   "title": "Evaluation de performances",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "RCP208",
+   "title": "Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "RCP218",
+   "title": "Intelligence artificielle, optimisation et contrôle",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "US331A",
+   "title": "Bases de l'optimisation dans les graphes",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331A/0"
+  },
+  {
+   "id": "i16",
+   "code": "US331G",
+   "title": "Conférences industrielles",
+   "ects": 1,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331G/0"
+  },
+  {
+   "id": "i17",
+   "code": "US333B",
+   "title": "Méthodes de décomposition en programmation linéaire en nombre entiers",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333B/0"
+  },
+  {
+   "id": "i18",
+   "code": "US331H",
+   "title": "Initiation à la recherche",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331H/0"
+  },
+  {
+   "id": "i19",
+   "code": "US331D",
+   "title": "Métaheuristiques",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331D/0"
+  },
+  {
+   "id": "i20",
+   "code": "US331E",
+   "title": "Optimisation dans l'incertain",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331E/0"
+  },
+  {
+   "id": "i21",
+   "code": "US331C",
+   "title": "Programmation mathématique",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331C/0"
+  },
+  {
+   "id": "i22",
+   "code": "US331F",
+   "title": "Projet de modélisation et résolution de problème de RO",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331F/0"
+  },
+  {
+   "id": "i23",
+   "code": "US333K",
+   "title": "Théorie de la Complexité",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333K/0"
+  },
+  {
+   "id": "i24",
+   "code": "US331N",
+   "title": "Mise à niveau",
+   "ects": 0,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331N/0"
+  },
+  {
+   "id": "i25",
+   "code": "US336A",
+   "title": "Apprentissage Profond pour les problèmes d'optimisation combinatoire",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US336A/0"
+  },
+  {
+   "id": "i26",
+   "code": "US331Q",
+   "title": "Complexité paramétrée et Approximation Polynomiale",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331Q/0"
+  },
+  {
+   "id": "i27",
+   "code": "US331J",
+   "title": "File d'attente et simulation",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331J/0"
+  },
+  {
+   "id": "i28",
+   "code": "US331B",
+   "title": "Graphes, Couplages et Colorations",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331B/0"
+  },
+  {
+   "id": "i29",
+   "code": "US331R",
+   "title": "Graphes Avancés",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331R/0"
+  },
+  {
+   "id": "i30",
+   "code": "US331M",
+   "title": "Modèles de localisation et applications",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331M/0"
+  },
+  {
+   "id": "i31",
+   "code": "US336B",
+   "title": "Optimisation Combinatoire Avancée",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US336B/0"
+  },
+  {
+   "id": "i32",
+   "code": "US331S",
+   "title": "Optimisation conique",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331S/0"
+  },
+  {
+   "id": "i33",
+   "code": "US331L",
+   "title": "Modèles et algorithmes en ordonnancement",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331L/0"
+  },
+  {
+   "id": "i34",
+   "code": "US331P",
+   "title": "Planification et gestion des stocks",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331P/0"
+  },
+  {
+   "id": "i35",
+   "code": "US336C",
+   "title": "Programmation mathématique Avancée",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US336C/0"
+  },
+  {
+   "id": "i36",
+   "code": "US331K",
+   "title": "Programmation par contraintes",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331K/0"
+  },
+  {
+   "id": "i37",
+   "code": "US331T",
+   "title": "Recherche Opérationnelle et Biodiversité",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331T/0"
+  },
+  {
+   "id": "i38",
+   "code": "US336D",
+   "title": "Informatique quantique pour la recherche opérationnelle",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US336D/0"
+  },
+  {
+   "id": "i39",
+   "code": "US331W",
+   "title": "RO pour les réseaux et le transport",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US331W/0"
+  },
+  {
+   "id": "i40",
+   "code": "US336E",
+   "title": "Integer Optimization for Machine Learning",
+   "ects": 2,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US336E/0"
+  },
+  {
+   "id": "i41",
+   "code": "UA332Z",
+   "title": "Stage",
+   "ects": 20,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA332Z/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

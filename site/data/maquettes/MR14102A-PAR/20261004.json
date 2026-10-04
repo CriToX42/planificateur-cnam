@@ -1,0 +1,430 @@
+{
+ "title": "Master Sciences de l'éducation et de la formation Parcours Conseil intervention développement des compétences",
+ "code": "MR14102A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-sciences-de-l-education-et-de-la-formation-parcours-conseil-intervention-developpement-des-competences-1486996.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i3",
+    "i4",
+    "i5",
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FAD141",
+   "title": "Analyse et conception de référentiels et de certifications",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD141-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FAD110",
+   "title": "Conception et conduite de projets de formation",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i5",
+   "code": "ARA100",
+   "title": "Initiation à la langue et culture arabe, parcours collectif",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ARA100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "FLE100",
+   "title": "Français langue étrangère : parcours collectif",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "FLE200",
+   "title": "Français langue étrangère: parcours personnalisé d'apprentissage",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "FAD132",
+   "title": "Analyser les cadres institutionnels et règlementaires de la conception de parcours",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "FAD108",
+   "title": "Explorer son parcours en vue d'accompagner les transformations identitaires, relationnelles, professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "FAD111",
+   "title": "Analyse du travail et ingénierie de la formation professionnelle",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "FAD114",
+   "title": "Développement des compétences en situation de travail",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "UA211E",
+   "title": "Expérience professionnelle et analyse reflexive",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA211E/0"
+  },
+  {
+   "id": "i13",
+   "code": "CDC200",
+   "title": "Orientation, formation, certification et société :  enjeux contemporains, courants de pensée et pratiques",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "CDC202",
+   "title": "Analyse de pratiques - Régulation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "CDC203",
+   "title": "Approches territoriales et développement socio-économique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "CDC201",
+   "title": "Conduite de l'intervention et réalisation d'une journée d'étude",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "CDC207",
+   "title": "Introduction à l'ergologie",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "CDC208",
+   "title": "Compétence et mobilisation subjective au travail",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "CDC209",
+   "title": "Analyse du travail et ingénierie des compétences",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "CDC204",
+   "title": "Théories et pratiques de l'intervention",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "CDC205",
+   "title": "Evolutions et transformations des organisations",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC205-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "CDC206",
+   "title": "Le groupe dans la pratique d'intervention",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "CDC210",
+   "title": "Atelier méthodologique : conduite et analyse d'entretiens et d'observations",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CDC210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UAFA10",
+   "title": "Mémoire professionnel",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAFA10/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

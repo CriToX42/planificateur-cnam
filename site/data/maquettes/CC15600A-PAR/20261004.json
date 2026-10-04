@@ -1,0 +1,79 @@
+{
+ "title": "Certificat de compétence Outils pratiques pour la démarche de prévention des risques au travail",
+ "code": "CC15600A-PAR",
+ "total_credits": 24,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-outils-pratiques-pour-la-demarche-de-prevention-des-risques-au-travail-1486657.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "HSE102",
+   "title": "Méthodes et outils d'analyse en santé, sécurité au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "HSE103",
+   "title": "Aspects techniques de l'évaluation des différents risques professionnels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "HSE130",
+   "title": "Pratique de l'étude des risques et des systèmes de management SST en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE130-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "title": "Certificat de compétence Management opérationnel (Cnam Paris)",
+ "code": "CC0600A-PAR",
+ "total_credits": 29,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-management-operationnel-cnam-paris--1620855.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i2",
+    "i3"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i4",
+    "i5"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ESC101",
+   "title": "Mercatique I : Les Etudes de marché et les nouveaux enjeux de la Data à l'heure de l'IA",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "MSE101",
+   "title": "Management des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ESC102",
+   "title": "Mercatique II : Stratégie marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CCE105",
+   "title": "Pratiques écrites et orales de la communication professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "EME104",
+   "title": "Gestion des RH et des équipes",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EME104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UAM20A",
+   "title": "Mémoire",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAM20A/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

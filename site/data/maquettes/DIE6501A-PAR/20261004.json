@@ -1,0 +1,316 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Responsable en ingénierie d'étude et de production option Recherche et développement Parcours Génie biologique",
+ "code": "DIE6501A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-responsable-en-ingenierie-d-etude-et-de-production-option-recherche-et-developpement-parcours-genie-biologique-1486823.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i3",
+    "i4"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "3 UE au choix parmi",
+   "rule": {
+    "ue_count": 3,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 18
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BLG106",
+   "title": "Biologie moléculaire de la cellule",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "BLG109",
+   "title": "Ingénierie du Vivant",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "BLG108",
+   "title": "TP de Biologie cellulaire et pharmacologie",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BLG107",
+   "title": "TP de Microbiologie moléculaire",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "BLG104",
+   "title": "Microbiologie : bactériologie, virologie et immunologie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BLG121",
+   "title": "Pharmacologie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BLG105",
+   "title": "Bases de bioexpérimentation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "BNF104",
+   "title": "Utilisation et applications de la bio-informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "BCA121",
+   "title": "Introduction au Génie des Bioprocédés",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "GAN110",
+   "title": "Méthodes spectrométriques et biotechnologies : application à la bioanalyse",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "STA109",
+   "title": "Biostatistique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "HSE110",
+   "title": "Prévention des risques biologiques et épidémiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "",
+   "title": "autres UE possibles après accord du professeur.",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i16",
+   "code": "UA411B",
+   "title": "Expérience professionnelle de 24 mois",
+   "ects": 48,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411B/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

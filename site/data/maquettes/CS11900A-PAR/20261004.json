@@ -1,0 +1,142 @@
+{
+ "title": "Certificat de spécialisation Assurances et gestion des risques",
+ "code": "CS11900A-PAR",
+ "total_credits": 32,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-assurances-et-gestion-des-risques-1486733.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAS1M",
+   "title": "Actuariat",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1M/0"
+  },
+  {
+   "id": "i2",
+   "code": "USAS0G",
+   "title": "Assurances de personnes et leurs développements",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS0G/0"
+  },
+  {
+   "id": "i3",
+   "code": "USAS1H",
+   "title": "Réassurance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1H/0"
+  },
+  {
+   "id": "i4",
+   "code": "USAS2E",
+   "title": "Les assurances de biens et de responsabilité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS2E/0"
+  },
+  {
+   "id": "i5",
+   "code": "USAS1G",
+   "title": "Assurances transport",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1G/0"
+  },
+  {
+   "id": "i6",
+   "code": "USAS1L",
+   "title": "Assurances collectives et prévoyance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1L/0"
+  },
+  {
+   "id": "i7",
+   "code": "USAS0B",
+   "title": "Marketing stratégique",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS0B/0"
+  },
+  {
+   "id": "i8",
+   "code": "USAS1P",
+   "title": "Vision mondiale des acteurs de l'assurance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1P/0"
+  },
+  {
+   "id": "i9",
+   "code": "USAS26",
+   "title": "Risk management",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS26/0"
+  },
+  {
+   "id": "i10",
+   "code": "USAS1N",
+   "title": "Business models",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1N/0"
+  },
+  {
+   "id": "i11",
+   "code": "USAS2C",
+   "title": "Conférences: Risques, transformations et technologies",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS2C/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

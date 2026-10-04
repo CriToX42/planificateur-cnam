@@ -1,0 +1,392 @@
+{
+ "title": "Titre RNCP Niveau 6 Responsable ressources humaines",
+ "code": "CPN0400A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-6-responsable-ressources-humaines-1486704.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i7",
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18",
+    "i19",
+    "i20"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Choix",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG102",
+   "title": "Concevoir et mettre en oeuvre les stratégies de GRH",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FPG106",
+   "title": "Expertise stratégique en GRH",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG107",
+   "title": "Travaux pratiques en ressources humaines",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DSY101",
+   "title": "L'organisation & ses modèles : Panorama",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "FPG108",
+   "title": "Gestion des talents et compétences à l'ère de l'IA générative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "FPG105",
+   "title": "SIRH",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DSY005",
+   "title": "Organisation du travail et des activités",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "FAD142",
+   "title": "Acteurs, instances et aspects juridiques et financiers de la formation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD142-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ERG105",
+   "title": "Introduction à l'Ergonomie : développement du travail, santé, performance et conception",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "ERG135",
+   "title": "Analyse de l'activité :  Modèles, méthodes  et techniques - 1",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG135-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "DRS104",
+   "title": "Droit de la sécurité sociale",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "FAD118",
+   "title": "Conception et pilotage d'une action de formation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "FPG109",
+   "title": "GRH, dialogue social et transformations des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "FPG117",
+   "title": "Les techniques de base de l'audit de rémunération et de l'audit social",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "FPG226",
+   "title": "Digital RH, Intelligence Artificielle, métaverse, chatGPT dans un monde transition écologique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG226-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "PST106",
+   "title": "Clinique de l'activité et psychologie du travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "PST120",
+   "title": "Psychodynamique et psychopathologie du travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UA232B",
+   "title": "Mémoire d'expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA232B/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

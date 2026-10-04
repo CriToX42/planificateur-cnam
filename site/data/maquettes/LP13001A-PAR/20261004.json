@@ -1,0 +1,194 @@
+{
+ "title": "Licence professionnelle métiers de l'information : archives, médiation et patrimoine Parcours Documentation audiovisuelle",
+ "code": "LP13001A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-de-l-information-archives-mediation-et-patrimoine-parcours-documentation-audiovisuelle-1486935.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i3",
+    "i4"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NTD101",
+   "title": "Politique de numérisation et conservation audiovisuelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NTD102",
+   "title": "Digital Asset Management : choisir un logiciel de gestion d'images approprié et respecter la sobriété numérique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ANG100",
+   "title": "Anglais général pour débutants",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NTD105",
+   "title": "Sémiologie, indexation des images et du son - Contribution des professionnels de l'information et du patrimoine à la transition énergétique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "NTD106",
+   "title": "Pratiques d'illustration pour les médias, le cinéma et l'édition",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "NTD213",
+   "title": "Veille, diffusion et valorisation de l'information",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "NTD214",
+   "title": "Les systèmes d'information documentaire : fondamentaux techniques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UAID01",
+   "title": "Stage",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAID01/0"
+  },
+  {
+   "id": "i10",
+   "code": "UAID02",
+   "title": "Projet tuteuré : mémoire",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAID02/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

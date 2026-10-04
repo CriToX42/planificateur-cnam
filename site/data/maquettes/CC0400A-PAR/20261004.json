@@ -1,0 +1,147 @@
+{
+ "title": "Certificat de compétence Introduction à la cyberstructure de l'informatique en nuage",
+ "code": "CC0400A-PAR",
+ "total_credits": 36,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-introduction-a-la-cyberstructure-de-l-informatique-en-nuage-1486628.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NSY104",
+   "title": "Architectures des systèmes informatiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NSY104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "RSX101",
+   "title": "Réseaux et protocoles pour l'Internet",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RSX102",
+   "title": "Technologies pour les applications en réseau : contribution au profil NetDevOps",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "RSX103",
+   "title": "Conception et urbanisation de services réseau",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "RSX112",
+   "title": "Sécurité des réseaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RSX112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "SMB111",
+   "title": "Systèmes et applications répartis pour le cloud",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=SMB111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "NFP107",
+   "title": "Systèmes de gestion de bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP107-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

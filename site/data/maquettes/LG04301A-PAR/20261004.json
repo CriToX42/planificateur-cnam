@@ -1,0 +1,700 @@
+{
+ "title": "Licence Economie Parcours Analyse économique et financière",
+ "code": "LG04301A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-economie-parcours-analyse-economique-et-financiere-1486920.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L1"
+  },
+  {
+   "id": "y2",
+   "label": "L2"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i22",
+    "i23",
+    "i24",
+    "i25"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i36",
+    "i37",
+    "i38",
+    "i39"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EAR001",
+   "title": "Economie Générale : microéconomie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EAR002",
+   "title": "Economie Générale : macroéconomie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EAR003",
+   "title": "Statistique descriptive",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EAR005",
+   "title": "Statistique inductive",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRA001",
+   "title": "Présentation générale du droit",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "DRA002",
+   "title": "Initiation aux techniques juridiques fondamentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "FPG001",
+   "title": "Initiation au management et Gestion des Ressources Humaines",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CFA006",
+   "title": "Bases et outils de gestion de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "NFE001",
+   "title": "Les outils bureautiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "LSF100",
+   "title": "Introduction à la langue des signes française (LSF) et à la culture Sourde",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LSF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i12",
+   "code": "ARA100",
+   "title": "Initiation à la langue et culture arabe, parcours collectif",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ARA100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "ANG100",
+   "title": "Anglais général pour débutants",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "UAEF01",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEF01/0"
+  },
+  {
+   "id": "i15",
+   "code": "EAR004",
+   "title": "Mathématiques pour la décision I",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "EAR006",
+   "title": "Mathématiques pour la décision II",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "CFA010",
+   "title": "Comptabilité et gestion de l'entreprise",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA010-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ACD001",
+   "title": "Fondements du marketing",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACD001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "STA002",
+   "title": "Apprentissage des logiciels de calcul",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "CCE001",
+   "title": "Outils et démarche de la communication écrite et orale",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "ESC103",
+   "title": "Veille stratégique et concurrentielle",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ESC103/0"
+  },
+  {
+   "id": "i22",
+   "code": "DSY005",
+   "title": "Organisation du travail et des activités",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "TET007",
+   "title": "Recherche d'informations: théorie et pratique sur le web",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET007-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "FPG003",
+   "title": "Projet personnel et professionnel : auto-orientation pédagogique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "AST001",
+   "title": "Introduction à la sociologie",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UAEF02",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEF02/0"
+  },
+  {
+   "id": "i27",
+   "code": "ESD104",
+   "title": "Politiques et stratégies économiques dans la mondialisation",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESD104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "EAR110",
+   "title": "L'union européenne : origines et fonctionnement",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EAR110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "GFN101",
+   "title": "Finance d'entreprise : Initiation à la gestion financière",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "GFN103",
+   "title": "Finance d'entreprise : Initiation à l'analyse financière",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "GFN112",
+   "title": "Finance de marché : Les instruments financiers et la gestion de portefeuille",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "GFN113",
+   "title": "Finance de marché : organisation et acteurs des marchés financiers",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "ANG310",
+   "title": "Anglais et pratiques professionnelles",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG310-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i35",
+   "code": "UAEF04",
+   "title": "Méthodologie",
+   "ects": 2,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEF04/0"
+  },
+  {
+   "id": "i36",
+   "code": "DRA103",
+   "title": "Règles générales du droit des contrats",
+   "ects": 4,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "DRF100",
+   "title": "Principes généraux de fiscalité des entreprises",
+   "ects": 4,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i38",
+   "code": "ESC123",
+   "title": "Marketing Digital et Plan d'acquisition on-line",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC123-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i39",
+   "code": "TET010",
+   "title": "Enjeux sociaux et environnementaux du travail et de l'emploi",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET010-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i40",
+   "code": "UAEF03",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEF03/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

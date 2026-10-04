@@ -1,0 +1,517 @@
+{
+ "title": "Titre RNCP Niveau 7 Psychologue du travail",
+ "code": "CPN7400A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-7-psychologue-du-travail-1486707.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g4"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i1"
+   ],
+   "children": [
+    "g3"
+   ],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Si diplôme en Psychologie",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i2",
+    "i3",
+    "i4",
+    "i5",
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g2",
+   "label": "3 UE à choisir parmi",
+   "rule": {
+    "ue_count": 3,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 18
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Si diplôme hors psychologie",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "PST001",
+   "title": "Statistique descriptive et statistique inférentielle appliquées au travail",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PSY201",
+   "title": "Le travail du courage",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "PSY204",
+   "title": "Vers un travail sans le corps ?",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "PSY210",
+   "title": "Le travail vu par les philosophes (atelier de lecture de textes)",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ERG126",
+   "title": "Approche ergonomique des situations de travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ERG126/0"
+  },
+  {
+   "id": "i6",
+   "code": "TET008",
+   "title": "Analyse des situations de travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET008/0"
+  },
+  {
+   "id": "i7",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "TOF101",
+   "title": "Analyse des emplois et des activités professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "NTA101",
+   "title": "Intelligence Artificielle : défis technologiques et enjeux sociétaux",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTA101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "",
+   "title": "Une UE parmi celles du département, après accord du responsable",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i11",
+   "code": "PST001",
+   "title": "Statistique descriptive et statistique inférentielle appliquées au travail",
+   "ects": 4,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "PST002",
+   "title": "Introduction à la psychologie clinique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "PST003",
+   "title": "Introduction à la psychologie sociale et des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "PST004",
+   "title": "Introduction à la psychologie cognitive",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "PST106",
+   "title": "Clinique de l'activité et psychologie du travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "PST120",
+   "title": "Psychodynamique et psychopathologie du travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "PST108",
+   "title": "Psychologie du langage et clinique du dialogue",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "PST116",
+   "title": "Clinique de l'expérience professionnelle : formation pratique",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "PST117",
+   "title": "Textes et théories en psychologie du travail",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "PST218",
+   "title": "Pratiques de terrain en psychologie du travail",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "PST115",
+   "title": "Les méthodes psychométriques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "PST123",
+   "title": "Le psychologue, le travail et l'emploi",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST123-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "PST124",
+   "title": "Transformations digitales des activités et clinique des usages",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UAPS08",
+   "title": "Expérience professionnelle",
+   "ects": 30,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAPS08/0"
+  },
+  {
+   "id": "i25",
+   "code": "PST219",
+   "title": "Préparation au diplôme de psychologue du travail",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PST219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UAPS07",
+   "title": "Mémoire",
+   "ects": 44,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAPS07/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

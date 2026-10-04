@@ -1,0 +1,243 @@
+{
+ "title": "Master Electronique, énergie électrique et automatique parcours Systèmes de Communication Hautes Fréquences",
+ "code": "MR15200A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-electronique-energie-electrique-et-automatique-parcours-systemes-de-communication-hautes-frequences-1487006.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "4 unités à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 8
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USEA3F",
+   "title": "Electromagnétisme appliqué",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3F/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEA3M",
+   "title": "Propagation des ondes radio",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3M/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEA9Z",
+   "title": "Fonctions et circuits passifs RF et micro-ondes",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA9Z/0"
+  },
+  {
+   "id": "i4",
+   "code": "USEA3G",
+   "title": "Fonctions et circuits actifs RF et microondes",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3G/0"
+  },
+  {
+   "id": "i5",
+   "code": "USEA3E",
+   "title": "Communication Numérique avancée",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3E/0"
+  },
+  {
+   "id": "i6",
+   "code": "USEA3T",
+   "title": "Antennes et traitement",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3T/0"
+  },
+  {
+   "id": "i7",
+   "code": "USEA3Q",
+   "title": "Analyse de cycle de vie",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3Q/0"
+  },
+  {
+   "id": "i8",
+   "code": "USEA3N",
+   "title": "Techniques d'apprentissage automatique",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3N/0"
+  },
+  {
+   "id": "i9",
+   "code": "USEA3H",
+   "title": "Optoélectronique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3H/0"
+  },
+  {
+   "id": "i10",
+   "code": "USEA3S",
+   "title": "Systèmes de transmission optique de nouvelle génération",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3S/0"
+  },
+  {
+   "id": "i11",
+   "code": "USEA3L",
+   "title": "Méthodes numériques pour l'électromagnétisme",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3L/0"
+  },
+  {
+   "id": "i12",
+   "code": "USEA8B",
+   "title": "Techniques de mesures hyperfréquences",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA8B/0"
+  },
+  {
+   "id": "i13",
+   "code": "USEA3P",
+   "title": "Composants et circuits intégrés pour systèmes micro-ondes",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3P/0"
+  },
+  {
+   "id": "i14",
+   "code": "USEA8A",
+   "title": "Autonomie énergétique des capteurs communicants",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA8A/0"
+  },
+  {
+   "id": "i15",
+   "code": "USEA3J",
+   "title": "Nouvelles technologies de communications radio et mobiles",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3J/0"
+  },
+  {
+   "id": "i16",
+   "code": "USEA3K",
+   "title": "Systèmes radar",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3K/0"
+  },
+  {
+   "id": "i17",
+   "code": "USEA3R",
+   "title": "Liaisons optiques pour le très haut débit",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEA3R/0"
+  },
+  {
+   "id": "i18",
+   "code": "UAEA0N",
+   "title": "Stage M2",
+   "ects": 30,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEA0N/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

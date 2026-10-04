@@ -1,0 +1,239 @@
+{
+ "title": "Licence professionnelle Assurance, banque, finance : supports opérationnels Parcours Conseiller, souscripteur, gestionnaire en assurances en formation continue",
+ "code": "LP10001B-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-assurance-banque-finance-supports-operationnels-parcours-conseiller-souscripteur-gestionnaire-en-assurances-en-formation-continue-1486921.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UA à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 0
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAS01",
+   "title": "Economie du risque et de l'assurance",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS01/0"
+  },
+  {
+   "id": "i2",
+   "code": "US122U",
+   "title": "Stratégies des acteurs",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US122U/0"
+  },
+  {
+   "id": "i3",
+   "code": "US122V",
+   "title": "L'environnement de l'assureur et de l'assuré européen",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US122V/0"
+  },
+  {
+   "id": "i4",
+   "code": "USAS02",
+   "title": "Le client au coeur de la stratégie des entreprises",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS02/0"
+  },
+  {
+   "id": "i5",
+   "code": "USAS35",
+   "title": "Management de proximité",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS35/0"
+  },
+  {
+   "id": "i6",
+   "code": "US1230",
+   "title": "Les assurances collectives",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1230/0"
+  },
+  {
+   "id": "i7",
+   "code": "US1231",
+   "title": "Les assurances de biens et la responsabilité des particuliers et des professionnels",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1231/0"
+  },
+  {
+   "id": "i8",
+   "code": "US1232",
+   "title": "Les assurances vie du particulier",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1232/0"
+  },
+  {
+   "id": "i9",
+   "code": "US1233",
+   "title": "Les assurances de biens et la responsabilité des entreprises et des collectivités",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1233/0"
+  },
+  {
+   "id": "i10",
+   "code": "US121Y",
+   "title": "Fondamentaux de l'assurance",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US121Y/0"
+  },
+  {
+   "id": "i11",
+   "code": "US121Z",
+   "title": "Anglais de l'assurance",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US121Z/0"
+  },
+  {
+   "id": "i12",
+   "code": "USAS36",
+   "title": "Données, IA et transformation numérique en assurance",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS36/0"
+  },
+  {
+   "id": "i13",
+   "code": "UAAL15",
+   "title": "Expérience professionnelle",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAL15/0"
+  },
+  {
+   "id": "i14",
+   "code": "UAAS0M",
+   "title": "Projet tuteuré",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAS0M/0"
+  },
+  {
+   "id": "i15",
+   "code": "UAAS02",
+   "title": "Mémoire",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAS02/0"
+  },
+  {
+   "id": "i16",
+   "code": "UAAL11",
+   "title": "Fabrication collaborative et culture maker : initiation à la fabrication numérique et participation à un lieu collaboratif",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAL11/0"
+  },
+  {
+   "id": "i17",
+   "code": "UAAL12",
+   "title": "Fabrication collaborative et culture maker :  création en arts numériques",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAL12/0"
+  },
+  {
+   "id": "i18",
+   "code": "UAAL13",
+   "title": "Fabrication collaborative et culture maker : technique responsable et ingénierie low-tech",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAL13/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

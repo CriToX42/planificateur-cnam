@@ -1,0 +1,509 @@
+{
+ "title": "Licence Génie civil Parcours Ingénierie du bâtiment en formation continue hors temps de travail",
+ "code": "LG03503A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-genie-civil-parcours-ingenierie-du-batiment-en-formation-continue-hors-temps-de-travail-1486895.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BTP001",
+   "title": "Construction",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP001/0"
+  },
+  {
+   "id": "i2",
+   "code": "BTP004",
+   "title": "Réhabilitation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP004/0"
+  },
+  {
+   "id": "i3",
+   "code": "BTP002",
+   "title": "Métré, études de prix et économie de la construction",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP002/0"
+  },
+  {
+   "id": "i4",
+   "code": "BTP009",
+   "title": "Matériaux de construction",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP009-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "MVA013",
+   "title": "Bases scientifiques (Mathématiques)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA013-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BTP005",
+   "title": "Résistance des matériaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BTP013",
+   "title": "Physique du bâtiment",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP013-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UABT39",
+   "title": "Expérience professionnelle (DEUST1)",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT39/0"
+  },
+  {
+   "id": "i10",
+   "code": "BTP003",
+   "title": "Maquette numérique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP003/0"
+  },
+  {
+   "id": "i11",
+   "code": "BTP014",
+   "title": "Dessin assisté par ordinateur",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP014/0"
+  },
+  {
+   "id": "i12",
+   "code": "BTP007",
+   "title": "Béton armé et précontraint",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP007-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "BTP008",
+   "title": "Constructions métalliques et bois",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP008-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "BTP006",
+   "title": "Géotechnique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "BTP010",
+   "title": "Technologie de chantier",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP010/0"
+  },
+  {
+   "id": "i16",
+   "code": "BTP011",
+   "title": "Organisation de chantier",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP011-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "BTP012",
+   "title": "Topographie",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP012/0"
+  },
+  {
+   "id": "i18",
+   "code": "UABT41",
+   "title": "Expérience professionnelle (DEUST 2)",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT41/0"
+  },
+  {
+   "id": "i19",
+   "code": "UTC110",
+   "title": "Mathématiques appliquées",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "UTC102",
+   "title": "Sciences des matériaux",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UTC103",
+   "title": "Résistance des matériaux",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "UTC104",
+   "title": "Mécanique des sols",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "UTC105",
+   "title": "Thermique, acoustique, mécanique des fluides",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "BTP111",
+   "title": "Thermique du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "BTP112",
+   "title": "Acoustique du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "BTP116",
+   "title": "Enveloppes du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "BTP117",
+   "title": "Chauffage, ventilation, climatisation",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP117/0"
+  },
+  {
+   "id": "i28",
+   "code": "BTP118",
+   "title": "Systèmes énergétiques du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP118/0"
+  },
+  {
+   "id": "i29",
+   "code": "BTP119",
+   "title": "Electricité du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "ENG256",
+   "title": "Information et communication scientifique BTP",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG256-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "UABT49",
+   "title": "Expérience professionnelle L3",
+   "ects": 15,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT49/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

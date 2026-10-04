@@ -1,0 +1,43 @@
+{
+ "title": "Diplôme inter-universitaire Humanités cliniques avec sorbonne Université (Cnam Paris)",
+ "code": "DIU0400A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-inter-universitaire-humanites-cliniques-avec-sorbonne-universite-cnam-paris--1620865.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA1Y",
+   "title": "Eléments de théorie (Philosophie, Ethique, Psychopathologie)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA1Y/0"
+  },
+  {
+   "id": "i2",
+   "code": "USSA1Z",
+   "title": "Pratique, expérimentation et application sur le terrain : amélioration de l'environnement du soin par la mise en place d'un proof of care",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA1Z/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

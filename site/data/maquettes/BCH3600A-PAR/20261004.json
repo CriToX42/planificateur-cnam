@@ -1,0 +1,733 @@
+{
+ "title": "Diplôme établissement Bachelor Entreprendre dans les métiers d’art et de la création",
+ "code": "BCH3600A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-etablissement-bachelor-entreprendre-dans-les-metiers-d-art-et-de-la-creation-1486624.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i15",
+    "i16"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USMP2R",
+   "title": "Sciences humaines et sociales",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2R/0"
+  },
+  {
+   "id": "i2",
+   "code": "USMP2S",
+   "title": "Histoire de l'art",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2S/0"
+  },
+  {
+   "id": "i3",
+   "code": "USMP2T",
+   "title": "Recherche documentaire",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2T/0"
+  },
+  {
+   "id": "i4",
+   "code": "USMP2U",
+   "title": "Culture visuelle et design",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2U/0"
+  },
+  {
+   "id": "i5",
+   "code": "USMP2V",
+   "title": "Culture économique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2V/0"
+  },
+  {
+   "id": "i6",
+   "code": "USMP2W",
+   "title": "Les bases de la gestion d'entreprise",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2W/0"
+  },
+  {
+   "id": "i7",
+   "code": "USMP2X",
+   "title": "Droit du travail",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2X/0"
+  },
+  {
+   "id": "i8",
+   "code": "USMP2Y",
+   "title": "Veille stratégique et concurrentiel",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2Y/0"
+  },
+  {
+   "id": "i9",
+   "code": "USMP2Z",
+   "title": "Génèse de l'idée entrepreneuriale",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP2Z/0"
+  },
+  {
+   "id": "i10",
+   "code": "USMP30",
+   "title": "Approfondissement des outils bureautiques",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP30/0"
+  },
+  {
+   "id": "i11",
+   "code": "USMP31",
+   "title": "Communication écrite professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP31/0"
+  },
+  {
+   "id": "i12",
+   "code": "USMP32",
+   "title": "Communication orale professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP32/0"
+  },
+  {
+   "id": "i13",
+   "code": "USMP33",
+   "title": "Mathématiques appliquées à la gestion et à la veille économique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP33/0"
+  },
+  {
+   "id": "i14",
+   "code": "USMP34",
+   "title": "Anglais professionnel",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP34/0"
+  },
+  {
+   "id": "i15",
+   "code": "USMP35",
+   "title": "Méthodologie design",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP35/0"
+  },
+  {
+   "id": "i16",
+   "code": "USMP36",
+   "title": "Mise en récit du projet",
+   "ects": 1,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP36/0"
+  },
+  {
+   "id": "i17",
+   "code": "USMP36",
+   "title": "Mise en récit du projet",
+   "ects": 1,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP36/0"
+  },
+  {
+   "id": "i18",
+   "code": "USMP37",
+   "title": "Conception d'un projet",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP37/0"
+  },
+  {
+   "id": "i19",
+   "code": "UAMP0B",
+   "title": "Stage découverte",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMP0B/0"
+  },
+  {
+   "id": "i20",
+   "code": "UAMP0C",
+   "title": "Stage d'immersion",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMP0C/0"
+  },
+  {
+   "id": "i21",
+   "code": "USMP38",
+   "title": "Sciences humaines et sociales",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP38/0"
+  },
+  {
+   "id": "i22",
+   "code": "USMP39",
+   "title": "Histoire de l'art",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP39/0"
+  },
+  {
+   "id": "i23",
+   "code": "USMP3A",
+   "title": "Culture visuelle et design",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3A/0"
+  },
+  {
+   "id": "i24",
+   "code": "USMP3B",
+   "title": "Panorama des formes d'organisations économiques",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3B/0"
+  },
+  {
+   "id": "i25",
+   "code": "USMP3C",
+   "title": "Conception d'outils de gestion",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3C/0"
+  },
+  {
+   "id": "i26",
+   "code": "USMP3D",
+   "title": "Droit du travail",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3D/0"
+  },
+  {
+   "id": "i27",
+   "code": "USMP3E",
+   "title": "Droit des affaires",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3E/0"
+  },
+  {
+   "id": "i28",
+   "code": "USMP3F",
+   "title": "Veille stratégique et concurrentiel",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3F/0"
+  },
+  {
+   "id": "i29",
+   "code": "USMP3G",
+   "title": "Conception d'un projet entrepreneurial",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3G/0"
+  },
+  {
+   "id": "i30",
+   "code": "USMP3H",
+   "title": "Management de projet",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3H/0"
+  },
+  {
+   "id": "i31",
+   "code": "USMP3J",
+   "title": "GRH-Management",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3J/0"
+  },
+  {
+   "id": "i32",
+   "code": "USMP3K",
+   "title": "Management des transitions",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3K/0"
+  },
+  {
+   "id": "i33",
+   "code": "USMP3L",
+   "title": "Mercatique",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3L/0"
+  },
+  {
+   "id": "i34",
+   "code": "USMP3M",
+   "title": "Approfondissement des outils bureautiques",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3M/0"
+  },
+  {
+   "id": "i35",
+   "code": "USMP3N",
+   "title": "Communication écrite professionnelle",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3N/0"
+  },
+  {
+   "id": "i36",
+   "code": "USMP3P",
+   "title": "Communication orale professionnelle",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3P/0"
+  },
+  {
+   "id": "i37",
+   "code": "USMP3Q",
+   "title": "Mathamatiques appliquées à la gestion et à la veille économique",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3Q/0"
+  },
+  {
+   "id": "i38",
+   "code": "USMP3R",
+   "title": "Anglais professionnel",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3R/0"
+  },
+  {
+   "id": "i39",
+   "code": "USMP3S",
+   "title": "Expérimentation créative",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3S/0"
+  },
+  {
+   "id": "i40",
+   "code": "USMP3T",
+   "title": "Projet tuteuré",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3T/0"
+  },
+  {
+   "id": "i41",
+   "code": "USMP3U",
+   "title": "Méthodologie design",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3U/0"
+  },
+  {
+   "id": "i42",
+   "code": "USMP3V",
+   "title": "Mise en récit du projet",
+   "ects": 1,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3V/0"
+  },
+  {
+   "id": "i43",
+   "code": "USMP3W",
+   "title": "Conception d'un projet",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3W/0"
+  },
+  {
+   "id": "i44",
+   "code": "USMP3X",
+   "title": "Sciences humaines et sociales",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3X/0"
+  },
+  {
+   "id": "i45",
+   "code": "USMP3Y",
+   "title": "Culture visuelle et design",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3Y/0"
+  },
+  {
+   "id": "i46",
+   "code": "USMP3Z",
+   "title": "Mise en oeuvre d'outils de gestion",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP3Z/0"
+  },
+  {
+   "id": "i47",
+   "code": "USMP40",
+   "title": "Veille stratégique et concurrentiel",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP40/0"
+  },
+  {
+   "id": "i48",
+   "code": "USMP41",
+   "title": "Réalisation d'un plan d'affaire",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP41/0"
+  },
+  {
+   "id": "i49",
+   "code": "USMP42",
+   "title": "Management de projet",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP42/0"
+  },
+  {
+   "id": "i50",
+   "code": "USMP43",
+   "title": "GRH-Management",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP43/0"
+  },
+  {
+   "id": "i51",
+   "code": "USMP44",
+   "title": "Management des transitions",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP44/0"
+  },
+  {
+   "id": "i52",
+   "code": "USMP45",
+   "title": "Réalisation d'un plan de communication",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP45/0"
+  },
+  {
+   "id": "i53",
+   "code": "USMP46",
+   "title": "Anglais professionnel",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP46/0"
+  },
+  {
+   "id": "i54",
+   "code": "USMP47",
+   "title": "Expérimentation créative",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP47/0"
+  },
+  {
+   "id": "i55",
+   "code": "USMP48",
+   "title": "Projet tuteuré",
+   "ects": 8,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP48/0"
+  },
+  {
+   "id": "i56",
+   "code": "USMP49",
+   "title": "Méthodologie design",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP49/0"
+  },
+  {
+   "id": "i57",
+   "code": "USMP4A",
+   "title": "Mise en récit du projet",
+   "ects": 1,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP4A/0"
+  },
+  {
+   "id": "i58",
+   "code": "USMP4B",
+   "title": "Conception d'un projet",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMP4B/0"
+  },
+  {
+   "id": "i59",
+   "code": "UAMP0D",
+   "title": "Mémoire professionnel",
+   "ects": 7,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMP0D/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

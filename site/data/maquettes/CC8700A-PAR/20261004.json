@@ -1,0 +1,159 @@
+{
+ "title": "Certificat de compétence Bioanalyse",
+ "code": "CC8700A-PAR",
+ "total_credits": 36,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-bioanalyse-1486680.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i5",
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CHG102",
+   "title": "Physico-chimie pour la biologie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GAN110",
+   "title": "Méthodes spectrométriques et biotechnologies : application à la bioanalyse",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GAN104",
+   "title": "Méthodes séparatives et techniques couplées",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "GAN105",
+   "title": "Méthodologie analytique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "MTR204",
+   "title": "Mesure, qualité, plans d'expérience",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BNF104",
+   "title": "Utilisation et applications de la bio-informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "GAN116",
+   "title": "Kits de diagnostic : de la conception à l'utilisation des kits de détection pour le diagnostic en santé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i8",
+   "code": "UA000V",
+   "title": "Projet tuteuré",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA000V/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

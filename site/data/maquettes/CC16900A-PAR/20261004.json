@@ -1,0 +1,80 @@
+{
+ "title": "Certificat de compétence Accompagner les personnes dans leur parcours de formation et de transition professionnelle",
+ "code": "CC16900A-PAR",
+ "total_credits": 18,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-accompagner-les-personnes-dans-leur-parcours-de-formation-et-de-transition-professionnelle-1486667.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FAD132",
+   "title": "Analyser les cadres institutionnels et règlementaires de la conception de parcours",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FAD108",
+   "title": "Explorer son parcours en vue d'accompagner les transformations identitaires, relationnelles, professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FAD130",
+   "title": "Accompagner le parcours de formation et de transition professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD130-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

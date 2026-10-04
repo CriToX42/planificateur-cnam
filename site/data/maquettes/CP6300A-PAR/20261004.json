@@ -1,0 +1,72 @@
+{
+ "title": "Certificat professionnel Fondamentaux de la paie",
+ "code": "CP6300A-PAR",
+ "total_credits": 16,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-fondamentaux-de-la-paie-1486700.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG104",
+   "title": "Gestion de la paie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FPG115",
+   "title": "Gestion de la paie (Approfondissements)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRS101",
+   "title": "Droit du travail : relations individuelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS101-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

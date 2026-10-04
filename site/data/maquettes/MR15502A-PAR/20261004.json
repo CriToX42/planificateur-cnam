@@ -1,0 +1,548 @@
+{
+ "title": "Master génie civil Parcours Gestion de projet de construction durable en Formation continue hors temps de travail",
+ "code": "MR15502A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-genie-civil-parcours-gestion-de-projet-de-construction-durable-en-formation-continue-hors-temps-de-travail-1551000.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "18 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 18,
+    "min_domains": null,
+    "total_ects": 18
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Choix",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i9"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Choix",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "£Building information modeling",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i19",
+    "i20",
+    "i21",
+    "i22",
+    "i23",
+    "i24",
+    "i25",
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "au moins 17 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 17,
+    "min_domains": null,
+    "total_ects": 17
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UABT43",
+   "title": "Parcours individualisé – positionnement dans le cursus Master génie civil (MR155)",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT43/0"
+  },
+  {
+   "id": "i2",
+   "code": "BTP113",
+   "title": "Gestion de projet de construction",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "BTP197",
+   "title": "Droit de la construction",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP197-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BTP120",
+   "title": "Management de projet  BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP120/0"
+  },
+  {
+   "id": "i5",
+   "code": "BTP166",
+   "title": "Outils numériques et IA pour la gestion de projet BTP",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP166-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BTP196",
+   "title": "Innovation et entrepreneuriat dans le BTP",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP196-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BTP111",
+   "title": "Thermique du bâtiment",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "BTP114",
+   "title": "Préparation de chantiers",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP114/0"
+  },
+  {
+   "id": "i9",
+   "code": "BTP124",
+   "title": "Villes intelligentes",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "BTP171",
+   "title": "Programmation BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP171-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "",
+   "title": "18 crédits au choix de niveau III",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i12",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "UABT44",
+   "title": "Expérience professionnelle (M1)",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT44/0"
+  },
+  {
+   "id": "i14",
+   "code": "BTP198",
+   "title": "Economie de la construction durable",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP198-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "BTP199",
+   "title": "Management de la construction durable",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP199-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "BTP216",
+   "title": "Transitions environnementales de l'aménagement et de la construction",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP216-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "GDE201",
+   "title": "Développement durable & RSE (1)",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDE201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "BTP173",
+   "title": "Outils Numériques, Labs, processus : BIM, Réalité virtuelle, Jumeaux Numériques, IA",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP173-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "BTP165",
+   "title": "Outils BIM pour le bureau thermique du bâtiment",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP165-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "BTP170",
+   "title": "Stratégie BIM",
+   "ects": 3,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP170-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "BTP214",
+   "title": "Matériaux et structures innovantes BTP",
+   "ects": 3,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "BTP215",
+   "title": "Règlementations du bâtiment et labellisation",
+   "ects": 3,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "GDE202",
+   "title": "Développement Durable & RSE (2)",
+   "ects": 4,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDE202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "NCU221",
+   "title": "Ville numérique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NCU221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "PRS201",
+   "title": "Prospective, décision, transformation",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UEV233",
+   "title": "Développement durable et territoires",
+   "ects": 4,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV233-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "",
+   "title": "18 crédits au choix de niveau III",
+   "ects": 18,
+   "year": "y2",
+   "group": "g5",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i28",
+   "code": "BTP212",
+   "title": "Atelier de management de l'écoconstruction",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "UABT15",
+   "title": "Mémoire (M2)",
+   "ects": 18,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT15/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "title": "Certificat professionnel Assistant administratif",
+ "code": "CP3700A-PAR",
+ "total_credits": 50,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-assistant-administratif-1486692.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "TET003",
+   "title": "Méthodes de recherche et traitement de l'information : entretiens et questionnaires professionnels",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TET003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CFA006",
+   "title": "Bases et outils de gestion de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CCE003",
+   "title": "Pratiques de l'accueil, de la négociation et de la communication",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DSY005",
+   "title": "Organisation du travail et des activités",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRS003",
+   "title": "Droit du travail : bases - aspects individuels et collectifs",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "DNF001",
+   "title": "Ouverture au monde du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNF001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "NFE001",
+   "title": "Les outils bureautiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UADR07",
+   "title": "Expérience professionnelle, stage ou pré-projet entrepreunarial",
+   "ects": 16,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UADR07/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Certificat de spécialisation Bio-informatique avancée",
+ "code": "CS8800A-PAR",
+ "total_credits": 27,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-bio-informatique-avancee-1486762.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BNF201",
+   "title": "Bio-informatique structurale, drug design",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "BNF202",
+   "title": "Nouvelles technologies et leur exploitation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "BNF203",
+   "title": "Outils mathématiques et informatiques pour la génomique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BNF203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "STA211",
+   "title": "Entreposage et fouille de données",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA211-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Certificat de spécialisation Management de l'innovation collaborative",
+ "code": "CS5500A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-management-de-l-innovation-collaborative-1486749.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "GDN207",
+   "title": "Dynamiques collaboratives de l'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GDN208",
+   "title": "Meilleures pratiques de l'innovation collaborative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GDN209",
+   "title": "Coaching et dynamiques collaboratives des équipes d'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "GDN231",
+   "title": "Art & Innovation Responsable - Innovation Ecosystems for the Creative Economy",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN231-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

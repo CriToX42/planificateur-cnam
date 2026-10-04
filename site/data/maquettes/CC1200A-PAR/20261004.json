@@ -1,0 +1,151 @@
+{
+ "title": "Certificat de compétence Data analyst - Chargé(e) d'études statistiques",
+ "code": "CC1200A-PAR",
+ "total_credits": 45,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-data-analyst-charge-e-d-etudes-statistiques-1486642.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "STA101",
+   "title": "Analyse des données : méthodes descriptives",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "STA102",
+   "title": "Modèles linéaires",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "STA116",
+   "title": "Modélisation et prévision des séries chronologiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "STA117",
+   "title": "Introduction aux données fonctionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "STA108",
+   "title": "Enquêtes et sondages",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ESC101",
+   "title": "Mercatique I : Les Etudes de marché et les nouveaux enjeux de la Data à l'heure de l'IA",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "STA118",
+   "title": "Outils informatiques de la statistique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "STA119",
+   "title": "Confidentialité et protection des données",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA119-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

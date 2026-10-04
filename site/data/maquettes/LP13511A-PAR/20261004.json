@@ -1,0 +1,239 @@
+{
+ "title": "Licence professionnelle métiers du BTP : génie civil et construction Parcours Bureau d'études structure et BIM En formation continue hors temps de travail",
+ "code": "LP13511A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-du-btp-genie-civil-et-construction-parcours-bureau-d-etudes-structure-et-bim-en-formation-continue-hors-temps-de-travail-1559316.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "3e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i4",
+    "i5",
+    "i6"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "3 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 3,
+    "min_domains": null,
+    "total_ects": 3
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UABT42",
+   "title": "Parcours individualisé – positionnement dans le cursus LP métiers du BTP : génie civil et construction (LP135)",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT42/0"
+  },
+  {
+   "id": "i2",
+   "code": "UTC110",
+   "title": "Mathématiques appliquées",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC103",
+   "title": "Résistance des matériaux",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BTP109",
+   "title": "Fondations",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "BTP107",
+   "title": "Constructions métalliques",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BTP108",
+   "title": "Constructions bois",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BTP164",
+   "title": "Outils BIM pour le bureau d'études structures BTP",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP164-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "BTP120",
+   "title": "Management de projet  BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP120/0"
+  },
+  {
+   "id": "i9",
+   "code": "BTP171",
+   "title": "Programmation BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP171-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "BTP172",
+   "title": "Traitement des données BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP172-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "UABT16",
+   "title": "Expérience professionnelle et projet tutoré (LP3)",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT16/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

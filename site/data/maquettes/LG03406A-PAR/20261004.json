@@ -1,0 +1,716 @@
+{
+ "title": "Licence Sciences pour l'ingénieur parcours Mécanique (Cnam Paris)",
+ "code": "LG03406A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-sciences-pour-l-ingenieur-parcours-mecanique-cnam-paris--1620872.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L1"
+  },
+  {
+   "id": "y2",
+   "label": "L2"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i17",
+    "i18",
+    "i19",
+    "i20",
+    "i21"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i28",
+    "i29",
+    "i30",
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35",
+    "i36",
+    "i37",
+    "i38",
+    "i39",
+    "i40",
+    "i41",
+    "i42",
+    "i43",
+    "i44",
+    "i45",
+    "i46"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "Un groupe de 4 UE de la même spécialité à choisir parmi",
+   "rule": {
+    "ue_count": 4,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 24
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "MVA013",
+   "title": "Bases scientifiques (Mathématiques)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA013-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PHR020",
+   "title": "Bases scientifiques pour la mécanique et l'électricité. Exemples industriels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/PHR020/0"
+  },
+  {
+   "id": "i3",
+   "code": "MEC003",
+   "title": "Mesure des grandeurs mécaniques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC003/0"
+  },
+  {
+   "id": "i4",
+   "code": "CSC012",
+   "title": "Informatique Appliquée au Calcul Scientifique 1",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC012/0"
+  },
+  {
+   "id": "i5",
+   "code": "MTX001",
+   "title": "Technologie des matériaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MEC001",
+   "title": "Notions fondamentales de mécanique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC001/0"
+  },
+  {
+   "id": "i7",
+   "code": "MEC009",
+   "title": "Dynamique des solides",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC009/0"
+  },
+  {
+   "id": "i8",
+   "code": "UAME0N",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAME0N/0"
+  },
+  {
+   "id": "i9",
+   "code": "ENM001",
+   "title": "Thermodynamique générale 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENM001/0"
+  },
+  {
+   "id": "i10",
+   "code": "MTR001",
+   "title": "Mesure en laboratoire et en industrie 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MTR001/0"
+  },
+  {
+   "id": "i11",
+   "code": "CSC013",
+   "title": "Informatique Appliquée au Calcul Scientifique 2",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC013/0"
+  },
+  {
+   "id": "i12",
+   "code": "AER003",
+   "title": "Mécanique des fluides élémentaire",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "AER004",
+   "title": "Mécanique des fluides appliquée",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "FAB009",
+   "title": "Production et usinage",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB009/0"
+  },
+  {
+   "id": "i15",
+   "code": "MEC005",
+   "title": "Dimensionnement des structures",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC005/0"
+  },
+  {
+   "id": "i16",
+   "code": "MEC010",
+   "title": "Conception mécanique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC010/0"
+  },
+  {
+   "id": "i17",
+   "code": "CSC001",
+   "title": "Analyse numérique en langage de programmation  C/C++ (1)",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ENF013",
+   "title": "Principes, technologies et pratiques des installations de froid et climatisation",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i19",
+   "code": "MEC011",
+   "title": "TP Conception mécanique",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC011/0"
+  },
+  {
+   "id": "i20",
+   "code": "MEC007",
+   "title": "TP Détermination expérimentale des contraintes",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC007/0"
+  },
+  {
+   "id": "i21",
+   "code": "FAB011",
+   "title": "Contrôle et qualité en fabrication",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB011/0"
+  },
+  {
+   "id": "i22",
+   "code": "UAME0P",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAME0P/0"
+  },
+  {
+   "id": "i23",
+   "code": "ETR102",
+   "title": "Communication et information scientifique",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ETR102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UTC604",
+   "title": "Mathématiques pour ingénieur",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC604-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "UTC402",
+   "title": "Introduction à la mécanique des solides déformables",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC402-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UTC101",
+   "title": "Mathématiques appliquées : Mathématiques - informatique - méthodes numériques",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "UTC403",
+   "title": "Introduction à la physique des vibrations et des ondes",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC403-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "UTC405",
+   "title": "Notions fondamentales sur les matériaux",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC405-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "ACC110",
+   "title": "Acoustique des salles et sonorisation",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "ACC111",
+   "title": "Acoustique du bâtiment et réglementation",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "ACC120",
+   "title": "Instrumentation et mesures",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "ACC115",
+   "title": "Travaux pratiques d'acoustique",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "AER102",
+   "title": "Dynamique des gaz en écoulements compressibles",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i35",
+   "code": "AER104",
+   "title": "Mécanique des fluides",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i36",
+   "code": "AER118",
+   "title": "UE optionnelles proposées :",
+   "ects": 0,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i37",
+   "code": "AER112",
+   "title": "Mécanique du vol",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i38",
+   "code": "AER108",
+   "title": "Aérodynamique de l'aile",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i39",
+   "code": "MEC121",
+   "title": "Mécanique des solides",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i40",
+   "code": "MEC124",
+   "title": "Analyse et modélisation des mécanismes",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i41",
+   "code": "MEC125",
+   "title": "Vibrations des structures",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC125-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i42",
+   "code": "MEC126",
+   "title": "Calcul des structures par éléments finis",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC126-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i43",
+   "code": "FAB101",
+   "title": "Procédés d'obtention des préformes",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB101/0"
+  },
+  {
+   "id": "i44",
+   "code": "FAB112",
+   "title": "Démarche et outils de conception des systèmes",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i45",
+   "code": "FAB104",
+   "title": "Maîtrise statistique de la production",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB104/0"
+  },
+  {
+   "id": "i46",
+   "code": "FAB208",
+   "title": "Démarche de conception produit-process",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB208/0"
+  },
+  {
+   "id": "i47",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i48",
+   "code": "UAME0Q",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAME0Q/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

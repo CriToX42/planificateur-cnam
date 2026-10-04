@@ -1,0 +1,76 @@
+{
+ "title": "Certificat de spécialisation Ingénierie spatiale",
+ "code": "CS12200A-PAR",
+ "total_credits": 24,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-ingenierie-spatiale-1552009.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "AER102",
+   "title": "Dynamique des gaz en écoulements compressibles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "MEC132",
+   "title": "Structures avancées et composites",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MEC132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "AER213",
+   "title": "Fondamentaux de conception spatiale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ACS201",
+   "title": "Les activités spatiales : histoire, acteurs et enjeux environnementaux à l'heure du New Space",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACS201-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

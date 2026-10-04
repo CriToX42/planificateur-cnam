@@ -1,0 +1,620 @@
+{
+ "title": "Master management Parcours Organisation et conduite du changement",
+ "code": "MR12501A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-parcours-organisation-et-conduite-du-changement-1550991.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g5"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i12"
+   ],
+   "children": [
+    "g3",
+    "g4"
+   ],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i1",
+    "i2",
+    "i3",
+    "i4",
+    "i5",
+    "i6",
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g2",
+   "label": "en US",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i9",
+    "i10",
+    "i11"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Une US à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  },
+  {
+   "id": "g5",
+   "items": [],
+   "children": [
+    "g6"
+   ],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18",
+    "i19",
+    "i20",
+    "i21",
+    "i22"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g5",
+   "label": "en UE",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g7",
+   "items": [
+    "i32",
+    "i33",
+    "i34",
+    "i35"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Choix",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USM31Z",
+   "title": "Pilotage financier",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31Z/0"
+  },
+  {
+   "id": "i2",
+   "code": "USM31V",
+   "title": "Gestion des hommes",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31V/0"
+  },
+  {
+   "id": "i3",
+   "code": "USM31W",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31W/0"
+  },
+  {
+   "id": "i4",
+   "code": "USM31X",
+   "title": "Mercatique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31X/0"
+  },
+  {
+   "id": "i5",
+   "code": "USM31Y",
+   "title": "Principaux contrats de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31Y/0"
+  },
+  {
+   "id": "i6",
+   "code": "USM31U",
+   "title": "Principes généraux et outils du management",
+   "ects": 9,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31U/0"
+  },
+  {
+   "id": "i7",
+   "code": "USM31T",
+   "title": "Théories des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM31T/0"
+  },
+  {
+   "id": "i8",
+   "code": "USM322",
+   "title": "Anglais de spécialité",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM322/0"
+  },
+  {
+   "id": "i9",
+   "code": "USM320",
+   "title": "Recherche d'information",
+   "ects": 4,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM320/0"
+  },
+  {
+   "id": "i10",
+   "code": "USM321",
+   "title": "Technique de la statistique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM321/0"
+  },
+  {
+   "id": "i11",
+   "code": "USM323",
+   "title": "Distribution",
+   "ects": 4,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM323/0"
+  },
+  {
+   "id": "i12",
+   "code": "UAMG0J",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 9,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG0J/0"
+  },
+  {
+   "id": "i13",
+   "code": "GFN106",
+   "title": "Pilotage financier de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "EME104",
+   "title": "Gestion des RH et des équipes",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EME104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "CFA109",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "ESC102",
+   "title": "Mercatique II : Stratégie marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "DRA106",
+   "title": "Principaux contrats de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "DSY103",
+   "title": "Théories & formes des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "ACD108",
+   "title": "Distribution",
+   "ects": 4,
+   "year": "y1",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ACD108/0"
+  },
+  {
+   "id": "i22",
+   "code": "UAMG0U",
+   "title": "Expérience ou stage",
+   "ects": 9,
+   "year": "y1",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG0U/0"
+  },
+  {
+   "id": "i23",
+   "code": "US171H",
+   "title": "Conduite du changement",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171H/0"
+  },
+  {
+   "id": "i24",
+   "code": "US1717",
+   "title": "Conduite des hommes",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1717/0"
+  },
+  {
+   "id": "i25",
+   "code": "USM32B",
+   "title": "Les fondamentaux de la conduite de projet",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32B/0"
+  },
+  {
+   "id": "i26",
+   "code": "USM32H",
+   "title": "Systèmes d'information et management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32H/0"
+  },
+  {
+   "id": "i27",
+   "code": "USM32J",
+   "title": "Qualité et systèmes de management intégrés",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32J/0"
+  },
+  {
+   "id": "i28",
+   "code": "US171J",
+   "title": "Analyse de la valeur",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171J/0"
+  },
+  {
+   "id": "i29",
+   "code": "US171F",
+   "title": "Gestion de la chaîne logistique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171F/0"
+  },
+  {
+   "id": "i30",
+   "code": "US171G",
+   "title": "Méthode et démarche de l'organisation",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171G/0"
+  },
+  {
+   "id": "i31",
+   "code": "US173Z",
+   "title": "Risques psychosociaux",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173Z/0"
+  },
+  {
+   "id": "i32",
+   "code": "USM20J",
+   "title": "Responsabilité sociétale des entreprises",
+   "ects": 4,
+   "year": "y2",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM20J/0"
+  },
+  {
+   "id": "i33",
+   "code": "USM20K",
+   "title": "Management environnemental",
+   "ects": 4,
+   "year": "y2",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM20K/0"
+  },
+  {
+   "id": "i34",
+   "code": "US1740",
+   "title": "Pratique du conseil individualisé",
+   "ects": 4,
+   "year": "y2",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1740/0"
+  },
+  {
+   "id": "i35",
+   "code": "US1741",
+   "title": "De l'économique à l'éthique",
+   "ects": 4,
+   "year": "y2",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1741/0"
+  },
+  {
+   "id": "i36",
+   "code": "",
+   "title": "TOEIC Niveau B1",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i37",
+   "code": "UA170U",
+   "title": "Projet de fin d'études",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA170U/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "title": "Certificat de compétence Référent et chargé de mission emploi et handicap (Cnam Paris)",
+ "code": "CC17900A-PAR",
+ "total_credits": 28,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-referent-et-charge-de-mission-emploi-et-handicap-cnam-paris--1620858.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "HTS107",
+   "title": "La relation d'aide et qualité de vie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "HTS108",
+   "title": "Handicap et insertion professionnelle : de l'orientation à l'accès à l'emploi",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "HTS109",
+   "title": "Handicap et entreprise : de l'intégration au maintien dans l'emploi",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EGS118",
+   "title": "Management des organisations et ressources humaines en secteur médico-social, sanitaire et social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "EGS119",
+   "title": "Méthodologie de conduite de projets en secteur médico-social, sanitaire ou social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UASA03",
+   "title": "Expérience professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA03/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

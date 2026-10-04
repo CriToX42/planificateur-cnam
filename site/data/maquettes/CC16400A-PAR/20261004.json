@@ -1,0 +1,65 @@
+{
+ "title": "Certificat de compétence Guide conférencier",
+ "code": "CC16400A-PAR",
+ "total_credits": 34,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-guide-conferencier-1486663.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USEC65",
+   "title": "Tourisme en transition : connaissance du secteur et gestion de l'activité professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC65/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEC1J",
+   "title": "Langue étrangère, régionale ou langue des signes (niveau C1)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC1J/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEC20",
+   "title": "Méthodologie et techniques de la médiation orale des patrimoines",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC20/0"
+  },
+  {
+   "id": "i4",
+   "code": "UAEC09",
+   "title": "Projet tuteuré",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEC09/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "title": "Doctorat Sciences humaines et humanités nouvelles - spécialité Sociologie",
+ "code": "DOC5500A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/doctorat-sciences-humaines-et-humanites-nouvelles-specialite-sociologie-1617135.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18",
+    "i19",
+    "i20",
+    "i21"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 US à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 0
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USED07",
+   "title": "Journées doctorales",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED07/0"
+  },
+  {
+   "id": "i2",
+   "code": "USED08",
+   "title": "Séminaire d'accueil",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED08/0"
+  },
+  {
+   "id": "i3",
+   "code": "USED0A",
+   "title": "Initiation aux méthodes qualitatives et quantitatives",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0A/0"
+  },
+  {
+   "id": "i4",
+   "code": "USED0D",
+   "title": "Suivi des doctorants pour la réalisation du portfolio des compétences (Portfolio des compétences)",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0D/0"
+  },
+  {
+   "id": "i5",
+   "code": "USED09",
+   "title": "Initiation à l'épistémologie",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED09/0"
+  },
+  {
+   "id": "i6",
+   "code": "USED0B",
+   "title": "Ethique et déontologie scientifique",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0B/0"
+  },
+  {
+   "id": "i7",
+   "code": "USED0C",
+   "title": "Recherche de l'information (Maitrise de l'information scientifique et technique)",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0C/0"
+  },
+  {
+   "id": "i8",
+   "code": "USED10",
+   "title": "Ethique de la recherche et de l'ingénieur",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED10/0"
+  },
+  {
+   "id": "i9",
+   "code": "USED11",
+   "title": "Enjeux climats dans les pratiques de recherche",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED11/0"
+  },
+  {
+   "id": "i10",
+   "code": "USED12",
+   "title": "Module de Santé Planétaire",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED12/0"
+  },
+  {
+   "id": "i11",
+   "code": "USED13",
+   "title": "Les processus d'innovation ; au-delà des objets et de la technique",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED13/0"
+  },
+  {
+   "id": "i12",
+   "code": "USED0E",
+   "title": "Publication et édition scientifique",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0E/0"
+  },
+  {
+   "id": "i13",
+   "code": "USED0F",
+   "title": "Epistémologie (socio-histoire des sciences et sciences sociales)",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0F/0"
+  },
+  {
+   "id": "i14",
+   "code": "USED0G",
+   "title": "Méthodes quantitatives en sciences sociales (spécialisation) : modèles et implémentation en RStudio",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0G/0"
+  },
+  {
+   "id": "i15",
+   "code": "USED0H",
+   "title": "Méthodes qualitatives en SHS (spécialisation) : Formation à la recherche et méthodes qualitatives en sciences humaines et de la société",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0H/0"
+  },
+  {
+   "id": "i16",
+   "code": "USED0J",
+   "title": "Humanités numériques et transformation digitale",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0J/0"
+  },
+  {
+   "id": "i17",
+   "code": "USED0K",
+   "title": "Insertion professionnelle",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0K/0"
+  },
+  {
+   "id": "i18",
+   "code": "USED0L",
+   "title": "Anglais pour la recherche",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0L/0"
+  },
+  {
+   "id": "i19",
+   "code": "USED0M",
+   "title": "Construction des sujets, construction des activités",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0M/0"
+  },
+  {
+   "id": "i20",
+   "code": "USED0N",
+   "title": "Analyses de l'activité et apprentissages professionnels",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0N/0"
+  },
+  {
+   "id": "i21",
+   "code": "USED0P",
+   "title": "Atelier méthodologique",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0P/0"
+  },
+  {
+   "id": "i22",
+   "code": "UASO11",
+   "title": "Soutenance de thèse",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASO11/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Doctorat",
+  "level_in": "Niveau 7 (Bac+5)",
+  "level_out": "Niveau 8 (Bac+8)"
+ }
+}

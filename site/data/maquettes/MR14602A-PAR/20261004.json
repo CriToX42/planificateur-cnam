@@ -1,0 +1,289 @@
+{
+ "title": "Master réseaux et télécommunication Parcours international  Telecommunications and Networks",
+ "code": "MR14602A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-reseaux-et-telecommunication-parcours-international-telecommunications-and-networks-1487001.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USEEJ6",
+   "title": "Network Architecture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ6/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEEJ1",
+   "title": "Mathematics of Random Signal",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ1/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEEJ2",
+   "title": "Digital Signal Processing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ2/0"
+  },
+  {
+   "id": "i4",
+   "code": "USEEJ3",
+   "title": "Introduction of signal processing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ3/0"
+  },
+  {
+   "id": "i5",
+   "code": "USEEJ4",
+   "title": "Digital Communications (1)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ4/0"
+  },
+  {
+   "id": "i6",
+   "code": "USEEJ5",
+   "title": "Digital Communications (2)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ5/0"
+  },
+  {
+   "id": "i7",
+   "code": "USMC87",
+   "title": "Basics of scientific programming - Python/Matlab",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC87/0"
+  },
+  {
+   "id": "i8",
+   "code": "USEEJ7",
+   "title": "Performance Evaluation for Connected Systems",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ7/0"
+  },
+  {
+   "id": "i9",
+   "code": "USEEJ8",
+   "title": "Wireless Mobile Networks",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ8/0"
+  },
+  {
+   "id": "i10",
+   "code": "USEEJ9",
+   "title": "FLE - French as foreign language",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ9/0"
+  },
+  {
+   "id": "i11",
+   "code": "USEEK1",
+   "title": "English",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK1/0"
+  },
+  {
+   "id": "i12",
+   "code": "USMC84",
+   "title": "Scientific Communication I - Disseminating",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC84/0"
+  },
+  {
+   "id": "i13",
+   "code": "USEEK3",
+   "title": "Contemporary Economic Issues - I - Economic growth and public policies",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK3/0"
+  },
+  {
+   "id": "i14",
+   "code": "USEEN4",
+   "title": "Network Operations, Virtualization and Automation",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN4/0"
+  },
+  {
+   "id": "i15",
+   "code": "USEEK7",
+   "title": "Network security",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK7/0"
+  },
+  {
+   "id": "i16",
+   "code": "USEEK4",
+   "title": "Antennas and diversity",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK4/0"
+  },
+  {
+   "id": "i17",
+   "code": "USEEK9",
+   "title": "Internet of things",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK9/0"
+  },
+  {
+   "id": "i18",
+   "code": "USEEK5",
+   "title": "Radiocommunications (1)",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK5/0"
+  },
+  {
+   "id": "i19",
+   "code": "USEEK6",
+   "title": "Radiocommunications (2)",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK6/0"
+  },
+  {
+   "id": "i20",
+   "code": "USMC88",
+   "title": "Basics on Artificial Intelligence and Machine Learning for sciences",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC88/0"
+  },
+  {
+   "id": "i21",
+   "code": "USMC7C",
+   "title": "FLE - French as foreign language",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC7C/0"
+  },
+  {
+   "id": "i22",
+   "code": "USMC85",
+   "title": "Scientific Communication II - Dialoguing",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC85/0"
+  },
+  {
+   "id": "i23",
+   "code": "USMC86",
+   "title": "Contemporary Economic issues - II - Innovation and firms",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC86/0"
+  },
+  {
+   "id": "i24",
+   "code": "UAEE1S",
+   "title": "Internship at company",
+   "ects": 20,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEE1S/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

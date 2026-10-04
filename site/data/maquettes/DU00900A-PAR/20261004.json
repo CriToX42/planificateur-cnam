@@ -1,0 +1,32 @@
+{
+ "title": "Diplôme d'Université Négociation et politique marketing des ESSMS (Cnam Paris)",
+ "code": "DU00900A-PAR",
+ "total_credits": 8,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-negociation-et-politique-marketing-des-essms-cnam-paris--1620871.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA41",
+   "title": "Négociation et politique marketing des ESSMS",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA41/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

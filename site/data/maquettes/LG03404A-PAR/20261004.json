@@ -1,0 +1,605 @@
+{
+ "title": "Licence Sciences pour l'ingénieur Parcours Matériaux",
+ "code": "LG03404A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-sciences-pour-l-ingenieur-parcours-materiaux-1486890.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L1"
+  },
+  {
+   "id": "y2",
+   "label": "L2"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i17",
+    "i18",
+    "i19",
+    "i20",
+    "i21",
+    "i22",
+    "i23"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "4 UE à choisir parmi",
+   "rule": {
+    "ue_count": 4,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 24
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i29",
+    "i30",
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "4 UE à choisir parmi",
+   "rule": {
+    "ue_count": 4,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 24
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "MVA013",
+   "title": "Bases scientifiques (Mathématiques)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA013-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PHR020",
+   "title": "Bases scientifiques pour la mécanique et l'électricité. Exemples industriels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/PHR020/0"
+  },
+  {
+   "id": "i3",
+   "code": "MEC003",
+   "title": "Mesure des grandeurs mécaniques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC003/0"
+  },
+  {
+   "id": "i4",
+   "code": "CSC012",
+   "title": "Informatique Appliquée au Calcul Scientifique 1",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC012/0"
+  },
+  {
+   "id": "i5",
+   "code": "MTX001",
+   "title": "Technologie des matériaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "STA001",
+   "title": "Techniques de la statistique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "MVA005",
+   "title": "Calcul différentiel et intégral",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CSC001",
+   "title": "Analyse numérique en langage de programmation  C/C++ (1)",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "GAN109",
+   "title": "Méthodologie du prélèvement, de l'échantillonnage et de l'analyse en chimie environnementale.",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "MEC005",
+   "title": "Dimensionnement des structures",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC005/0"
+  },
+  {
+   "id": "i11",
+   "code": "MEC001",
+   "title": "Notions fondamentales de mécanique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC001/0"
+  },
+  {
+   "id": "i12",
+   "code": "FAB009",
+   "title": "Production et usinage",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB009/0"
+  },
+  {
+   "id": "i13",
+   "code": "UAMA01",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMA01/0"
+  },
+  {
+   "id": "i14",
+   "code": "ENM001",
+   "title": "Thermodynamique générale 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENM001/0"
+  },
+  {
+   "id": "i15",
+   "code": "MTR001",
+   "title": "Mesure en laboratoire et en industrie 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MTR001/0"
+  },
+  {
+   "id": "i16",
+   "code": "CSC013",
+   "title": "Informatique Appliquée au Calcul Scientifique 2",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC013/0"
+  },
+  {
+   "id": "i17",
+   "code": "STA001",
+   "title": "Techniques de la statistique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "MVA005",
+   "title": "Calcul différentiel et intégral",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "CSC001",
+   "title": "Analyse numérique en langage de programmation  C/C++ (1)",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "GAN109",
+   "title": "Méthodologie du prélèvement, de l'échantillonnage et de l'analyse en chimie environnementale.",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "MEC005",
+   "title": "Dimensionnement des structures",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC005/0"
+  },
+  {
+   "id": "i22",
+   "code": "MEC001",
+   "title": "Notions fondamentales de mécanique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC001/0"
+  },
+  {
+   "id": "i23",
+   "code": "FAB009",
+   "title": "Production et usinage",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/FAB009/0"
+  },
+  {
+   "id": "i24",
+   "code": "UAMA02",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMA02/0"
+  },
+  {
+   "id": "i25",
+   "code": "ETR102",
+   "title": "Communication et information scientifique",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ETR102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UTC405",
+   "title": "Notions fondamentales sur les matériaux",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC405-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "MTX102",
+   "title": "Caractérisation des matériaux",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "MMC116",
+   "title": "Travaux pratiques de métallurgie",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MMC116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "MMC105",
+   "title": "Métallurgie physique et alliages industriels",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MMC105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "MTX112",
+   "title": "Corrosion et durabilité des matériaux : corrosion des matériaux métalliques, durabilité, traitements de surface et revêtements, vieillissement et recyclage des matières plastiques, bioplastiques",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "MPL114",
+   "title": "Synthèse, Structure et Physico-chimie des polymères",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MPL114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "CMP101",
+   "title": "Travaux pratiques : molécules organiques et polymères",
+   "ects": 6,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CMP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "MTX117",
+   "title": "Fondamentaux de l'électrochimie",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i35",
+   "code": "MTX110",
+   "title": "Introduction à l'analyse de cycle de vie et à l'écoconception de produits",
+   "ects": 3,
+   "year": "y3",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i36",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "UAMA03",
+   "title": "Expérience professionnelle",
+   "ects": 15,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMA03/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

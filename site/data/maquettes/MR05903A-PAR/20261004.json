@@ -1,0 +1,672 @@
+{
+ "title": "Master Information, communication Parcours Médiation, sciences, techniques et innovation en société",
+ "code": "MR05903A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-information-communication-parcours-mediation-sciences-techniques-et-innovation-en-societe-1486950.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3",
+    "g4",
+    "g6"
+   ],
+   "kind": "alternative",
+   "year": "y2",
+   "parent": null,
+   "label": "4 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i19",
+    "i20",
+    "i21",
+    "i22"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option ouverture",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i23",
+    "i24",
+    "i25",
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option SRP sciences et recherche participative",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i32",
+    "i33",
+    "i34"
+   ],
+   "children": [
+    "g5"
+   ],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option langues",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i28",
+    "i29",
+    "i30",
+    "i31"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": "g4",
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i35",
+    "i36",
+    "i37",
+    "i38"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option CES  culture de l'espace et du ciel",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CCE200",
+   "title": "Théories de la communication",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i2",
+   "code": "CCE203",
+   "title": "Fondamentaux de l'organisation des connaissances",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i3",
+   "code": "CCE204",
+   "title": "Sémiotique des Interfaces : signes, usages et Interactions",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CCE204/0"
+  },
+  {
+   "id": "i4",
+   "code": "CCE205",
+   "title": "Anthropologie des connaissances : pratiques et techniques",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i5",
+   "code": "CCE206",
+   "title": "Coopération et organisation : principe et outils",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i6",
+   "code": "DNF001",
+   "title": "Ouverture au monde du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNF001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UA3205",
+   "title": "Mémoire",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3205/0"
+  },
+  {
+   "id": "i8",
+   "code": "CCE207",
+   "title": "Médiation par le prototypage pour la co-création",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "CCE208",
+   "title": "Conception et facilitation d'ateliers collaboratifs",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i10",
+   "code": "CCE209",
+   "title": "Création d'un dispositif d'innovation participative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i11",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "UA3206",
+   "title": "Stage ou mission professionnelle",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3206/0"
+  },
+  {
+   "id": "i13",
+   "code": "RTC230",
+   "title": "Comprendre les Sciences et technique en société :  enjeux historiques, défis contemporains et anticipation",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC230-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "RTC214",
+   "title": "Science, technique, innovation et société : approfondissement",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "RTC215",
+   "title": "Médiation culturelle et communication des sciences et techniques : approfondissement",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "RTC201",
+   "title": "Socio-histoire de l'innovation techno-scientifique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "RTC202",
+   "title": "Systèmes de recherche et politiques d'innovation, du local au mondial",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "GDN216",
+   "title": "Innovations et controverses : Analyse, Modélisation et Interprétation  des débats",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN216-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "",
+   "title": "UE d?ouverture à choisir parmi les UE codées 100 ou 200",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "RTC232",
+   "title": "Accompagnement et méthodologie du mémoire / Atelier d'écriture / Publication STS",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UAIP28",
+   "title": "Stage ou expérience",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP28/0"
+  },
+  {
+   "id": "i22",
+   "code": "UAIP27",
+   "title": "Mémoire professionnel ou de recherche",
+   "ects": 10,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP27/0"
+  },
+  {
+   "id": "i23",
+   "code": "UEV244",
+   "title": "Recherche-Action Participative & Territoires : théories et pratiques",
+   "ects": 4,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV244-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UEV245",
+   "title": "Sciences participatives en contexte numérique & métrologie participative",
+   "ects": 4,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV245-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "RTC232",
+   "title": "Accompagnement et méthodologie du mémoire / Atelier d'écriture / Publication STS",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UAIP30",
+   "title": "Mémoire professionnel ou de recherche",
+   "ects": 8,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP30/0"
+  },
+  {
+   "id": "i27",
+   "code": "UAIP28",
+   "title": "Stage ou expérience",
+   "ects": 4,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP28/0"
+  },
+  {
+   "id": "i28",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "LSF100",
+   "title": "Introduction à la langue des signes française (LSF) et à la culture Sourde",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LSF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i31",
+   "code": "ARA100",
+   "title": "Initiation à la langue et culture arabe, parcours collectif",
+   "ects": 6,
+   "year": "y2",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ARA100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "RTC232",
+   "title": "Accompagnement et méthodologie du mémoire / Atelier d'écriture / Publication STS",
+   "ects": 6,
+   "year": "y2",
+   "group": "g4",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "UAIP28",
+   "title": "Stage ou expérience",
+   "ects": 4,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP28/0"
+  },
+  {
+   "id": "i34",
+   "code": "UAIP27",
+   "title": "Mémoire professionnel ou de recherche",
+   "ects": 10,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP27/0"
+  },
+  {
+   "id": "i35",
+   "code": "ACS201",
+   "title": "Les activités spatiales : histoire, acteurs et enjeux environnementaux à l'heure du New Space",
+   "ects": 6,
+   "year": "y2",
+   "group": "g6",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i36",
+   "code": "RTC232",
+   "title": "Accompagnement et méthodologie du mémoire / Atelier d'écriture / Publication STS",
+   "ects": 6,
+   "year": "y2",
+   "group": "g6",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "UAIP28",
+   "title": "Stage ou expérience",
+   "ects": 4,
+   "year": "y2",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP28/0"
+  },
+  {
+   "id": "i38",
+   "code": "UAIP27",
+   "title": "Mémoire professionnel ou de recherche",
+   "ects": 10,
+   "year": "y2",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP27/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée journée",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

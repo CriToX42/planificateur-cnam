@@ -1,0 +1,76 @@
+{
+ "title": "Titre RNCP Niveau 6 Responsable associatif",
+ "code": "CRN0200A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-6-responsable-associatif-1486715.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USCT1N",
+   "title": "Mise en œuvre et coordination du plan d'action d'une association en lien avec son conseil d'administration",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT1N/0"
+  },
+  {
+   "id": "i2",
+   "code": "USCT1P",
+   "title": "la gestion administrative financière et logistique d'une association",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT1P/0"
+  },
+  {
+   "id": "i3",
+   "code": "USCT28",
+   "title": "Coordination de l'activité d'une équipe de salariés, de bénévoles, de partenaires dans une association",
+   "ects": 20,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT28/0"
+  },
+  {
+   "id": "i4",
+   "code": "USCT29",
+   "title": "Conduite de projets en lien avec l'objet social de l'association",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT29/0"
+  },
+  {
+   "id": "i5",
+   "code": "UACT03",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACT03/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

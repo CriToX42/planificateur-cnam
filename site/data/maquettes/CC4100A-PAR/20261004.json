@@ -1,0 +1,132 @@
+{
+ "title": "Certificat de compétence Assistant ressources humaines",
+ "code": "CC4100A-PAR",
+ "total_credits": 34,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-assistant-ressources-humaines-1486672.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG001",
+   "title": "Initiation au management et Gestion des Ressources Humaines",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DRS003",
+   "title": "Droit du travail : bases - aspects individuels et collectifs",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG105",
+   "title": "SIRH",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CFA006",
+   "title": "Bases et outils de gestion de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "FPG104",
+   "title": "Gestion de la paie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "FPG114",
+   "title": "Outils RH à l'ère de l'IA générative",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UA230V",
+   "title": "Rapport professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA230V/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

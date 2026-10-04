@@ -1,0 +1,100 @@
+{
+ "title": "Certificat de spécialisation Pratiques de bilan de compétences (Cnam Paris)",
+ "code": "CS6900A-PAR",
+ "total_credits": 14,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-pratiques-de-bilan-de-competences-cnam-paris--1626923.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "PRT252",
+   "title": "Cadre des dispositifs français et européen d'accompagnement en orientation de carrière",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRT252-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PRT253",
+   "title": "Démarches d'orientation et pratiques professionnelles",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRT253-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "PRT267",
+   "title": "Spécificité de l'accompagnement en fonction des publics",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRT267-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "PRT272",
+   "title": "Méthodologie des principaux modèles d'accompagnement et problématiques de restitution",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRT272-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "PRT273",
+   "title": "Pratiques de l'entretien et de la rencontre de groupe en bilan de compétences",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRT273-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée journée",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

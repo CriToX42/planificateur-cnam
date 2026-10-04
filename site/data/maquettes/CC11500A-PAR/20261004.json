@@ -1,0 +1,91 @@
+{
+ "title": "Certificat de compétence Coordinateur en structure médico-sociale (Cnam Paris)",
+ "code": "CC11500A-PAR",
+ "total_credits": 20,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-coordinateur-en-structure-medico-sociale-cnam-paris--1620856.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS101",
+   "title": "Environnement législatif, économique et politique des établissements médico-sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EGS118",
+   "title": "Management des organisations et ressources humaines en secteur médico-social, sanitaire et social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EGS119",
+   "title": "Méthodologie de conduite de projets en secteur médico-social, sanitaire ou social",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "HTS107",
+   "title": "La relation d'aide et qualité de vie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS107-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

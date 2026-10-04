@@ -1,0 +1,90 @@
+{
+ "title": "Certificat de spécialisation Prospective RH à l'ère du digital",
+ "code": "CS8900A-PAR",
+ "total_credits": 18,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-prospective-rh-a-l-ere-du-digital-1486763.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "PRS201",
+   "title": "Prospective, décision, transformation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PRS215",
+   "title": "Prospective métiers et compétences",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG108",
+   "title": "Gestion des talents et compétences à l'ère de l'IA générative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "FPG226",
+   "title": "Digital RH, Intelligence Artificielle, métaverse, chatGPT dans un monde transition écologique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG226-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

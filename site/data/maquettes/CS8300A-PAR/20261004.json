@@ -1,0 +1,98 @@
+{
+ "title": "Certificat de spécialisation Philosophie sociale du travail",
+ "code": "CS8300A-PAR",
+ "total_credits": 20,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-philosophie-sociale-du-travail-1486760.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "PSY201",
+   "title": "Le travail du courage",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PSY204",
+   "title": "Vers un travail sans le corps ?",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CCE111",
+   "title": "Reconnaissance et travail",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "PSY209",
+   "title": "Philosophie sociale",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "PSY210",
+   "title": "Le travail vu par les philosophes (atelier de lecture de textes)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PSY210-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

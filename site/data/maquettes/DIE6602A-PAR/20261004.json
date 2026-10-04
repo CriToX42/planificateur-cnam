@@ -1,0 +1,393 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Responsable en ingénierie d'étude et de production option Production Parcours Génie chimique",
+ "code": "DIE6602A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-responsable-en-ingenierie-d-etude-et-de-production-option-production-parcours-genie-chimique-1486825.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Deux UE au choix",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [],
+   "children": [
+    "g3",
+    "g4"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i19",
+    "i20"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i21"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CGP101",
+   "title": "Chimie industrielle : les grandes filières, schémas et bilans",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CGP107",
+   "title": "Génie des procédés : Thermodynamique et cinétique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CGP110",
+   "title": "Pratique des outils d'analyse et de caractérisation des procédés chimiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CGP111",
+   "title": "TP Génie des procédés : Opérations unitaires fondamentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CGP109",
+   "title": "Génie des procédés : Opérations unitaires fondamentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UTC106",
+   "title": "Hydraulique appliquée",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UTC107",
+   "title": "Transferts appliqués : transferts thermiques et transferts de matière",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UTC108",
+   "title": "Méthodes d'optimisation",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UTC109",
+   "title": "Bases du contrôle-commande des procédés",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "CGP219",
+   "title": "Opérations unitaires avancées",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "CGP105",
+   "title": "Prévention du risque chimique et sécurité industrielle",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "CGP113",
+   "title": "Production et distribution d'eau potable",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "CGP114",
+   "title": "Collecte et traitement des eaux usées",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CGP114/0"
+  },
+  {
+   "id": "i14",
+   "code": "CGP126",
+   "title": "Filières de traitement et de valorisation des déchets ménagers et industriels",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CGP126/0"
+  },
+  {
+   "id": "i15",
+   "code": "CGP127",
+   "title": "Technologies de valorisation et d'élimination des déchets ménagers et industriels",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CGP127/0"
+  },
+  {
+   "id": "i16",
+   "code": "CGP120",
+   "title": "Technologies liées au traitement des eaux",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CGP120/0"
+  },
+  {
+   "id": "i17",
+   "code": "CGP121",
+   "title": "Contexte réglementaire et environnement en milieu industriel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "",
+   "title": "ou parmi les UE en accord avec le professeur responsable.",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i19",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i21",
+   "code": "",
+   "title": "Deux UE socio-économiques au choix",
+   "ects": 12,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i22",
+   "code": "UA411D",
+   "title": "Expérience professionnelle de 24 mois",
+   "ects": 48,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411D/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,418 @@
+{
+ "title": "Master management stratégique Parcours stratégie d'entreprise dans un monde multipolaire, digitalisé et chahuté",
+ "code": "MR13401A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-strategique-parcours-strategie-d-entreprise-dans-un-monde-multipolaire-digitalise-et-chahute-1486991.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i9",
+    "i10",
+    "i11"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CFA109",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GFN106",
+   "title": "Pilotage financier de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EME104",
+   "title": "Gestion des RH et des équipes",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EME104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ESC102",
+   "title": "Mercatique II : Stratégie marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRA106",
+   "title": "Principaux contrats de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DSY103",
+   "title": "Théories & formes des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "NTD213",
+   "title": "Veille, diffusion et valorisation de l'information",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "STA001",
+   "title": "Techniques de la statistique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "UAMG0L",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG0L/0"
+  },
+  {
+   "id": "i13",
+   "code": "MSE201",
+   "title": "Stratégie d'entreprise I : analyse stratégique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "USM324",
+   "title": "Géopolitique pour stratège d'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM324/0"
+  },
+  {
+   "id": "i15",
+   "code": "USCB07",
+   "title": "Cybersécurité",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCB07/0"
+  },
+  {
+   "id": "i16",
+   "code": "USM325",
+   "title": "Big Data et intelligence stratégique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM325/0"
+  },
+  {
+   "id": "i17",
+   "code": "MSE210",
+   "title": "Innovation de business model",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i18",
+   "code": "MSE204",
+   "title": "Stratégie d'entreprise II : processus stratégiques",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i19",
+   "code": "MSE211",
+   "title": "Stratégie d'entreprise III : Business Plan",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MSE211/0"
+  },
+  {
+   "id": "i20",
+   "code": "MSE212",
+   "title": "Management interculturel",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "USM327",
+   "title": "Stratégie, finance d'entreprise et marchés financiers",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM327/0"
+  },
+  {
+   "id": "i22",
+   "code": "MSE206",
+   "title": "Stratégies fonctionnelles",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MSE206/0"
+  },
+  {
+   "id": "i23",
+   "code": "USM329",
+   "title": "Stratégies d'influence",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM329/0"
+  },
+  {
+   "id": "i24",
+   "code": "USM32A",
+   "title": "Stratégie et RSE",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32A/0"
+  },
+  {
+   "id": "i25",
+   "code": "MSE207",
+   "title": "Pratique du conseil en stratégie",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i26",
+   "code": "USM32C",
+   "title": "Appui à la gestion stratégique des services publics environnementaux",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32C/0"
+  },
+  {
+   "id": "i27",
+   "code": "USM32D",
+   "title": "Méthodologie",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM32D/0"
+  },
+  {
+   "id": "i28",
+   "code": "UAMG0K",
+   "title": "Projet de fin d'étude (projet professionnel, mémoire)",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG0K/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

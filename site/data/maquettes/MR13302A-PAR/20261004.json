@@ -1,0 +1,477 @@
+{
+ "title": "Master Management de l'innovation Parcours Management de l'innovation et de la conception innovante",
+ "code": "MR13302A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-de-l-innovation-parcours-management-de-l-innovation-et-de-la-conception-innovante-1486990.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i22",
+    "i23",
+    "i24",
+    "i25",
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CFA109",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GDN100",
+   "title": "Management de projet",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CFA234",
+   "title": "Gouvernance et responsabilité sociale des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA234-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EME104",
+   "title": "Gestion des RH et des équipes",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EME104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DSY103",
+   "title": "Théories & formes des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRA106",
+   "title": "Principaux contrats de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "DSY118",
+   "title": "Conduite du changement organisationnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UAIP1J",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP1J/0"
+  },
+  {
+   "id": "i11",
+   "code": "GDN217",
+   "title": "Gestion de l'innovation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "GDN221",
+   "title": "Méthodes créatives et modèles d'affaires innovants",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "GDN207",
+   "title": "Dynamiques collaboratives de l'innovation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "GDN210",
+   "title": "Management des projets d'innovation par enjeux",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "GDN208",
+   "title": "Meilleures pratiques de l'innovation collaborative",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "GDN201",
+   "title": "Fonction marketing amont et processus d'innovation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "GDN220",
+   "title": "Financement de l'innovation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN220-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "GDN227",
+   "title": "Regards sur les approches émergentes en innovation et entrepreneuriat",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN227-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "GDN211",
+   "title": "Animation d'un atelier de conception innovante",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "GDN209",
+   "title": "Coaching et dynamiques collaboratives des équipes d'innovation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "GDN212",
+   "title": "Organiser l'innovation de rupture : ambidextrie et gestion des projets d'exploration",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "GDN218",
+   "title": "Entrepreneuriat innovant",
+   "ects": 4,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "RTC201",
+   "title": "Socio-histoire de l'innovation techno-scientifique",
+   "ects": 4,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "PRS202",
+   "title": "La fabrique des scénarios de prospective",
+   "ects": 4,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "GDN231",
+   "title": "Art & Innovation Responsable - Innovation Ecosystems for the Creative Economy",
+   "ects": 4,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN231-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UEV245",
+   "title": "Sciences participatives en contexte numérique & métrologie participative",
+   "ects": 4,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV245-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ACS201",
+   "title": "Les activités spatiales : histoire, acteurs et enjeux environnementaux à l'heure du New Space",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "UAIP1A",
+   "title": "Projet",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP1A/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée journée",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

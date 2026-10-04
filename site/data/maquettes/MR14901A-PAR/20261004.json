@@ -1,0 +1,421 @@
+{
+ "title": "Master Droit de l'entreprise",
+ "code": "MR14901A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-droit-de-l-entreprise-1487003.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "DRT214",
+   "title": "Dossier de jurisprudence en droit de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRT214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRA107",
+   "title": "Droit pénal des affaires",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DRA118",
+   "title": "Droit du financement des entreprises",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRF114",
+   "title": "Droit fiscal : imposition du résultat de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "DRF115",
+   "title": "Droit fiscal : TVA et imposition du capital",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRS208",
+   "title": "Droit du travail approfondi, évolutions récentes, aspects individuels et collectifs",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "DRA113",
+   "title": "Principales formes de sociétés",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "DNT104",
+   "title": "Droit du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNT104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "DRS107",
+   "title": "Responsabilité pénale et civile de l'employeur et du salarié",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "DRA123",
+   "title": "Procédure civile",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA123-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "UADR17",
+   "title": "Expérience professionnelle et rapport d'activité",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UADR17/0"
+  },
+  {
+   "id": "i13",
+   "code": "DRT213",
+   "title": "Séminaire méthodologique",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRT213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "DRA208",
+   "title": "Anglais juridique",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "DRA204",
+   "title": "Techniques juridiques de la transmission d'entreprise",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "DRA120",
+   "title": "Droit des difficultés des entreprises",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "DRA207",
+   "title": "Les modes alternatifs de résolution des différends",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "DRS210",
+   "title": "Droit et discriminations : agir contre les discriminations",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "DRS205",
+   "title": "Droit du travail approfondi",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS205-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "DRS203",
+   "title": "Droit du travail et droits de la personne (Droits de l'Homme dans le travail)",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "DNT201",
+   "title": "Droit de la propriété intellectuelle dans l'environnement numérique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNT201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "DNT108",
+   "title": "Droit de la cybersécurité",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNT108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "DRF200",
+   "title": "Droit fiscal approfondi",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "DRS206",
+   "title": "Droit de la protection sociale approfondi",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "DRA206",
+   "title": "La gestion du patrimoine du dirigeant et de l'entreprise",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "UADR18",
+   "title": "Mémoire",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UADR18/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

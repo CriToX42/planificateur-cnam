@@ -1,0 +1,290 @@
+{
+ "title": "Licence professionnelle métiers de la médiation scientifique et technique Parcours Assistant/chef de projet de médiation culturelle des sciences et techniques",
+ "code": "LP15301A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-de-la-mediation-scientifique-et-technique-parcours-assistant-chef-de-projet-de-mediation-culturelle-des-sciences-et-techniques-1486947.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i5",
+    "i6"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i7",
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "RTC210",
+   "title": "Science, technique, innovation et société : fondements et méthodes d'analyse",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "RTC211",
+   "title": "Etude socio-culturelle des sciences et techniques en société : histoire, représentation, imaginaires",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RTC212",
+   "title": "Outils de la médiation culturelle et de la communication des sciences et des techniques : initiation",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "RTC221",
+   "title": "Conception et pilotage de projet culturel \"sciences et techniques\"",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RTC221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i7",
+   "code": "CCE105",
+   "title": "Pratiques écrites et orales de la communication professionnelle",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CCE108",
+   "title": "Fondements anthropologiques de l'action culturelle, action culturelle et éducation populaire",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "CCE110",
+   "title": "Culture et médiation 1",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "CCE115",
+   "title": "Numérique et intelligence artificielle : théories, actualité et pratiques dans le champ culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "CCE116",
+   "title": "participation et droits culturels",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "GDN116",
+   "title": "Analyse et interprétation des controverses socio-techniques",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "UATS01",
+   "title": "Expérience ou stage",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATS01/0"
+  },
+  {
+   "id": "i15",
+   "code": "UATS02",
+   "title": "Projet tuteuré",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATS02/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

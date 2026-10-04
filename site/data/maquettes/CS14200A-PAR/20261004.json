@@ -1,0 +1,76 @@
+{
+ "title": "Certificat de spécialisation Conduire des projets de conception et de transformation technologique et organisationnelle du travail et des usages",
+ "code": "CS14200A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-conduire-des-projets-de-conception-et-de-transformation-technologique-et-organisationnelle-du-travail-et-des-usages-1550985.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ERG220",
+   "title": "Concevoir en ergonomie : modèles et outils",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG220-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ERG226",
+   "title": "Concevoir en ergonomie : conduite de projets",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG226-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ERG227",
+   "title": "Innover et concevoir des produits et services",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG227-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

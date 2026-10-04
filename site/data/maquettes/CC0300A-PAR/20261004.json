@@ -1,0 +1,95 @@
+{
+ "title": "Certificat de compétence Conseil en droit social appliqué à l'entreprise",
+ "code": "CC0300A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-conseil-en-droit-social-applique-a-l-entreprise-1486627.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "DRS101",
+   "title": "Droit du travail : relations individuelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DRS104",
+   "title": "Droit de la sécurité sociale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRS102",
+   "title": "Droit du travail : relations collectives",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DRS105",
+   "title": "Prévoyance. Retraites complémentaires et supplémentaires. Assurance chômage.",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRS106",
+   "title": "Droit social européen et international",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/DRS106/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

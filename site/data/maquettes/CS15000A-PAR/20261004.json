@@ -1,0 +1,49 @@
+{
+ "title": "Certificat de spécialisation Professionnalisation par la Recherche des Enseignants de Langues du secteur Lansad (PREL-Lansad) (Cnam Paris)",
+ "code": "CS15000A-PAR",
+ "total_credits": 8,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-professionnalisation-par-la-recherche-des-enseignants-de-langues-du-secteur-lansad-prel-lansad-cnam-paris--1621779.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "LGE201",
+   "title": "Approches théoriques et pratiques de l'enseignement en secteur LANSAD",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LGE201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UALG02",
+   "title": "Projet de recherche-action et ingénierie pédagogique appliquée",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UALG02/0"
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

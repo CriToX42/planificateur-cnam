@@ -1,0 +1,245 @@
+{
+ "title": "Certificat professionnel Technicien en électrotechnique",
+ "code": "CP2000A-PAR",
+ "total_credits": 50,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-technicien-en-electrotechnique-1486689.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g4"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i4",
+    "i5"
+   ],
+   "children": [
+    "g3"
+   ],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i6",
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Une UA à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 18
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i9",
+    "i10",
+    "i11"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EEP001",
+   "title": "Distribution et installation électriques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EEP001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EEP002",
+   "title": "Conversion de l'énergie électrique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EEP002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ELE001",
+   "title": "Travaux pratiques d'électronique, électrotechnique, automatique",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ELE002",
+   "title": "Outils logiciels de base",
+   "ects": 8,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DNF001",
+   "title": "Ouverture au monde du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNF001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UA420P",
+   "title": "Projet d'application professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA420P/0"
+  },
+  {
+   "id": "i7",
+   "code": "UA420Q",
+   "title": "Prise en compte de l'expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA420Q/0"
+  },
+  {
+   "id": "i8",
+   "code": "UA420R",
+   "title": "Projet entrepreneurial",
+   "ects": 18,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA420R/0"
+  },
+  {
+   "id": "i9",
+   "code": "AUT002",
+   "title": "Modélisation, analyse et commande des systèmes séquentiels",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/AUT002/0"
+  },
+  {
+   "id": "i10",
+   "code": "EEP005",
+   "title": "Technologie des ascenseurs",
+   "ects": 8,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/EEP005/0"
+  },
+  {
+   "id": "i11",
+   "code": "UAEE1J",
+   "title": "Projet d'application professionnelle",
+   "ects": 16,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEE1J/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

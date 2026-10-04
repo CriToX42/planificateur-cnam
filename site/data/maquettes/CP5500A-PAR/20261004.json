@@ -1,0 +1,43 @@
+{
+ "title": "Certificat professionnel Dessin assisté par ordinateur et maquette numérique en formation continue Hors temps de travail",
+ "code": "CP5500A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-dessin-assiste-par-ordinateur-et-maquette-numerique-en-formation-continue-hors-temps-de-travail-1486695.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BTP014",
+   "title": "Dessin assisté par ordinateur",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP014/0"
+  },
+  {
+   "id": "i2",
+   "code": "BTP003",
+   "title": "Maquette numérique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP003/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

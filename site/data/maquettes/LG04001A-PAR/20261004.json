@@ -1,0 +1,519 @@
+{
+ "title": "Licence Sciences et technologies Parcours Agro-industries",
+ "code": "LG04001A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-sciences-et-technologies-parcours-agro-industries-1486909.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L1"
+  },
+  {
+   "id": "y2",
+   "label": "L2"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i21",
+    "i22"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i27",
+    "i28"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 3
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CHG001",
+   "title": "Bases scientifiques pour la chimie et la biologie  (1)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CHG002",
+   "title": "Bases scientifiques pour la chimie et la biologie  (2)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CHG018",
+   "title": "Premier pas en chimie générale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG018-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CHG003",
+   "title": "Chimie Générale 1",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CHG004",
+   "title": "Chimie Générale 2",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "GAN001",
+   "title": "Initiation aux méthodes d'analyse",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CHG006",
+   "title": "Premiers pas en chimie organique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG006-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UAAB09",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAB09/0"
+  },
+  {
+   "id": "i9",
+   "code": "CHG005",
+   "title": "Chimie expérimentale 1 : Initiation aux pratiques de laboratoire",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG005-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "BCA001",
+   "title": "Initiation biologie-biochimie structurale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "BLG001",
+   "title": "Biologie fondamentale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "BCA002",
+   "title": "TP Biochimie fondamentale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "BCA003",
+   "title": "Biochimie métabolique appliquée",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "BLG002",
+   "title": "Physiologie humaine",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "BLG003",
+   "title": "TP Biologie fondamentale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "UAAB0A",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAB0A/0"
+  },
+  {
+   "id": "i17",
+   "code": "UTC101",
+   "title": "Mathématiques appliquées : Mathématiques - informatique - méthodes numériques",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "BCA120",
+   "title": "Technologies associées aux filières de l'agro-industrie",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "AGR100",
+   "title": "Microbiologie générale: croissance et méthodes d'étude des microorganismes",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "BCA105",
+   "title": "Formulation d'aliments et alternatives one health",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "BCA107",
+   "title": "TP Formulation et conception raisonnée d'aliments",
+   "ects": 6,
+   "year": "y3",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "BCA108",
+   "title": "TP Outils de contrôle qualité des aliments",
+   "ects": 6,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BCA108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "AGR101",
+   "title": "Microbiologie alimentaire: sécurité sanitaire et aliments fermentés",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "AGR102",
+   "title": "Qualités nutritionnelles et perception sensorielle des aliments",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "AGR103",
+   "title": "Management de la qualité et maîtrise des risques",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "AGR104",
+   "title": "Toxicologie et dangers physiques, chimiques et allergènes dans les aliments",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ETR102",
+   "title": "Communication et information scientifique",
+   "ects": 3,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ETR102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "ENG265",
+   "title": "Information et communication scientifique",
+   "ects": 3,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG265-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "UAAB16",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAB16/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

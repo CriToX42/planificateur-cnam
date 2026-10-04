@@ -1,0 +1,801 @@
+{
+ "title": "Master gestion des ressources humaines Parcours GRH et transformations numériques",
+ "code": "MR10801A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-gestion-des-ressources-humaines-parcours-grh-et-transformations-numeriques-1475990.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i7",
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "20 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 20,
+    "min_domains": null,
+    "total_ects": 20
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i34",
+    "i35",
+    "i36",
+    "i37",
+    "i38",
+    "i39",
+    "i40",
+    "i41",
+    "i42",
+    "i43",
+    "i44"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 4
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG102",
+   "title": "Concevoir et mettre en oeuvre les stratégies de GRH",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "AST200",
+   "title": "Fondements approfondis de la sociologie",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG108",
+   "title": "Gestion des talents et compétences à l'ère de l'IA générative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "AST110",
+   "title": "Les nouvelles approches de la sociologie des organisations",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "AST117",
+   "title": "Sociologie des relations professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRS003",
+   "title": "Droit du travail : bases - aspects individuels et collectifs",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "FPG119",
+   "title": "Data RH",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "FPG120",
+   "title": "Workshop autour d'un projet de transformation au sein de son entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "GDN100",
+   "title": "Management de projet",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "DRS210",
+   "title": "Droit et discriminations : agir contre les discriminations",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "DSY221",
+   "title": "OID, Organisation innovante & durable",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "FPG121",
+   "title": "Intelligence collective et développement des compétences collaboratives",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "FPG122",
+   "title": "Mener des transformations métiers avec le numérique et l'IA générative",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "AST142",
+   "title": "Discriminations dans l'emploi et au travail : regards interdisciplinaires",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST142-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "UARH04",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UARH04/0"
+  },
+  {
+   "id": "i20",
+   "code": "AST244",
+   "title": "Transformation du travail et gestion des ressources humaines",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST244-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "FPG238",
+   "title": "Méthodologie en GRH et transformation du travail",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG238-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "FPG230",
+   "title": "Développement des compétences personnelles et collectives",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG230-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "FPG231",
+   "title": "Développement managérial",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG231-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "DRS205",
+   "title": "Droit du travail approfondi",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS205-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "FPG232",
+   "title": "Gestion des emplois et développement des compétences : enjeux, processus et outils",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "FPG233",
+   "title": "GRH et dialogue social",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG233-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "FPG234",
+   "title": "Les indicateurs sociaux en GRH : enjeux et méthodes",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG234-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "FPG227",
+   "title": "Stratégies des ressources humaines à l'ère de l'IA générative",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG227-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "FPG235",
+   "title": "Comportement organisationnel et GRH",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG235-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "FPG236",
+   "title": "E-GRH et SIRH",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG236-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "FPG218",
+   "title": "Management international des RH",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "FPG237",
+   "title": "Problématiques de rémunération",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG237-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i33",
+   "code": "FPG226",
+   "title": "Digital RH, Intelligence Artificielle, métaverse, chatGPT dans un monde transition écologique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG226-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "FPG108",
+   "title": "Gestion des talents et compétences à l'ère de l'IA générative",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i35",
+   "code": "FPG120",
+   "title": "Workshop autour d'un projet de transformation au sein de son entreprise",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i36",
+   "code": "FPG121",
+   "title": "Intelligence collective et développement des compétences collaboratives",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "FPG122",
+   "title": "Mener des transformations métiers avec le numérique et l'IA générative",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i38",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i39",
+   "code": "PRS201",
+   "title": "Prospective, décision, transformation",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i40",
+   "code": "DRS210",
+   "title": "Droit et discriminations : agir contre les discriminations",
+   "ects": 2,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i41",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i42",
+   "code": "AST106",
+   "title": "Sociologie du travail et de l'emploi",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i43",
+   "code": "AST243",
+   "title": "Sociologie des discriminations",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST243-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i44",
+   "code": "FAD101",
+   "title": "La formation des adultes : histoire, enjeux et acteurs",
+   "ects": 4,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i45",
+   "code": "UA2324",
+   "title": "Mémoire de fin d'études",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2324/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale journée",
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

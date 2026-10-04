@@ -1,0 +1,43 @@
+{
+ "title": "Certification enregistrée au répertoire spécifique Exercer la négociation et la médiation en situation professionnelle",
+ "code": "CRS0300A-PAR",
+ "total_credits": 20,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certification-enregistree-au-repertoire-specifique-exercer-la-negociation-et-la-mediation-en-situation-professionnelle-1563251.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USDR1T",
+   "title": "Techniques et outils de la médiation",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USDR1T/0"
+  },
+  {
+   "id": "i2",
+   "code": "USDR1U",
+   "title": "Pratique avancée de la médiation",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USDR1U/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

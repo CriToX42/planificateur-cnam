@@ -1,0 +1,541 @@
+{
+ "title": "Master gestion de l'environnement parcours Organisations et transitions vers un développement durable (Cnam Paris)",
+ "code": "MR12104A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-gestion-de-l-environnement-parcours-organisations-et-transitions-vers-un-developpement-durable-cnam-paris--1486978.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "1re année"
+  },
+  {
+   "id": "y3",
+   "label": "2e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i18",
+    "i19",
+    "i20",
+    "i21",
+    "i22",
+    "i23",
+    "i24",
+    "i25",
+    "i26",
+    "i27",
+    "i28",
+    "i29"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "12 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 12,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CFA109",
+   "title": "Information comptable et management",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GDN100",
+   "title": "Management de projet",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CFA234",
+   "title": "Gouvernance et responsabilité sociale des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA234-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EME104",
+   "title": "Gestion des RH et des équipes",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EME104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DSY103",
+   "title": "Théories & formes des organisations",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MSE147",
+   "title": "Principes généraux et outils du management d'entreprise",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE147-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRA106",
+   "title": "Principaux contrats de l'entreprise",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "DSY118",
+   "title": "Conduite du changement organisationnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UAMG0T",
+   "title": "Projet de fin d'études",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG0T/0"
+  },
+  {
+   "id": "i11",
+   "code": "TDD201",
+   "title": "Développement durable, changement climatique et opportunités stratégiques : concevoir des stratégies fondées sur les activités et comportements émergents liés au développement durable pour faciliter la transformation",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "TDD202",
+   "title": "Problématiques financières du développement durable dans les organisations : développer des projets innovants en prenant en compte la valorisation à court et moyen-long terme des activités liées au développement durable",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "TDD203",
+   "title": "Changement climatique, transformations institutionnelles et organisationnelles : maîtriser les enjeux organisationnels de la transition climatique",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "TDD204",
+   "title": "Participations organisations et communs",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "DSY106",
+   "title": "Nouveaux modèles d'organisations durables : penser les changements organisationnels face aux transitions",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "PRS211",
+   "title": "Méthodes prospectives et compétences pour la transition et le développement durable",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "DSY105",
+   "title": "Risques, crises et pilotage de l'organisation : piloter durablement l'organisation",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "TDD205",
+   "title": "L'économie symbiotique et la triple régénération",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD205-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "UEV233",
+   "title": "Développement durable et territoires",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV233-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "GDN216",
+   "title": "Innovations et controverses : Analyse, Modélisation et Interprétation  des débats",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN216-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "GDN207",
+   "title": "Dynamiques collaboratives de l'innovation",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "CCE240",
+   "title": "Transitions écologiques et sociétales du secteur culturel",
+   "ects": 6,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE240-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "GFN255",
+   "title": "Finance durable",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN255-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UEV245",
+   "title": "Sciences participatives en contexte numérique & métrologie participative",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV245-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "MNP213",
+   "title": "Innovation Publique, les grands enjeux pour un nouveau management public",
+   "ects": 6,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MNP213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "FPG234",
+   "title": "Les indicateurs sociaux en GRH : enjeux et méthodes",
+   "ects": 2,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG234-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "AST101",
+   "title": "Genre et travail",
+   "ects": 6,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "PRS215",
+   "title": "Prospective métiers et compétences",
+   "ects": 4,
+   "year": "y3",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "TDD206",
+   "title": "Méthodologie du mémoire en transformations des organisations et développement durable",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TDD206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "UAIP2A",
+   "title": "Mémoire",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP2A/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée journée",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

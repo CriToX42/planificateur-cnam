@@ -1,0 +1,127 @@
+{
+ "title": "Certificat de compétence Chargé d'ingénierie de formation et de certification",
+ "code": "CC15900A-PAR",
+ "total_credits": 46,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-charge-d-ingenierie-de-formation-et-de-certification-1486660.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FAD118",
+   "title": "Conception et pilotage d'une action de formation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FAD141",
+   "title": "Analyse et conception de référentiels et de certifications",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD141-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FAD111",
+   "title": "Analyse du travail et ingénierie de la formation professionnelle",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "FAD114",
+   "title": "Développement des compétences en situation de travail",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "FAD110",
+   "title": "Conception et conduite de projets de formation",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UAFA13",
+   "title": "Synthèse",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAFA13/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

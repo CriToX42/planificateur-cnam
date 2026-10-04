@@ -1,0 +1,241 @@
+{
+ "title": "Master monnaie, banque, finance, assurance Parcours Management de l'assurance EMCA",
+ "code": "MR12701A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-monnaie-banque-finance-assurance-parcours-management-de-l-assurance-emca-1486986.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAS1Q",
+   "title": "Les fondamentaux de l'assurance",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1Q/0"
+  },
+  {
+   "id": "i2",
+   "code": "USAS21",
+   "title": "Pilotage interne",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS21/0"
+  },
+  {
+   "id": "i3",
+   "code": "USAS20",
+   "title": "Fiscalité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS20/0"
+  },
+  {
+   "id": "i4",
+   "code": "USAS3F",
+   "title": "Analyse financière",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS3F/0"
+  },
+  {
+   "id": "i5",
+   "code": "USAS22",
+   "title": "Assurances et enjeux environnementaux",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS22/0"
+  },
+  {
+   "id": "i6",
+   "code": "USAS23",
+   "title": "Management d'équipes",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS23/0"
+  },
+  {
+   "id": "i7",
+   "code": "USAS25",
+   "title": "Droit des professionnels de l'assurance",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS25/0"
+  },
+  {
+   "id": "i8",
+   "code": "USAS0R",
+   "title": "Conformité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS0R/0"
+  },
+  {
+   "id": "i9",
+   "code": "USAS1L",
+   "title": "Assurances collectives et prévoyance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1L/0"
+  },
+  {
+   "id": "i10",
+   "code": "USAS0G",
+   "title": "Assurances de personnes et leurs développements",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS0G/0"
+  },
+  {
+   "id": "i11",
+   "code": "USAS1M",
+   "title": "Actuariat",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1M/0"
+  },
+  {
+   "id": "i12",
+   "code": "USAS1N",
+   "title": "Business models",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1N/0"
+  },
+  {
+   "id": "i13",
+   "code": "USAS1P",
+   "title": "Vision mondiale des acteurs de l'assurance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1P/0"
+  },
+  {
+   "id": "i14",
+   "code": "USAS26",
+   "title": "Risk management",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS26/0"
+  },
+  {
+   "id": "i15",
+   "code": "USAS1C",
+   "title": "Anglais de l'assurance",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS1C/0"
+  },
+  {
+   "id": "i16",
+   "code": "USAS3M",
+   "title": "La digitalisation et l'IA au service de l'assurance",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS3M/0"
+  },
+  {
+   "id": "i17",
+   "code": "USAS2R",
+   "title": "Portfolio des compétences",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS2R/0"
+  },
+  {
+   "id": "i18",
+   "code": "UAAS0G",
+   "title": "Mémoire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAS0G/0"
+  },
+  {
+   "id": "i19",
+   "code": "USAS2C",
+   "title": "Conférences: Risques, transformations et technologies",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAS2C/0"
+  },
+  {
+   "id": "i20",
+   "code": "UAAS0C",
+   "title": "Expérience professionnelle",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAS0C/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

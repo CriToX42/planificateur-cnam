@@ -1,0 +1,196 @@
+{
+ "title": "Certificat de compétence E-marketing et e-commerce",
+ "code": "CC11000A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-e-marketing-et-e-commerce-1486637.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Deux UE au choix",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 8
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ESC127",
+   "title": "Référencement payant (SEA) et Social Ads",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC127-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ESC128",
+   "title": "E-commerce",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC128-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ESC123",
+   "title": "Marketing Digital et Plan d'acquisition on-line",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC123-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ESC130",
+   "title": "Marketing et réseaux sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ESC131",
+   "title": "Référencement naturel (SEO)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC131-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ESC102",
+   "title": "Mercatique II : Stratégie marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CSV002",
+   "title": "I.A. & Datascience au service de la gestion de la relation client – CRM",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSV002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "NFA040",
+   "title": "Architecture et langages Web",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA040-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "DNT104",
+   "title": "Droit du numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DNT104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "ESC129",
+   "title": "Conception et réalisation des études qualitatives et quantitatives sur internet",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "title": "Diplôme d'Université Stratégie et pilotage social dans le secteur sanitaire, social et médico-social privé non lucratif",
+ "code": "DU00500A-PAR",
+ "total_credits": 8,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-strategie-et-pilotage-social-dans-le-secteur-sanitaire-social-et-medico-social-prive-non-lucratif-1581768.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA3H",
+   "title": "Stratégie et pilotage social dans le secteur sanitaire, social et médico-social privé non lucratif",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3H/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

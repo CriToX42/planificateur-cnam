@@ -1,0 +1,101 @@
+{
+ "title": "Certificat de compétence Gestion des services publics territoriaux en France et en Europe",
+ "code": "CC2000A-PAR",
+ "total_credits": 34,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-gestion-des-services-publics-territoriaux-en-france-et-en-europe-1486669.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ACL109",
+   "title": "La gestion thématique des collectivités locales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i2",
+   "code": "ACL111",
+   "title": "L'Europe des territoires",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACL111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UEV133",
+   "title": "Sociologie urbaine et stratégies territoriales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV133-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ACL112",
+   "title": "Les fondamentaux du droit public appliqué",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACL112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UEV110",
+   "title": "Initiation au développement local",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UA1103",
+   "title": "Projet tutoré",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA1103/0"
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

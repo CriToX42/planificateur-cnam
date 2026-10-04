@@ -1,0 +1,211 @@
+{
+ "title": "Licence professionnelle métiers du BTP : génie civil et construction Parcours Bureau d'études thermique du bâtiment En formation continue hors temps de travail",
+ "code": "LP13515A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-du-btp-genie-civil-et-construction-parcours-bureau-d-etudes-thermique-du-batiment-en-formation-continue-hors-temps-de-travail-1559320.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L3"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UABT42",
+   "title": "Parcours individualisé – positionnement dans le cursus LP métiers du BTP : génie civil et construction (LP135)",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT42/0"
+  },
+  {
+   "id": "i2",
+   "code": "UTC110",
+   "title": "Mathématiques appliquées",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC105",
+   "title": "Thermique, acoustique, mécanique des fluides",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "BTP111",
+   "title": "Thermique du bâtiment",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "BTP112",
+   "title": "Acoustique du bâtiment",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "BTP116",
+   "title": "Enveloppes du bâtiment",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "BTP117",
+   "title": "Chauffage, ventilation, climatisation",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP117/0"
+  },
+  {
+   "id": "i8",
+   "code": "BTP118",
+   "title": "Systèmes énergétiques du bâtiment",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP118/0"
+  },
+  {
+   "id": "i9",
+   "code": "BTP120",
+   "title": "Management de projet  BIM",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP120/0"
+  },
+  {
+   "id": "i10",
+   "code": "BTP165",
+   "title": "Outils BIM pour le bureau thermique du bâtiment",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP165-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "UABT16",
+   "title": "Expérience professionnelle et projet tutoré (LP3)",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UABT16/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

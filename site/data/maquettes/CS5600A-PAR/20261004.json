@@ -1,0 +1,84 @@
+{
+ "title": "Certificat de spécialisation Management de l'innovation de rupture",
+ "code": "CS5600A-PAR",
+ "total_credits": 16,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-management-de-l-innovation-de-rupture-1486750.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "GDN217",
+   "title": "Gestion de l'innovation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GDN211",
+   "title": "Animation d'un atelier de conception innovante",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GDN210",
+   "title": "Management des projets d'innovation par enjeux",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "GDN212",
+   "title": "Organiser l'innovation de rupture : ambidextrie et gestion des projets d'exploration",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN212-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

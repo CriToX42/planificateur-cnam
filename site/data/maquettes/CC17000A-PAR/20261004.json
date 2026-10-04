@@ -1,0 +1,54 @@
+{
+ "title": "Certificat de compétence Accompagnement en addictologie via le counseling",
+ "code": "CC17000A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-accompagnement-en-addictologie-via-le-counseling-1486668.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USPS22",
+   "title": "Addictologie",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS22/0"
+  },
+  {
+   "id": "i2",
+   "code": "USPS23",
+   "title": "Counseling",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS23/0"
+  },
+  {
+   "id": "i3",
+   "code": "UAPS11",
+   "title": "Terrain",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAPS11/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

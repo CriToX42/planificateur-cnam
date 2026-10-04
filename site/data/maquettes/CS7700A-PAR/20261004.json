@@ -1,0 +1,65 @@
+{
+ "title": "Certificat de spécialisation La médiation dans l'institution : maîtrise et analyse de pratique du médiateur",
+ "code": "CS7700A-PAR",
+ "total_credits": 22,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-la-mediation-dans-l-institution-maitrise-et-analyse-de-pratique-du-mediateur-1486757.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USDR1L",
+   "title": "Méthodologie de la médiation et processus : approfondissement",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USDR1L/0"
+  },
+  {
+   "id": "i2",
+   "code": "USDR1M",
+   "title": "Posture, gestes du métier, cadre d'intervention du médiateur : approfondissement",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USDR1M/0"
+  },
+  {
+   "id": "i3",
+   "code": "USDR1N",
+   "title": "Questionnements spécifiques du médiateur dans l'institution",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USDR1N/0"
+  },
+  {
+   "id": "i4",
+   "code": "UADR0M",
+   "title": "Note de synthèse",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UADR0M/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

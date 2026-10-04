@@ -1,0 +1,929 @@
+{
+ "title": "Licence Sciences pour l'ingénieur Parcours Energie et développement durable",
+ "code": "LG03407A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-sciences-pour-l-ingenieur-parcours-energie-et-developpement-durable-1557602.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "L1"
+  },
+  {
+   "id": "y2",
+   "label": "L2"
+  },
+  {
+   "id": "y3",
+   "label": "L3"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i2",
+    "i3",
+    "i4"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "12 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 12,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i12",
+    "i13",
+    "i14"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i26",
+    "i27",
+    "i28",
+    "i29",
+    "i30",
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35",
+    "i36",
+    "i37",
+    "i38",
+    "i39",
+    "i40",
+    "i41",
+    "i42",
+    "i43",
+    "i44",
+    "i45",
+    "i46",
+    "i47",
+    "i48",
+    "i49",
+    "i50",
+    "i51",
+    "i52",
+    "i53",
+    "i54",
+    "i55",
+    "i56",
+    "i57",
+    "i58",
+    "i59"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "15 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 15,
+    "min_domains": null,
+    "total_ects": 15
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "MVA013",
+   "title": "Bases scientifiques (Mathématiques)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA013-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "PHR020",
+   "title": "Bases scientifiques pour la mécanique et l'électricité. Exemples industriels",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/PHR020/0"
+  },
+  {
+   "id": "i3",
+   "code": "MEC003",
+   "title": "Mesure des grandeurs mécaniques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MEC003/0"
+  },
+  {
+   "id": "i4",
+   "code": "ENF018",
+   "title": "Bases scientifiques pour les métiers de l'énergétique",
+   "ects": 8,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i5",
+   "code": "CSC012",
+   "title": "Informatique Appliquée au Calcul Scientifique 1",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC012/0"
+  },
+  {
+   "id": "i6",
+   "code": "MTX001",
+   "title": "Technologie des matériaux",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTX001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "ENF013",
+   "title": "Principes, technologies et pratiques des installations de froid et climatisation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i8",
+   "code": "ENT007",
+   "title": "Principes, technologies et pratiques des installations thermiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "UAMA01",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMA01/0"
+  },
+  {
+   "id": "i10",
+   "code": "ENM001",
+   "title": "Thermodynamique générale 1",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENM001/0"
+  },
+  {
+   "id": "i11",
+   "code": "CSC013",
+   "title": "Informatique Appliquée au Calcul Scientifique 2",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/CSC013/0"
+  },
+  {
+   "id": "i12",
+   "code": "MTR001",
+   "title": "Mesure en laboratoire et en industrie 1",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/MTR001/0"
+  },
+  {
+   "id": "i13",
+   "code": "EEP002",
+   "title": "Conversion de l'énergie électrique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EEP002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "AER003",
+   "title": "Mécanique des fluides élémentaire",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "PHR007",
+   "title": "Capteurs et chaines de mesures",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i16",
+   "code": "AER004",
+   "title": "Mécanique des fluides appliquée",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AER004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "CSC001",
+   "title": "Analyse numérique en langage de programmation  C/C++ (1)",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ENF008",
+   "title": "Technologies et Pratiques des Énergies renouvelables",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF008/0"
+  },
+  {
+   "id": "i19",
+   "code": "UAEN2K",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEN2K/0"
+  },
+  {
+   "id": "i20",
+   "code": "UTC101",
+   "title": "Mathématiques appliquées : Mathématiques - informatique - méthodes numériques",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UTC105",
+   "title": "Thermique, acoustique, mécanique des fluides",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "ENF101",
+   "title": "Thermodynamique appliquée à l'énergétique",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "ENM101",
+   "title": "Machines à fluides",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "ENT101",
+   "title": "Thermique",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENT101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "BTP111",
+   "title": "Thermique du bâtiment",
+   "ects": 3,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "BTP120",
+   "title": "Management de projet  BIM",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/BTP120/0"
+  },
+  {
+   "id": "i28",
+   "code": "BTP172",
+   "title": "Traitement des données BIM",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BTP172-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "EEP119",
+   "title": "Systèmes photovoltaïque et éoliens",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/EEP119/0"
+  },
+  {
+   "id": "i30",
+   "code": "ENF102",
+   "title": "Production du froid",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "ENF104",
+   "title": "Outils informatiques appliqués aux systèmes énergétiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "ENF105",
+   "title": "Techniques appliquées aux très basses températures",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i33",
+   "code": "ENF106",
+   "title": "Climatisation et conditionnement d'air",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i34",
+   "code": "ENF107",
+   "title": "Technologies des systèmes thermiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF107/0"
+  },
+  {
+   "id": "i35",
+   "code": "ENF108",
+   "title": "GTC et GTB",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF108/0"
+  },
+  {
+   "id": "i36",
+   "code": "ENF110",
+   "title": "Pompes à chaleur associées aux  énergies renouvelables",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i37",
+   "code": "ENF113",
+   "title": "Audit énergétique",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i38",
+   "code": "ENF114",
+   "title": "Régulation et pilotage des installations énergétiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i39",
+   "code": "ENF115",
+   "title": "Thermique appliquée aux échangeurs de chaleur",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF115/0"
+  },
+  {
+   "id": "i40",
+   "code": "ENF116",
+   "title": "Efficacité énergétique des procédés et valorisation des rejets de chaleur fatale dans l'industrie: technologies et méthodes d'intégration",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF116/0"
+  },
+  {
+   "id": "i41",
+   "code": "ENF117",
+   "title": "Réseaux fluidiques pour les installations énergétiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENF117/0"
+  },
+  {
+   "id": "i42",
+   "code": "ENF118",
+   "title": "Réglementation RE2020 et outils numériques",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i43",
+   "code": "ENF119",
+   "title": "Systèmes énergétiques dans le bâtiment: maquette numérique pour le CVC et STD",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENF119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i44",
+   "code": "ENF120",
+   "title": "Maquette numérique et réseaux fluides",
+   "ects": 3,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i45",
+   "code": "ENM102",
+   "title": "Combustion",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i46",
+   "code": "ENM104",
+   "title": "Energies alternatives au pétrole",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i47",
+   "code": "ENM105",
+   "title": "TP d'énergétique",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENM105/0"
+  },
+  {
+   "id": "i48",
+   "code": "ENM106",
+   "title": "Optimisation énergétique des machines et moteurs",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i49",
+   "code": "ENM107",
+   "title": "Simulation CFD appliquée à l'énergétique",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i50",
+   "code": "ENM108",
+   "title": "Ingénierie des turbomachines",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i51",
+   "code": "ENM109",
+   "title": "Modélisation des systèmes energétiques pour la décarbonation des transports et de l'industrie",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i52",
+   "code": "ENM110",
+   "title": "Conversion d'énergie par turbomachines",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i53",
+   "code": "ENM111",
+   "title": "Conception et fonctionnement des moteurs thermiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i54",
+   "code": "ENM113",
+   "title": "Contrôle, diagnostic et maintenance des installations et équipements énergétiques",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ENM113/0"
+  },
+  {
+   "id": "i55",
+   "code": "ENM114",
+   "title": "Les vecteurs énergétiques pour la décarbonation des transports",
+   "ects": 4,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENM114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i56",
+   "code": "ENT108",
+   "title": "Technologies numériques et objets connectés appliqués aux équipements des bâtiments",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i57",
+   "code": "ETR102",
+   "title": "Communication et information scientifique",
+   "ects": 3,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ETR102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i58",
+   "code": "UTC301",
+   "title": "Capteurs - Métrologie",
+   "ects": 3,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC301-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i59",
+   "code": "UTC302",
+   "title": "Algorithmique - Programmation - Langages",
+   "ects": 3,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC302-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i60",
+   "code": "ANG320",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG320-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i61",
+   "code": "UAEN18",
+   "title": "Expérience professionnelle",
+   "ects": 18,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEN18/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Licence",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

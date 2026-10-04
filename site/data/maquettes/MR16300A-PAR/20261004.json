@@ -1,0 +1,511 @@
+{
+ "title": "Master Gestion de patrimoine",
+ "code": "MR16300A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-gestion-de-patrimoine-1551004.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2 1re année"
+  },
+  {
+   "id": "y3",
+   "label": "M2 2e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i7",
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i23",
+    "i24",
+    "i25",
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "GFN133",
+   "title": "Pratique des taux d'intérêt et produits monétaires et obligataires",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN133-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GFN105",
+   "title": "Décisions financières à long terme et évaluation des actifs",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRA122",
+   "title": "Droit  patrimonial de la famille",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DRF114",
+   "title": "Droit fiscal : imposition du résultat de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ESD111",
+   "title": "Mécanismes de l'économie contemporaine",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESD111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRA110",
+   "title": "Activités et biens de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "DRA112",
+   "title": "Règles générales du droit des sociétés",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "GFN108",
+   "title": "Gestion de trésorerie et relations banques-entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "GFN134",
+   "title": "Actions, gestion des portefeuilles et produits dérivés",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN134-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "GFN135",
+   "title": "Analyse financière et politique de financement de l'entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN135-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "GFN137",
+   "title": "Finance internationale : Marché des changes et gestion des risques internationaux",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN137-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "UAGF08",
+   "title": "Stage ou expérience professionnelle",
+   "ects": 18,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAGF08/0"
+  },
+  {
+   "id": "i15",
+   "code": "BAN209",
+   "title": "Droit et fiscalité du patrimoine",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BAN209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "BAN213",
+   "title": "Ingénierie patrimoniale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BAN213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "BAN214",
+   "title": "Investissements financiers, immobiliers et alternatifs",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BAN214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "GFN244",
+   "title": "Finance pour la gestion de patrimoine",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN244-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "GFN227",
+   "title": "Macroéconomie financière et analyse de la conjoncture",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN227-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "DRA206",
+   "title": "La gestion du patrimoine du dirigeant et de l'entreprise",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "BAN212",
+   "title": "Relation clientèle, éthique et déontologie",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BAN212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "GFN255",
+   "title": "Finance durable",
+   "ects": 4,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN255-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "GFN250",
+   "title": "Fondamentaux de la technologie blockchain",
+   "ects": 6,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN250-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "GFN251",
+   "title": "Crypto-actifs et nouveaux modes de paiement",
+   "ects": 6,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN251-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "GFN253",
+   "title": "Financement des start-up",
+   "ects": 6,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN253-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "GFN228",
+   "title": "Collecte et gestion des capitaux",
+   "ects": 6,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN228-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "GFN216",
+   "title": "Analyse financière et évaluation de l'entreprise",
+   "ects": 6,
+   "year": "y3",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN216-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "UAGF04",
+   "title": "Mémoire",
+   "ects": 8,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAGF04/0"
+  },
+  {
+   "id": "i29",
+   "code": "UAGF05",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 2,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAGF05/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

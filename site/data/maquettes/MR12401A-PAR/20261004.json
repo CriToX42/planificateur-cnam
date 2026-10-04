@@ -1,0 +1,433 @@
+{
+ "title": "Master management sectoriel Parcours Gestion des établissements sanitaires et médico-sociaux",
+ "code": "MR12401A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-management-sectoriel-parcours-gestion-des-etablissements-sanitaires-et-medico-sociaux-1486982.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i16",
+    "i17"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "1 UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i18",
+    "i19",
+    "i20",
+    "i21",
+    "i22",
+    "i23"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "1 UE de langue à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS150",
+   "title": "Gestion des ressources humaines et stratégiques en établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS150-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EGS151",
+   "title": "Comptabilité et analyse financière des établissements de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS151-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "EGS152",
+   "title": "Panorama du système de santé et des établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS152-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "EGS153",
+   "title": "Problématiques juridiques dans les établissements de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS153-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "EGS154",
+   "title": "Management des organisations de santé",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS154-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "EGS155",
+   "title": "Introduction à la e-santé et aux systèmes d'information dans les établissements de santé",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS155-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "EGS156",
+   "title": "Comptabilité analytique des établissements de santé",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS156-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UASA0S",
+   "title": "Projet de fin d'études",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA0S/0"
+  },
+  {
+   "id": "i9",
+   "code": "EGS215",
+   "title": "Qualité, certification et gestion des risques dans les établissements de santé",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "EGS217",
+   "title": "Conduite du changement dans les établissements de santé",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "EGS218",
+   "title": "Systèmes de santé et cadre juridique des établissements",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "EGS219",
+   "title": "Contrôle de gestion et pilotage des établissements de santé",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "EGS220",
+   "title": "Systèmes d'informations et e-santé",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS220-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "EGS221",
+   "title": "Stratégies des établissements",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "EGS232",
+   "title": "Fondamentaux d'économie de la santé",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "EGS244",
+   "title": "Prospective en santé",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS244-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "EGS239",
+   "title": "Evaluation médico-économique appliquée",
+   "ects": 6,
+   "year": "y2",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS239-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "RUS200",
+   "title": "Russe en parcours d'apprentissage personnalisé",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "ARA100",
+   "title": "Initiation à la langue et culture arabe, parcours collectif",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ARA100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "FLE100",
+   "title": "Français langue étrangère : parcours collectif",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "FLE200",
+   "title": "Français langue étrangère: parcours personnalisé d'apprentissage",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FLE200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "LSF100",
+   "title": "Introduction à la langue des signes française (LSF) et à la culture Sourde",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LSF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "UASA0H",
+   "title": "Projet fin d'études",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA0H/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

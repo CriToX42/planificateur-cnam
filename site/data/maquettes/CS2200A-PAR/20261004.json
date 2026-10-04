@@ -1,0 +1,68 @@
+{
+ "title": "Certificat de spécialisation Les TIC (technologies de l'information et de la communication) dans les systèmes d'information documentaire",
+ "code": "CS2200A-PAR",
+ "total_credits": 18,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-les-tic-technologies-de-l-information-et-de-la-communication-dans-les-systemes-d-information-documentaire-1486742.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NTD212",
+   "title": "Les systèmes d'information documentaire. Niveau avancé : linked data et open data",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NTD214",
+   "title": "Les systèmes d'information documentaire : fondamentaux techniques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "NTD213",
+   "title": "Veille, diffusion et valorisation de l'information",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD213-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

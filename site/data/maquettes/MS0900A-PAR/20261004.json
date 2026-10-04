@@ -1,0 +1,98 @@
+{
+ "title": "Mastère spécialisé (label conférence des grandes écoles) Santé publique",
+ "code": "MS0900A-PAR",
+ "total_credits": 75,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/mastere-specialise-label-conference-des-grandes-ecoles-sante-publique-1487009.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA0T",
+   "title": "Epidémiologie",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA0T/0"
+  },
+  {
+   "id": "i2",
+   "code": "USSA0U",
+   "title": "Biostatistique",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA0U/0"
+  },
+  {
+   "id": "i3",
+   "code": "USSA0V",
+   "title": "Sécurité sanitaire",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA0V/0"
+  },
+  {
+   "id": "i4",
+   "code": "USSA0W",
+   "title": "Sciences sociales et santé",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA0W/0"
+  },
+  {
+   "id": "i5",
+   "code": "USSA1C",
+   "title": "Grands principes et pratiques actuelles de santé globale",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA1C/0"
+  },
+  {
+   "id": "i6",
+   "code": "USSA3D",
+   "title": "Santé globale",
+   "ects": 20,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3D/0"
+  },
+  {
+   "id": "i7",
+   "code": "UASA07",
+   "title": "Stage et mémoire",
+   "ects": 30,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA07/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Mastère spécialisé",
+  "level_in": "Niveau 7 (Bac+5)",
+  "level_out": "Sans niveau spécifique"
+ }
+}

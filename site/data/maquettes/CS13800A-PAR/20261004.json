@@ -1,0 +1,98 @@
+{
+ "title": "Certificat de spécialisation Développeur économique territorial",
+ "code": "CS13800A-PAR",
+ "total_credits": 40,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-developpeur-economique-territorial-1486741.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USTR01",
+   "title": "Environnement territorial, compétences et financement des collectivités ?",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR01/0"
+  },
+  {
+   "id": "i2",
+   "code": "USTR02",
+   "title": "Le développeur face aux enjeux du développement territorial",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR02/0"
+  },
+  {
+   "id": "i3",
+   "code": "USTR03",
+   "title": "Transition environnementale et numérique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR03/0"
+  },
+  {
+   "id": "i4",
+   "code": "USTR04",
+   "title": "Les différents visages du développement économique territorial",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR04/0"
+  },
+  {
+   "id": "i5",
+   "code": "USTR05",
+   "title": "Conduite de projet et conduite du changement",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR05/0"
+  },
+  {
+   "id": "i6",
+   "code": "USTR06",
+   "title": "Gouvernance participative et nouvelles pratiques du développement économique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTR06/0"
+  },
+  {
+   "id": "i7",
+   "code": "UATR09",
+   "title": "Projet tutoré",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATR09/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

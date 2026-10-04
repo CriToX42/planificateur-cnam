@@ -1,0 +1,54 @@
+{
+ "title": "Certificat de spécialisation Psychologie existentielle et accompagnement des transitions professionnelles et de vie",
+ "code": "CS12500A-PAR",
+ "total_credits": 24,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-psychologie-existentielle-et-accompagnement-des-transitions-professionnelles-et-de-vie-1486735.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USPS20",
+   "title": "Cadres de référence de la psychologie existentielle et des transitions professionnelles et de vie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS20/0"
+  },
+  {
+   "id": "i2",
+   "code": "USPS21",
+   "title": "Méthodes, outils et pratiques professionnelles de la psychologie existentielle",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS21/0"
+  },
+  {
+   "id": "i3",
+   "code": "UAPS10",
+   "title": "Analyse de pratiques et élaboration d'un mémoire professionnel",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAPS10/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

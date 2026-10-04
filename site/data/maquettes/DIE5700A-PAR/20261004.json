@@ -1,0 +1,367 @@
+{
+ "title": "Diplôme d'établissement ex niveau V Responsable du développement des ressources humaines en écosystème dynamique",
+ "code": "DIE5700A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-v-responsable-du-developpement-des-ressources-humaines-en-ecosysteme-dynamique-1486822.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i4",
+    "i5",
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une unité à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Trois UE à choisir parmi",
+   "rule": {
+    "ue_count": 3,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 18
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG218",
+   "title": "Management international des RH",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FPG225",
+   "title": "Gestion de la diversité en ressources humaines",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG225-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG226",
+   "title": "Digital RH, Intelligence Artificielle, métaverse, chatGPT dans un monde transition écologique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG226-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "FAD114",
+   "title": "Développement des compétences en situation de travail",
+   "ects": 8,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "AST117",
+   "title": "Sociologie des relations professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AST117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "HSE213",
+   "title": "Santé, sécurité et qualité de vie au travail dans la pratique managériale",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRS106",
+   "title": "Droit social européen et international",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/DRS106/0"
+  },
+  {
+   "id": "i8",
+   "code": "TOF101",
+   "title": "Analyse des emplois et des activités professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "HTS109",
+   "title": "Handicap et entreprise : de l'intégration au maintien dans l'emploi",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "ESC130",
+   "title": "Marketing et réseaux sociaux",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ESC130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "MSE201",
+   "title": "Stratégie d'entreprise I : analyse stratégique",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "DSY221",
+   "title": "OID, Organisation innovante & durable",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "CCE119",
+   "title": "Communication, culture, expression pour ingénieurs et cadres",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "PRS201",
+   "title": "Prospective, décision, transformation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PRS201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "GDN210",
+   "title": "Management des projets d'innovation par enjeux",
+   "ects": 4,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GDN210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "EME218",
+   "title": "Responsabilité sociétale des entreprises",
+   "ects": 8,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/EME218/0"
+  },
+  {
+   "id": "i17",
+   "code": "DRS107",
+   "title": "Responsabilité pénale et civile de l'employeur et du salarié",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "MNP213",
+   "title": "Innovation Publique, les grands enjeux pour un nouveau management public",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MNP213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "UARH02",
+   "title": "Mémoire",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UARH02/0"
+  },
+  {
+   "id": "i20",
+   "code": "UARH03",
+   "title": "Rapport expérience professionnelle",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UARH03/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

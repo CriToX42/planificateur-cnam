@@ -1,0 +1,155 @@
+{
+ "title": "Certificat de compétence Consultant en insertion dans le domaine du handicap",
+ "code": "CC7800A-PAR",
+ "total_credits": 32,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-consultant-en-insertion-dans-le-domaine-du-handicap-1486678.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "HTS101",
+   "title": "Handicap : concepts fondamentaux et panorama sur les déficiences",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "HTS102",
+   "title": "Neurosciences appliquées au handicap",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "HTS103",
+   "title": "La vie quotidienne des personnes en situation de handicap",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "HTS106",
+   "title": "Spécificité du handicap chez les enfants et les personnes âgées",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "HTS107",
+   "title": "La relation d'aide et qualité de vie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "HTS104",
+   "title": "Techniques et méthodologie de la démarche scientifique : bases théoriques",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "HTS105",
+   "title": "Techniques et méthodologie de la démarche scientifique : aspects pratiques",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HTS105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "UA210P",
+   "title": "Tutorat de mémoire de stage",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA210P/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

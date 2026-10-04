@@ -1,0 +1,408 @@
+{
+ "title": "Master Génie des procédés et des bio-procédés Parcours Ingénierie chimique",
+ "code": "MR10101A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-genie-des-procedes-et-des-bio-procedes-parcours-ingenierie-chimique-1486951.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y2",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i13",
+    "i14",
+    "i15"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i16",
+    "i17"
+   ],
+   "children": [
+    "g4"
+   ],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i18",
+    "i19",
+    "i20"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": "g3",
+   "label": "Une ou deux UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CGP101",
+   "title": "Chimie industrielle : les grandes filières, schémas et bilans",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CGP107",
+   "title": "Génie des procédés : Thermodynamique et cinétique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CGP110",
+   "title": "Pratique des outils d'analyse et de caractérisation des procédés chimiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CGP111",
+   "title": "TP Génie des procédés : Opérations unitaires fondamentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CGP109",
+   "title": "Génie des procédés : Opérations unitaires fondamentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UTC106",
+   "title": "Hydraulique appliquée",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "UTC107",
+   "title": "Transferts appliqués : transferts thermiques et transferts de matière",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CGP219",
+   "title": "Opérations unitaires avancées",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP219-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UA4121",
+   "title": "Stage de M1",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4121/0"
+  },
+  {
+   "id": "i11",
+   "code": "CGP231",
+   "title": "Management des risques chimiques industriels",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP231-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "CGP232",
+   "title": "Optimisation et contrôle des procédés",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP232-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "CGP230",
+   "title": "Outils numériques pour l'ingénierie chimique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP230-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "CGP235",
+   "title": "Procédés et développement durable",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP235-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "CGP236",
+   "title": "Catalyse hétérogène pour l'énergie et l'environnement",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP236-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "CGP213",
+   "title": "Informatique et procédés",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "CGP215",
+   "title": "Génie de la réaction chimique et Évaluation économique des procédés",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "AGR201",
+   "title": "Génie des Bioprocédés",
+   "ects": 3,
+   "year": "y2",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AGR201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "ACV200",
+   "title": "Analyse de l'impact environnemental des aliments et bioproduits",
+   "ects": 3,
+   "year": "y2",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACV200-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "CGP240",
+   "title": "Méthodologie du génie des produits",
+   "ects": 6,
+   "year": "y2",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i21",
+   "code": "UA4122",
+   "title": "Stage de M2",
+   "ects": 30,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4122/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

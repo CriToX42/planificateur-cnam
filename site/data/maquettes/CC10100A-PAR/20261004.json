@@ -1,0 +1,111 @@
+{
+ "title": "Certificat de compétence Pharmacologie",
+ "code": "CC10100A-PAR",
+ "total_credits": 36,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-pharmacologie-1486632.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BLG105",
+   "title": "Bases de bioexpérimentation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "BLG121",
+   "title": "Pharmacologie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=BLG121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GAN110",
+   "title": "Méthodes spectrométriques et biotechnologies : application à la bioanalyse",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GAN110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "STA109",
+   "title": "Biostatistique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CHR211",
+   "title": "Stratégies de découverte et modes d'actions des médicaments",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UA4124",
+   "title": "Projet tutoré",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4124/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

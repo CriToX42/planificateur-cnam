@@ -1,0 +1,99 @@
+{
+ "title": "Certificat professionnel Agent technique en laboratoire de chimie (industrie chimique, parachimique (cosmétique, pharmaceutique) et agroalimentaire)",
+ "code": "CP6200A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-agent-technique-en-laboratoire-de-chimie-industrie-chimique-parachimique-cosmetique-pharmaceutique-et-agroalimentaire--1486699.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CHG001",
+   "title": "Bases scientifiques pour la chimie et la biologie  (1)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CHG002",
+   "title": "Bases scientifiques pour la chimie et la biologie  (2)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CHG003",
+   "title": "Chimie Générale 1",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CHG004",
+   "title": "Chimie Générale 2",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG004-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CHG005",
+   "title": "Chimie expérimentale 1 : Initiation aux pratiques de laboratoire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHG005-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

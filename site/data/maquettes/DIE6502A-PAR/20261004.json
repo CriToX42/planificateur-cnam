@@ -1,0 +1,348 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Responsable en ingénierie d'étude et de production option Recherche et développement Parcours Chimie",
+ "code": "DIE6502A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-responsable-en-ingenierie-d-etude-et-de-production-option-recherche-et-developpement-parcours-chimie-1486824.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i16",
+    "i17"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UTC704",
+   "title": "Mathématiques",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC704-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UTC705",
+   "title": "Statistique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC705-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC701",
+   "title": "Biologie",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC701-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "UTC702",
+   "title": "Chimie : de l'atome au vivant",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC702-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "UTC101",
+   "title": "Mathématiques appliquées : Mathématiques - informatique - méthodes numériques",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "CHR101",
+   "title": "Concepts fondamentaux de la chimie organique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CHR104",
+   "title": "Les outils de la synthèse organique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CHR105",
+   "title": "Les méthodes et stratégies de la synthèse organique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "CHR107",
+   "title": "Pratique des outils de contrôle en chimie  : applications aux métiers de la santé et de la cosmétique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "CMP101",
+   "title": "Travaux pratiques : molécules organiques et polymères",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CMP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "CHR110",
+   "title": "Chimie du végétal, du naturel et des actifs cosmétiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "CHR103",
+   "title": "Formulation : Concepts Moléculaires. Applications Industrielles en Chimie, Pharmaceutique, Cosmétique et Agroalimentaire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "CHR106",
+   "title": "Chimie bio-organique : applications aux métiers de la santé et de l'agroalimentaire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i16",
+   "code": "ANG100",
+   "title": "Anglais général pour débutants",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ENG262",
+   "title": "Information et communication scientifique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ENG262-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "CHR211",
+   "title": "Stratégies de découverte et modes d'actions des médicaments",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "CHR212",
+   "title": "Chimie verte et développement durable",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CHR212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UA4135",
+   "title": "Expérience professionnelle 24 mois",
+   "ects": 24,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4135/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

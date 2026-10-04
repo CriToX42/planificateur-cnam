@@ -1,0 +1,32 @@
+{
+ "title": "Diplôme d'établissement ex niveau V Executive Master Leadership et Management de l'Assurance (Cnam Paris)",
+ "code": "DET0900A-PAR",
+ "total_credits": 30,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-v-executive-master-leadership-et-management-de-l-assurance-cnam-paris--1624272.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UAAS0P",
+   "title": "Certificat \"Leadership et stratégie\"",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAS0P/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

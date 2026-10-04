@@ -1,0 +1,144 @@
+{
+ "title": "Certificat professionnel Assistant  comptable",
+ "code": "CP0200A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-assistant-comptable-1486686.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 UA à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 22
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CFA010",
+   "title": "Comptabilité et gestion de l'entreprise",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA010-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CFA030",
+   "title": "Comptabilité, organisation et gestion",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CFA030-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRF100",
+   "title": "Principes généraux de fiscalité des entreprises",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRF100-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DRA112",
+   "title": "Règles générales du droit des sociétés",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRA112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CCE001",
+   "title": "Outils et démarche de la communication écrite et orale",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "UACF24",
+   "title": "Projet entrepreneurial",
+   "ects": 22,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACF24/0"
+  },
+  {
+   "id": "i7",
+   "code": "UACF25",
+   "title": "Rapport d'expérience professionnelle",
+   "ects": 22,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACF25/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

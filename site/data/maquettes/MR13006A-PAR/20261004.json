@@ -1,0 +1,267 @@
+{
+ "title": "Master audiovisuel médias interactifs numériques, jeux Parcours Programmation",
+ "code": "MR13006A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-audiovisuel-medias-interactifs-numeriques-jeux-parcours-programmation-1550999.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USMU01",
+   "title": "Anglais de spécialité",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMU01/0"
+  },
+  {
+   "id": "i2",
+   "code": "USMU0B",
+   "title": "Langage C++",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMU0B/0"
+  },
+  {
+   "id": "i3",
+   "code": "US332F",
+   "title": "Conception sonore",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332F/0"
+  },
+  {
+   "id": "i4",
+   "code": "US332G",
+   "title": "Conception visuelle",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332G/0"
+  },
+  {
+   "id": "i5",
+   "code": "USMU02",
+   "title": "Media interactifs",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMU02/0"
+  },
+  {
+   "id": "i6",
+   "code": "US335U",
+   "title": "Ateliers de conception de jeux",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335U/0"
+  },
+  {
+   "id": "i7",
+   "code": "USMU03",
+   "title": "Initiation au game et level design",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMU03/0"
+  },
+  {
+   "id": "i8",
+   "code": "US335T",
+   "title": "Bases cognitives, sociales et émotionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335T/0"
+  },
+  {
+   "id": "i9",
+   "code": "US332K",
+   "title": "Management social - Droit",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332K/0"
+  },
+  {
+   "id": "i10",
+   "code": "US332L",
+   "title": "Méthodologie et processus",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332L/0"
+  },
+  {
+   "id": "i11",
+   "code": "US332N",
+   "title": "Conception et développement informatique pour les jeux vidéos 1",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332N/0"
+  },
+  {
+   "id": "i12",
+   "code": "US332P",
+   "title": "Conception et développement informatique pour les jeux vidéos 2",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US332P/0"
+  },
+  {
+   "id": "i13",
+   "code": "UA3334",
+   "title": "Mini-projet",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3334/0"
+  },
+  {
+   "id": "i14",
+   "code": "UA333H",
+   "title": "Projet scientifique",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA333H/0"
+  },
+  {
+   "id": "i15",
+   "code": "US3330",
+   "title": "Pratique de l'innovation : approche collaborative",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US3330/0"
+  },
+  {
+   "id": "i16",
+   "code": "US335V",
+   "title": "Design d'Interaction",
+   "ects": 9,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335V/0"
+  },
+  {
+   "id": "i17",
+   "code": "US335W",
+   "title": "Modèles des interacteurs",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335W/0"
+  },
+  {
+   "id": "i18",
+   "code": "US335Z",
+   "title": "Programmation Avancée",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335Z/0"
+  },
+  {
+   "id": "i19",
+   "code": "USMU0A",
+   "title": "Programmation jeux en pratique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMU0A/0"
+  },
+  {
+   "id": "i20",
+   "code": "UAMU1A",
+   "title": "Engagement dans la vie de l'Ecole",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMU1A/0"
+  },
+  {
+   "id": "i21",
+   "code": "UA333K",
+   "title": "Stage de professionnalisation",
+   "ects": 22,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA333K/0"
+  },
+  {
+   "id": "i22",
+   "code": "UA333J",
+   "title": "Projet 2",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA333J/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

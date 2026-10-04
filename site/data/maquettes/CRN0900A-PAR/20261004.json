@@ -1,0 +1,615 @@
+{
+ "title": "Titre RNCP Niveau 7 Manager hygiène sécurité environnement (HSE)",
+ "code": "CRN0900A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-7-manager-hygiene-securite-environnement-hse--1490379.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i1",
+    "i2"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i3",
+    "i4"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i5",
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i15",
+    "i16"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g7",
+   "items": [
+    "i20",
+    "i21"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 3
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DRS107",
+   "title": "Responsabilité pénale et civile de l'employeur et du salarié",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRS107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "HSE105",
+   "title": "Législation et réglementation des nuisances environnementales",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CGP121",
+   "title": "Contexte réglementaire et environnement en milieu industriel",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "HSE102",
+   "title": "Méthodes et outils d'analyse en santé, sécurité au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "HSE103",
+   "title": "Aspects techniques de l'évaluation des différents risques professionnels",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "HSE130",
+   "title": "Pratique de l'étude des risques et des systèmes de management SST en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "PHR103",
+   "title": "Prévention des risques physiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PHR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ERG126",
+   "title": "Approche ergonomique des situations de travail",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/ERG126/0"
+  },
+  {
+   "id": "i10",
+   "code": "ERG117",
+   "title": "Analyser et agir sur les conditions de travail (1)",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "HSE110",
+   "title": "Prévention des risques biologiques et épidémiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "HSE111",
+   "title": "Démarche d'estimation des expositions professionnelles et environnementales",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "CGP105",
+   "title": "Prévention du risque chimique et sécurité industrielle",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "RDP103",
+   "title": "Radioprotection",
+   "ects": 6,
+   "year": "y1",
+   "group": "g4",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RDP103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "UTC704",
+   "title": "Mathématiques",
+   "ects": 3,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC704-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "STA001",
+   "title": "Techniques de la statistique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "HSE114",
+   "title": "Epidémiologie et évaluation quantitative des risques sanitaires",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "HSE214",
+   "title": "Pratique de l'évaluation quantitative des risques sanitaires",
+   "ects": 6,
+   "year": "y1",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "HSE125",
+   "title": "Approche économique et retour sur investissement de la prévention",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE125-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "HSE133",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": "g7",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE133-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": "g7",
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "HSE134",
+   "title": "Intégrer les enjeux de transitions écologiques dans les pratiques professionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE134-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "MTR107",
+   "title": "Introduction au management qualité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "HSE107",
+   "title": "Approches quantitatives du risque industriel et environnemental",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "HSE215",
+   "title": "Transformations du travail et risques émergeants",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "HSE224",
+   "title": "Conception, pilotage et évaluation d'une politique de sécurité sanitaire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE224-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "HSE213",
+   "title": "Santé, sécurité et qualité de vie au travail dans la pratique managériale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "DSY007",
+   "title": "Risque organisationnel et gestion du changement",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DSY007-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "",
+   "title": "TOEIC Niveau B1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i30",
+   "code": "UA411I",
+   "title": "Projets, travaux personnels, études de cas",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411I/0"
+  },
+  {
+   "id": "i31",
+   "code": "UA411H",
+   "title": "Mémoire de fin d'études",
+   "ects": 20,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411H/0"
+  },
+  {
+   "id": "i32",
+   "code": "UA411J",
+   "title": "Rapport d'activité",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411J/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

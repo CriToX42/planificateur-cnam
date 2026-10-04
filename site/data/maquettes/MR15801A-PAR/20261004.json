@@ -1,0 +1,162 @@
+{
+ "title": "Master Direction de projet ou d'établissement culturel Parcours Ingénierie de la culture et de la création",
+ "code": "MR15801A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-direction-de-projet-ou-d-etablissement-culturel-parcours-ingenierie-de-la-culture-et-de-la-creation-1551002.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CCE240",
+   "title": "Transitions écologiques et sociétales du secteur culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE240-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CCE114",
+   "title": "Culture et espace public, nouveaux lieux culturels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "CCE115",
+   "title": "Numérique et intelligence artificielle : théories, actualité et pratiques dans le champ culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "CCE241",
+   "title": "Diversité des publics et de la création, actualité des arts et de la culture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE241-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "CCE242",
+   "title": "Institutions, droit et gestion de la culture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE242-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "CCE124",
+   "title": "Construire un projet artistique, travailler avec les artistes",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "CCE243",
+   "title": "Méthodologie du mémoire et initiation à la recherche dans les champs de la culture et de la création",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCE243-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UAIP13",
+   "title": "Mémoire",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAIP13/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

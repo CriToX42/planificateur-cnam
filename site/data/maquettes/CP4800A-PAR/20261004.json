@@ -1,0 +1,139 @@
+{
+ "title": "Certificat professionnel Programmeur d'applications mobiles",
+ "code": "CP4800A-PAR",
+ "total_credits": 42,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-professionnel-programmeur-d-applications-mobiles-1486693.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NFA031",
+   "title": "Programmation avec Java : notions de base",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi",
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA031-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NFA040",
+   "title": "Architecture et langages Web",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA040-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "NFA008",
+   "title": "Bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ],
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA008-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "NFA003",
+   "title": "Principes et fonctionnement des systèmes d'exploitation",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFA003-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NFA022",
+   "title": "Principes et programmation système et réseau pour  smart-phones et tablettes tactiles",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/NFA022/0"
+  },
+  {
+   "id": "i6",
+   "code": "NFA025",
+   "title": "Mise en oeuvre de la programmation de smart-phones et tablettes tactiles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/NFA025/0"
+  },
+  {
+   "id": "i7",
+   "code": "NFA024",
+   "title": "Projet application mobile : mise en pratique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/NFA024/0"
+  },
+  {
+   "id": "i8",
+   "code": "UA333G",
+   "title": "Stage de 3 mois ou expérience professionnelle équivalente",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA333G/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

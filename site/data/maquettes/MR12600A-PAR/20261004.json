@@ -1,0 +1,672 @@
+{
+ "title": "Master actuariat",
+ "code": "MR12600A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-actuariat-1486985.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2 1re année"
+  },
+  {
+   "id": "y3",
+   "label": "M2 2e année"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i5",
+    "i6",
+    "i7",
+    "i8",
+    "i9",
+    "i10"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "12 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 12,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "12 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 12,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g3",
+   "items": [],
+   "children": [
+    "g4",
+    "g5",
+    "g6"
+   ],
+   "kind": "alternative",
+   "year": "y3",
+   "parent": null,
+   "label": "3 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i23",
+    "i24"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y3",
+   "parent": "g3",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i25",
+    "i26",
+    "i27"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y3",
+   "parent": "g3",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i28",
+    "i29",
+    "i30",
+    "i31"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y3",
+   "parent": "g3",
+   "label": "Option 3",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g7",
+   "items": [
+    "i32",
+    "i33"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y3",
+   "parent": null,
+   "label": "Une UA à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 9
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ACT102",
+   "title": "Mathématiques actuarielles fondamentales de l'assurance vie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ACT111",
+   "title": "Mathématiques actuarielles fondamentales de l'assurance non vie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "GFN105",
+   "title": "Décisions financières à long terme et évaluation des actifs",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ACT108",
+   "title": "Mathématiques financières",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "GFN145",
+   "title": "Finance et Informatique des Salles de Marchés (FISM) I",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN145-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "GFN256",
+   "title": "Probabilités et statistiques pour la finance",
+   "ects": 4,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN256-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "ACT109",
+   "title": "Python pour l'actuariat et l'IA générative en informatique actuarielle",
+   "ects": 2,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "GFN133",
+   "title": "Pratique des taux d'intérêt et produits monétaires et obligataires",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN133-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "GFN134",
+   "title": "Actions, gestion des portefeuilles et produits dérivés",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN134-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "ACT110",
+   "title": "Principes généraux du droit et des techniques d'assurances",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "ACT107",
+   "title": "Etats financiers et gestion des Compagnies d'Assurance",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "MVA113",
+   "title": "Méthodes mathématiques pour la finance et l'économie",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MVA113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "STA103",
+   "title": "Calcul des probabilités",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "STA104",
+   "title": "Statistique mathématique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "UAAA02",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAA02/0"
+  },
+  {
+   "id": "i17",
+   "code": "ACT205",
+   "title": "Actuariat branche dommages",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT205-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "ACT206",
+   "title": "Actuariat branche vie",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "GFN203",
+   "title": "Marchés financiers I : Produits de taux et gestion de portefeuille",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "GFN204",
+   "title": "Marchés financiers II : Futures et options",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "ACT204",
+   "title": "Protection sociale et engagement social",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "ACT207",
+   "title": "Réglementation des entreprises et droit du contrat d'assurance",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i23",
+   "code": "STA201",
+   "title": "Analyse multivariée approfondie",
+   "ects": 9,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i24",
+   "code": "GFN206",
+   "title": "Gestion d'actifs et des risques",
+   "ects": 6,
+   "year": "y3",
+   "group": "g4",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i25",
+   "code": "STA201",
+   "title": "Analyse multivariée approfondie",
+   "ects": 9,
+   "year": "y3",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i26",
+   "code": "GFN255",
+   "title": "Finance durable",
+   "ects": 4,
+   "year": "y3",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN255-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i27",
+   "code": "ACT209",
+   "title": "Usage des large Language Models et du deep learning en assurance/finance",
+   "ects": 2,
+   "year": "y3",
+   "group": "g5",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i28",
+   "code": "GFN206",
+   "title": "Gestion d'actifs et des risques",
+   "ects": 6,
+   "year": "y3",
+   "group": "g6",
+   "offer": {
+    "S2": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN206-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i29",
+   "code": "GFN255",
+   "title": "Finance durable",
+   "ects": 4,
+   "year": "y3",
+   "group": "g6",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN255-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i30",
+   "code": "ACT208",
+   "title": "Actuariat contemporain",
+   "ects": 3,
+   "year": "y3",
+   "group": "g6",
+   "offer": {
+    "A": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i31",
+   "code": "ACT209",
+   "title": "Usage des large Language Models et du deep learning en assurance/finance",
+   "ects": 2,
+   "year": "y3",
+   "group": "g6",
+   "offer": {
+    "S1": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACT209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i32",
+   "code": "UA122K",
+   "title": "Projet de fin d'études",
+   "ects": 9,
+   "year": "y3",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA122K/0"
+  },
+  {
+   "id": "i33",
+   "code": "UA122V",
+   "title": "Mémoire d'actuariat",
+   "ects": 9,
+   "year": "y3",
+   "group": "g7",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA122V/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

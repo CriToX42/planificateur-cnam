@@ -1,0 +1,109 @@
+{
+ "title": "Certificat de spécialisation Certificat d’aptitude aux fonctions de psychologue de l’éducation nationale (CAF PsyEn) spécialité  éducation, développement et conseil en orientation scolaire et professionnelle (Cnam Paris)",
+ "code": "CS7500A-PAR",
+ "total_credits": 28,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-certificat-d-aptitude-aux-fonctions-de-psychologue-de-l-education-nationale-caf-psyen-specialite-education-developpement-et-conseil-en-orientation-scolaire-et-professionnelle-cnam-paris--1620863.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USPS1B",
+   "title": "Pratiques de l'entretien, supervision et autosupervision",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS1B/0"
+  },
+  {
+   "id": "i2",
+   "code": "USPS14",
+   "title": "Evaluation psychologique et accompagnement dans le système éducatif",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS14/0"
+  },
+  {
+   "id": "i3",
+   "code": "USPS15",
+   "title": "Approches psychologiques de l'enfant et de l'adolescent.e en milieu scolaire",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS15/0"
+  },
+  {
+   "id": "i4",
+   "code": "USPS16",
+   "title": "Observation et intervention auprès des groupes en milieu scolaire et éducatif",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS16/0"
+  },
+  {
+   "id": "i5",
+   "code": "USPS17",
+   "title": "Partenariat et institution",
+   "ects": 1,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS17/0"
+  },
+  {
+   "id": "i6",
+   "code": "USPS18",
+   "title": "Genre, scolarité, orientation, travail",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS18/0"
+  },
+  {
+   "id": "i7",
+   "code": "USPS19",
+   "title": "Monde économique et professionnel",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS19/0"
+  },
+  {
+   "id": "i8",
+   "code": "USPS1A",
+   "title": "Analyse de pratiques",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USPS1A/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

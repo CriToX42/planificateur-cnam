@@ -1,0 +1,64 @@
+{
+ "title": "Certificat de spécialisation Sciences et Recherche-Action Participative",
+ "code": "CS14900A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-sciences-et-recherche-action-participative-1568389.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UEV244",
+   "title": "Recherche-Action Participative & Territoires : théories et pratiques",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV244-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UEV245",
+   "title": "Sciences participatives en contexte numérique & métrologie participative",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV245-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "",
+   "title": "Une UE de l'EPN 16 en accord avec l'enseignant responsable",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée journée"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

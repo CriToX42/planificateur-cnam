@@ -1,0 +1,268 @@
+{
+ "title": "Titre RNCP Niveau 6 Responsable de projets de formation",
+ "code": "CPN9800A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-6-responsable-de-projets-de-formation-1486712.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FAD117",
+   "title": "La construction des données en sciences humaines",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FAD111",
+   "title": "Analyse du travail et ingénierie de la formation professionnelle",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FAD110",
+   "title": "Conception et conduite de projets de formation",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "FAD118",
+   "title": "Conception et pilotage d'une action de formation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "FAD142",
+   "title": "Acteurs, instances et aspects juridiques et financiers de la formation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD142-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "FAD114",
+   "title": "Développement des compétences en situation de travail",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "FAD141",
+   "title": "Analyse et conception de référentiels et de certifications",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD141-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "FAD131",
+   "title": "Outils, usages et pratiques du numérique en pédagogie",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD131-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "FAD106",
+   "title": "Animation, gestion et évaluation d'une séquence pédagogique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "FAD140",
+   "title": "Apprentissages et médiations pédagogiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD140-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "FAD132",
+   "title": "Analyser les cadres institutionnels et règlementaires de la conception de parcours",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "FAD130",
+   "title": "Accompagner le parcours de formation et de transition professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "FAD108",
+   "title": "Explorer son parcours en vue d'accompagner les transformations identitaires, relationnelles, professionnelles",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ],
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FAD108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "UAFA07",
+   "title": "Expérience professionnelle",
+   "ects": 36,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAFA07/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation hybride journée",
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

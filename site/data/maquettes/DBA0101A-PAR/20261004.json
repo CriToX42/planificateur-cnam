@@ -1,0 +1,249 @@
+{
+ "title": "Diplôme d'établissement ex niveau V DBA Doctorate of Business Administration",
+ "code": "DBA0101A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-v-dba-doctorate-of-business-administration-1486802.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USII1Q",
+   "title": "Atelier 1 - Qu'est-ce que la recherche en management ? - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1Q/0"
+  },
+  {
+   "id": "i2",
+   "code": "USII1R",
+   "title": "Atelier 5 - Garantir la cohérence de ses recherches : (re)définition d'un design de recherche au service de sa problématique - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1R/0"
+  },
+  {
+   "id": "i3",
+   "code": "USII1S",
+   "title": "Atelier 2 - Comment entrer dans la littérature de recherche sur son sujet ? A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1S/0"
+  },
+  {
+   "id": "i4",
+   "code": "USII1T",
+   "title": "Atelier 4 - Problématiser son sujet de recherche - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1T/0"
+  },
+  {
+   "id": "i5",
+   "code": "USII1U",
+   "title": "Atelier 6 - Se familiariser avec la diversité des méthodes et des outils du chercheur-praticien en sciences de gestion - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1U/0"
+  },
+  {
+   "id": "i6",
+   "code": "USII25",
+   "title": "Points de coordination - « Pause et retour sur expérience » - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII25/0"
+  },
+  {
+   "id": "i7",
+   "code": "USII21",
+   "title": "Atelier 3 - Comprendre la construction d'un article scientifique : processus et résultats - A1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII21/0"
+  },
+  {
+   "id": "i8",
+   "code": "USII23",
+   "title": "Webinar - Pratiques de l'écriture",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII23/0"
+  },
+  {
+   "id": "i9",
+   "code": "UAII10",
+   "title": "Remise d'un rapport d'étape - Année 1",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII10/0"
+  },
+  {
+   "id": "i10",
+   "code": "USII1V",
+   "title": "Atelier 1 - Approfondir l'usage des méthodologies qualitatives en management - A2",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1V/0"
+  },
+  {
+   "id": "i11",
+   "code": "USII22",
+   "title": "Points de coordination - « Pause et retour sur expérience » A2",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII22/0"
+  },
+  {
+   "id": "i12",
+   "code": "USII23",
+   "title": "Webinar - Pratiques de l'écriture",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII23/0"
+  },
+  {
+   "id": "i13",
+   "code": "USII2C",
+   "title": "Atelier 2 - Se confronter au terrain – vivre les ups and downs du praticien-chercheur - A2",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII2C/0"
+  },
+  {
+   "id": "i14",
+   "code": "USII2D",
+   "title": "Atelier 3 - Renforcer la cohérence du travail d'écriture - A2",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII2D/0"
+  },
+  {
+   "id": "i15",
+   "code": "UAII11",
+   "title": "Remise d'un rapport d'étape - Année 2",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII11/0"
+  },
+  {
+   "id": "i16",
+   "code": "USII1X",
+   "title": "Atelier 2 - Structurer le texte final - A3",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1X/0"
+  },
+  {
+   "id": "i17",
+   "code": "USII1W",
+   "title": "Atelier 1 - Interroger et accentuer la problématique traitée - A3",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1W/0"
+  },
+  {
+   "id": "i18",
+   "code": "USII24",
+   "title": "Points de coordination « Pause et retour sur expérience » A3",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII24/0"
+  },
+  {
+   "id": "i19",
+   "code": "UAII12",
+   "title": "Remise Essai aux premiers lecteurs",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII12/0"
+  },
+  {
+   "id": "i20",
+   "code": "UAII13",
+   "title": "Atelier 3 - Préparation orale à la soutenance - A3",
+   "ects": 0,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII13/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

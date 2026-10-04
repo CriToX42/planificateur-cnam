@@ -1,0 +1,49 @@
+{
+ "title": "Certificat de spécialisation Conduire une recherche en ergonomie",
+ "code": "CS10000A-PAR",
+ "total_credits": 28,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-conduire-une-recherche-en-ergonomie-1486722.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ERG265",
+   "title": "Conduire une recherche en ergonomie",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ERG265-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UA2117",
+   "title": "Mémoire",
+   "ects": 16,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA2117/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

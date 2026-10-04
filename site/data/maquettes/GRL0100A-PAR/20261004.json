@@ -1,0 +1,403 @@
+{
+ "title": "Grade Licence Océanographe - prospecteur",
+ "code": "GRL0100A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/grade-licence-oceanographe-prospecteur-1550988.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "BCP001",
+   "title": "Outils pour la physique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i2",
+   "code": "BCP002",
+   "title": "Géologie générale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i3",
+   "code": "BCP003",
+   "title": "Géologie des océans + TED001 Enjeux des transitions écologiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i4",
+   "code": "BCP004",
+   "title": "Océanographie générale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i5",
+   "code": "BCP005",
+   "title": "Océanographie Physique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i6",
+   "code": "USTM16",
+   "title": "Interfaçage matériel et logiciel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM16/0"
+  },
+  {
+   "id": "i7",
+   "code": "USTM17",
+   "title": "Traitement des données",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM17/0"
+  },
+  {
+   "id": "i8",
+   "code": "USTM18",
+   "title": "Géomatique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM18/0"
+  },
+  {
+   "id": "i9",
+   "code": "USTM19",
+   "title": "Géologie appliquée",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM19/0"
+  },
+  {
+   "id": "i10",
+   "code": "USTM1A",
+   "title": "Océanographie appliquée",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1A/0"
+  },
+  {
+   "id": "i11",
+   "code": "USTM1B",
+   "title": "Insertion professionnelle maritime et internationale",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1B/0"
+  },
+  {
+   "id": "i12",
+   "code": "BCP006",
+   "title": "Positionnement",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i13",
+   "code": "BCP007",
+   "title": "Géophysique marine appliquée",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i14",
+   "code": "BCP008",
+   "title": "Dynamique des océans",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i15",
+   "code": "BCP009",
+   "title": "Géologie économique  - Aménagement du littoral",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i16",
+   "code": "BCP010",
+   "title": "Sédimentologie",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i17",
+   "code": "BCP011",
+   "title": "Activités liées au SURVEY",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i18",
+   "code": "USTM1C",
+   "title": "Electronique embarquée et interfaçage",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1C/0"
+  },
+  {
+   "id": "i19",
+   "code": "USTM1D",
+   "title": "Analyses de données océanographiques",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1D/0"
+  },
+  {
+   "id": "i20",
+   "code": "USTM1E",
+   "title": "Missions en mer",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1E/0"
+  },
+  {
+   "id": "i21",
+   "code": "USTM1F",
+   "title": "Projet professionnalisant",
+   "ects": 8,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTM1F/0"
+  },
+  {
+   "id": "i22",
+   "code": "UATM10",
+   "title": "Coordination Intechmer",
+   "ects": 0,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATM10/0"
+  },
+  {
+   "id": "i23",
+   "code": "UA412S",
+   "title": "Stage professionnel",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA412S/0"
+  },
+  {
+   "id": "i24",
+   "code": "HBB300",
+   "title": "Information and Communication Technology",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i25",
+   "code": "HBB310",
+   "title": "Navigation",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i26",
+   "code": "HBB320",
+   "title": "Introduction to Safety",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i27",
+   "code": "HBB330",
+   "title": "Seamanship",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i28",
+   "code": "HBB340",
+   "title": "Water Levels and Flow",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i29",
+   "code": "HBB350",
+   "title": "Geodesy & Cartographic Systems",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i30",
+   "code": "HBB360",
+   "title": "Hydrographic Surveying",
+   "ects": 6,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i31",
+   "code": "HBB370",
+   "title": "Data Management",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i32",
+   "code": "HBB380",
+   "title": "Geology & Geophysics",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i33",
+   "code": "HBB390",
+   "title": "Legal Aspects",
+   "ects": 3,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i34",
+   "code": "HBB500",
+   "title": "Hydrographic Practice",
+   "ects": 24,
+   "year": "y3",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Autre",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

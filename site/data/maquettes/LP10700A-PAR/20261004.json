@@ -1,0 +1,98 @@
+{
+ "title": "Licence professionnelle guide conférencier",
+ "code": "LP10700A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-guide-conferencier-1486924.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USEC65",
+   "title": "Tourisme en transition : connaissance du secteur et gestion de l'activité professionnelle",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC65/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEC20",
+   "title": "Méthodologie et techniques de la médiation orale des patrimoines",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC20/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEC21",
+   "title": "Arts, sciences et patrimoines",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC21/0"
+  },
+  {
+   "id": "i4",
+   "code": "USEC22",
+   "title": "Démarche d'interprétation appliquée au territoire et à l'objet culturel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC22/0"
+  },
+  {
+   "id": "i5",
+   "code": "USEC1J",
+   "title": "Langue étrangère, régionale ou langue des signes (niveau C1)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC1J/0"
+  },
+  {
+   "id": "i6",
+   "code": "UAEC08",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEC08/0"
+  },
+  {
+   "id": "i7",
+   "code": "UAEC09",
+   "title": "Projet tuteuré",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEC09/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

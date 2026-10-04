@@ -1,0 +1,83 @@
+{
+ "title": "Certificat de spécialisation Initiation à la recherche en sciences humaines et sociales",
+ "code": "CS9200A-PAR",
+ "total_credits": 14,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-initiation-a-la-recherche-en-sciences-humaines-et-sociales-1486765.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "RCH201",
+   "title": "Le monde de la recherche et son interaction avec la société",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCH201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "RCH202",
+   "title": "Les principales théories en... Sciences de gestion/Sciences et technologies en société/Sciences de l'info-com",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCH202-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "RCH203",
+   "title": "Epistémologie, méthodes et outils de la recherche",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCH203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "RCH204",
+   "title": "De l'idée au projet de recherche",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCH204-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation hybride journée"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

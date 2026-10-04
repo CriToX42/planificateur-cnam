@@ -1,0 +1,98 @@
+{
+ "title": "Titre RNCP Niveau 6 Faciliteur de projets et parcours de vie (Cnam Paris)",
+ "code": "CRN1000A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-6-faciliteur-de-projets-et-parcours-de-vie-cnam-paris--1620859.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA3S",
+   "title": "Appui à maîtrise d'ouvrage et effectivité de l'accès aux droits",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3S/0"
+  },
+  {
+   "id": "i2",
+   "code": "USSA3T",
+   "title": "Maîtrise d'ouvrage : définition et pilotage du projet de vie",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3T/0"
+  },
+  {
+   "id": "i3",
+   "code": "USSA3U",
+   "title": "Le système équitable de coopération comme ingénierie de l'accessibilité",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3U/0"
+  },
+  {
+   "id": "i4",
+   "code": "USSA3V",
+   "title": "Stratégie et méthodologie d'évaluation de l'autrement capable",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3V/0"
+  },
+  {
+   "id": "i5",
+   "code": "USSA3W",
+   "title": "Identification et entretien des compétences du FPPV en lien avec la transformation de l'offre",
+   "ects": 16,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3W/0"
+  },
+  {
+   "id": "i6",
+   "code": "USSA3X",
+   "title": "Communication et légitimation du métier de FPPV",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3X/0"
+  },
+  {
+   "id": "i7",
+   "code": "UASA0P",
+   "title": "Préparation au métier d'APPV",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA0P/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

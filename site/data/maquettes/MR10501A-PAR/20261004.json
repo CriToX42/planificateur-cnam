@@ -1,0 +1,347 @@
+{
+ "title": "Master Urbanisme et aménagement Parcours Programmation et planification territoriales",
+ "code": "MR10501A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-urbanisme-et-amenagement-parcours-programmation-et-planification-territoriales-1486952.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "AVT214",
+   "title": "Dynamiques Territoriales : Économie, Transition Écologique et Ville Productive",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "EDT124",
+   "title": "Politique d'aménagement : de la loi aux opérations d'aménagement",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EDT124-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "AVT209",
+   "title": "Sensibilisation à la démarche de programmation des aménagements, des espaces publics et des équipements",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "AVT212",
+   "title": "Gestion territoriale de l'environnement",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "AVT215",
+   "title": "Atelier conduite de projet et outils de communication",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "AVT208",
+   "title": "Gestion publique locale : finances, acteurs et institutions",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "AVT105",
+   "title": "Droit de l'urbanisme appliqué",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "AVT204",
+   "title": "QUANTUM GIS",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UATR1B",
+   "title": "Grand Oral",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATR1B/0"
+  },
+  {
+   "id": "i11",
+   "code": "UATR03",
+   "title": "Littérature urbaine",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATR03/0"
+  },
+  {
+   "id": "i12",
+   "code": "UEV218",
+   "title": "Ville inclusive, participative et sociale",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "NCU221",
+   "title": "Ville numérique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NCU221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "UEV233",
+   "title": "Développement durable et territoires",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV233-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "AVT207",
+   "title": "Financement public du développement territorial",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "UEV237",
+   "title": "Atelier de projet",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV237-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "UEV235",
+   "title": "Approfondissement et réflexions urbaines",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UEV235-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "AVT203",
+   "title": "Approfondissement de la démarche de programmation urbaine",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=AVT203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "EDT221",
+   "title": "Développement territorial et pratiques des mobilités",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EDT221-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i20",
+   "code": "LTR203",
+   "title": "Logistique urbaine durable, fret et mobilité des marchandises",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=LTR203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "UATR1C",
+   "title": "Rapport d'activité ou de stage",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATR1C/0"
+  },
+  {
+   "id": "i22",
+   "code": "UATR09",
+   "title": "Projet tutoré",
+   "ects": 10,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATR09/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

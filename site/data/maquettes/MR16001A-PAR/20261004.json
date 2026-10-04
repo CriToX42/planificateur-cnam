@@ -1,0 +1,300 @@
+{
+ "title": "Master Information et documentation Parcours Chef de projet en stratégie et gouvernance de l’information en formation continue",
+ "code": "MR16001A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-information-et-documentation-parcours-chef-de-projet-en-strategie-et-gouvernance-de-l-information-en-formation-continue-1551003.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3"
+   ],
+   "kind": "alternative",
+   "year": "y2",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i16",
+    "i17"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option Knowledge management",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i18",
+    "i19"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y2",
+   "parent": "g1",
+   "label": "option records management et dématérialisation",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USTD01",
+   "title": "Enjeux contemporains de l'information et du numérique",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD01/0"
+  },
+  {
+   "id": "i2",
+   "code": "USTD02",
+   "title": "Pilotage de projets de gestion de l'information",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD02/0"
+  },
+  {
+   "id": "i3",
+   "code": "USTD03",
+   "title": "Conception des dispositifs de traitement de l'information",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD03/0"
+  },
+  {
+   "id": "i4",
+   "code": "USTD04",
+   "title": "Recherche et veille documentaire",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD04/0"
+  },
+  {
+   "id": "i5",
+   "code": "USTD05",
+   "title": "Méthodologie du mémoire 1",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD05/0"
+  },
+  {
+   "id": "i6",
+   "code": "USTD06",
+   "title": "Anglais professionnel",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD06/0"
+  },
+  {
+   "id": "i7",
+   "code": "UATD01",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATD01/0"
+  },
+  {
+   "id": "i8",
+   "code": "USTD07",
+   "title": "Management d'équipe et conduite du changement",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD07/0"
+  },
+  {
+   "id": "i9",
+   "code": "USTD08",
+   "title": "Conception éditoriale de portails d'information : du cahier des charges à la publication",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD08/0"
+  },
+  {
+   "id": "i10",
+   "code": "USTD09",
+   "title": "Valorisation des services et systèmes d'information : UX/UI, marketing, référencement...",
+   "ects": 5,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD09/0"
+  },
+  {
+   "id": "i11",
+   "code": "USTD0A",
+   "title": "Conception d'un dispositif de veille stratégique",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0A/0"
+  },
+  {
+   "id": "i12",
+   "code": "USTD0B",
+   "title": "Principes et fondamentaux de la gouvernance des connaissances",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0B/0"
+  },
+  {
+   "id": "i13",
+   "code": "USTD0C",
+   "title": "Introduction à la dématérialisation et au records management",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0C/0"
+  },
+  {
+   "id": "i14",
+   "code": "USTD0D",
+   "title": "Méthodologie du mémoire 2",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0D/0"
+  },
+  {
+   "id": "i15",
+   "code": "USTD0E",
+   "title": "Anglais professionnel",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0E/0"
+  },
+  {
+   "id": "i16",
+   "code": "USTD0F",
+   "title": "Les bonnes pratiques de la gouvernance des connaissances (KM)",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0F/0"
+  },
+  {
+   "id": "i17",
+   "code": "USTD0G",
+   "title": "Transformation des processus métiers par le knowledge management",
+   "ects": 6,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0G/0"
+  },
+  {
+   "id": "i18",
+   "code": "USTD0H",
+   "title": "Capture et traitement de l'information",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0H/0"
+  },
+  {
+   "id": "i19",
+   "code": "USTD0J",
+   "title": "Valeur probatoire et archivage électronique",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USTD0J/0"
+  },
+  {
+   "id": "i20",
+   "code": "UATD03",
+   "title": "Mémoire",
+   "ects": 14,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UATD03/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

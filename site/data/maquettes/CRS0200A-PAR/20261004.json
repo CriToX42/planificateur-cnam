@@ -1,0 +1,53 @@
+{
+ "title": "Certification enregistrée au répertoire spécifique Mettre en œuvre la gestion des connaissances (KM) au sein d'une organisation",
+ "code": "CRS0200A-PAR",
+ "total_credits": 9,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certification-enregistree-au-repertoire-specifique-mettre-en-uvre-la-gestion-des-connaissances-km-au-sein-d-une-organisation-1601007.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "NTD217",
+   "title": "Principes et fondamentaux de la gouvernance des connaissances",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "NTD219",
+   "title": "Mise en œuvre de la gouvernance des connaissances",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NTD219-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation à distance planifiée journée"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

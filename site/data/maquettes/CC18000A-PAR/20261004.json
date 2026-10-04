@@ -1,0 +1,53 @@
+{
+ "title": "Certificat de compétence Blockchains, crypto-actifs et IA (Cnam Paris)",
+ "code": "CC18000A-PAR",
+ "total_credits": 12,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-blockchains-crypto-actifs-et-ia-cnam-paris--1624823.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "GFN250",
+   "title": "Fondamentaux de la technologie blockchain",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN250-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "GFN251",
+   "title": "Crypto-actifs et nouveaux modes de paiement",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=GFN251-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

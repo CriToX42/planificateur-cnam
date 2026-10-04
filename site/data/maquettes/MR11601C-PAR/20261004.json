@@ -1,0 +1,536 @@
+{
+ "title": "Master Informatique Parcours Systèmes Embarqués Mobiles Sûrs et objets connectés cursus en anglais Computer Networks and IoT Systems",
+ "code": "MR11601C-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-informatique-parcours-systemes-embarques-mobiles-surs-et-objets-connectes-cursus-en-anglais-computer-networks-and-iot-systems-1486964.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i8",
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13",
+    "i14",
+    "i15"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "12 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 12,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i16",
+    "i17",
+    "i18",
+    "i19",
+    "i20"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "6 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 6,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i29",
+    "i30",
+    "i31",
+    "i32",
+    "i33",
+    "i34",
+    "i35",
+    "i36",
+    "i37"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "6 crédits à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": 6,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USEEJ6",
+   "title": "Network Architecture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ6/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEEN2",
+   "title": "Operating Systems and Computer Architecture",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN2/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEEN3",
+   "title": "Operations Research",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN3/0"
+  },
+  {
+   "id": "i4",
+   "code": "USRS2H",
+   "title": "Refresh in C & Bash Programming",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USRS2H/0"
+  },
+  {
+   "id": "i5",
+   "code": "USEEJ7",
+   "title": "Performance Evaluation for Connected Systems",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ7/0"
+  },
+  {
+   "id": "i6",
+   "code": "USEEK7",
+   "title": "Network security",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK7/0"
+  },
+  {
+   "id": "i7",
+   "code": "USEEJ8",
+   "title": "Wireless Mobile Networks",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ8/0"
+  },
+  {
+   "id": "i8",
+   "code": "USEEK1",
+   "title": "English",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK1/0"
+  },
+  {
+   "id": "i9",
+   "code": "USEEJ9",
+   "title": "FLE - French as foreign language",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEJ9/0"
+  },
+  {
+   "id": "i10",
+   "code": "USEES5",
+   "title": "Sustainable IoT Technologies",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES5/0"
+  },
+  {
+   "id": "i11",
+   "code": "USEES6",
+   "title": "Next Generation IEEE 802.11 standards",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES6/0"
+  },
+  {
+   "id": "i12",
+   "code": "USEES7",
+   "title": "Data Management and Digital Transformation in Industrial Process Automation",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES7/0"
+  },
+  {
+   "id": "i13",
+   "code": "USEES8",
+   "title": "Big Data Technologies for Connected Industries",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES8/0"
+  },
+  {
+   "id": "i14",
+   "code": "USEES9",
+   "title": "Robot Predictive Maintenance",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES9/0"
+  },
+  {
+   "id": "i15",
+   "code": "USEET1",
+   "title": "Integration of Virtual and Augmented Reality Technologies in Connected Industries",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEET1/0"
+  },
+  {
+   "id": "i16",
+   "code": "USEEN1",
+   "title": "Cloud-native Infrastructure Security",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN1/0"
+  },
+  {
+   "id": "i17",
+   "code": "USEES2",
+   "title": "Control System Theory and Engineering",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEES2/0"
+  },
+  {
+   "id": "i18",
+   "code": "USEET3",
+   "title": "Parallel and Distributed Systems",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEET3/0"
+  },
+  {
+   "id": "i19",
+   "code": "USEEW3",
+   "title": "Industrial Internet of Things",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEW3/0"
+  },
+  {
+   "id": "i20",
+   "code": "USEEV6",
+   "title": "Packet Switching and Processing Architectures",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEV6/0"
+  },
+  {
+   "id": "i21",
+   "code": "USMC84",
+   "title": "Scientific Communication I - Disseminating",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC84/0"
+  },
+  {
+   "id": "i22",
+   "code": "USEEK3",
+   "title": "Contemporary Economic Issues - I - Economic growth and public policies",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK3/0"
+  },
+  {
+   "id": "i23",
+   "code": "USRS78",
+   "title": "Advanced Python Programming",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USRS78/0"
+  },
+  {
+   "id": "i24",
+   "code": "USEEN4",
+   "title": "Network Operations, Virtualization and Automation",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN4/0"
+  },
+  {
+   "id": "i25",
+   "code": "USEEK8",
+   "title": "Advanced Experimental Projects",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK8/0"
+  },
+  {
+   "id": "i26",
+   "code": "USEEK9",
+   "title": "Internet of things",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEK9/0"
+  },
+  {
+   "id": "i27",
+   "code": "USEEN5",
+   "title": "Embedded Systems: Applications and Cybersecurity",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN5/0"
+  },
+  {
+   "id": "i28",
+   "code": "USEEN6",
+   "title": "Artificial Intelligence and Machine Learning for Connected Systems",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEN6/0"
+  },
+  {
+   "id": "i29",
+   "code": "USMC7C",
+   "title": "FLE - French as foreign language",
+   "ects": 6,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC7C/0"
+  },
+  {
+   "id": "i30",
+   "code": "USEEU6",
+   "title": "Applied Artificial Intelligence",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEU6/0"
+  },
+  {
+   "id": "i31",
+   "code": "USEEU7",
+   "title": "WiFi and 5G Convergence in 6G",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEU7/0"
+  },
+  {
+   "id": "i32",
+   "code": "USEEU8",
+   "title": "Smart Industry 4.0 Systems",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEU8/0"
+  },
+  {
+   "id": "i33",
+   "code": "USEEU9",
+   "title": "Green AI Computing for Connected Industries",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEU9/0"
+  },
+  {
+   "id": "i34",
+   "code": "USEEV1",
+   "title": "Communications for Precision Agriculture and Farming",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEV1/0"
+  },
+  {
+   "id": "i35",
+   "code": "USEEV2",
+   "title": "Applications of AI and Cyber-threat Management",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEV2/0"
+  },
+  {
+   "id": "i36",
+   "code": "USEEV3",
+   "title": "Programming and Communication of a Robotic Arm",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEV3/0"
+  },
+  {
+   "id": "i37",
+   "code": "USEEV5",
+   "title": "FPGA Platforms: Programmable Embedded Systems",
+   "ects": 3,
+   "year": "y2",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEEV5/0"
+  },
+  {
+   "id": "i38",
+   "code": "USMC85",
+   "title": "Scientific Communication II - Dialoguing",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC85/0"
+  },
+  {
+   "id": "i39",
+   "code": "USMC86",
+   "title": "Contemporary Economic issues - II - Innovation and firms",
+   "ects": 2,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USMC86/0"
+  },
+  {
+   "id": "i40",
+   "code": "UAEE2B",
+   "title": "Master thesis - Internship",
+   "ects": 21,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEE2B/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

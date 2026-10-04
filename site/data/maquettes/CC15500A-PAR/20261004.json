@@ -1,0 +1,68 @@
+{
+ "title": "Certificat de compétence Devenir acteurs des transformations (à l'ère du numérique, de l'IA et du travail à distance)",
+ "code": "CC15500A-PAR",
+ "total_credits": 18,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-competence-devenir-acteurs-des-transformations-a-l-ere-du-numerique-de-l-ia-et-du-travail-a-distance--1486656.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "FPG120",
+   "title": "Workshop autour d'un projet de transformation au sein de son entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "FPG121",
+   "title": "Intelligence collective et développement des compétences collaboratives",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "FPG122",
+   "title": "Mener des transformations métiers avec le numérique et l'IA générative",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=FPG122-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

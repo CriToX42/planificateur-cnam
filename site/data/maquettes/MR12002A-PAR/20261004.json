@@ -1,0 +1,289 @@
+{
+ "title": "Master entrepreneuriat et management de projet Parcours Project Management and Business Engineering",
+ "code": "MR12002A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-entrepreneuriat-et-management-de-projet-parcours-project-management-and-business-engineering-1486974.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "US172N",
+   "title": "Financial Accounting",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172N/0"
+  },
+  {
+   "id": "i2",
+   "code": "USM310",
+   "title": "Marketing",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM310/0"
+  },
+  {
+   "id": "i3",
+   "code": "USM311",
+   "title": "E - Business",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM311/0"
+  },
+  {
+   "id": "i4",
+   "code": "US172Q",
+   "title": "Human Resources Management",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172Q/0"
+  },
+  {
+   "id": "i5",
+   "code": "USM304",
+   "title": "Organization Theory",
+   "ects": 7,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM304/0"
+  },
+  {
+   "id": "i6",
+   "code": "US172S",
+   "title": "Management of the firm",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172S/0"
+  },
+  {
+   "id": "i7",
+   "code": "US172U",
+   "title": "Management Accounting",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172U/0"
+  },
+  {
+   "id": "i8",
+   "code": "US172W",
+   "title": "Finance",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172W/0"
+  },
+  {
+   "id": "i9",
+   "code": "US172X",
+   "title": "Management of the firm (part 2)",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172X/0"
+  },
+  {
+   "id": "i10",
+   "code": "UA1719",
+   "title": "Interactive Group Project",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA1719/0"
+  },
+  {
+   "id": "i11",
+   "code": "USM316",
+   "title": "Business Law and Contract Management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM316/0"
+  },
+  {
+   "id": "i12",
+   "code": "US173C",
+   "title": "Career Management",
+   "ects": 1,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173C/0"
+  },
+  {
+   "id": "i13",
+   "code": "US173L",
+   "title": "Business Ethics and Due Diligence",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173L/0"
+  },
+  {
+   "id": "i14",
+   "code": "US173S",
+   "title": "International Corporate Strategy",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US173S/0"
+  },
+  {
+   "id": "i15",
+   "code": "USM30H",
+   "title": "Corporate Social Responsibility",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM30H/0"
+  },
+  {
+   "id": "i16",
+   "code": "US172Y",
+   "title": "Project Management Fundamentals",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172Y/0"
+  },
+  {
+   "id": "i17",
+   "code": "USM312",
+   "title": "Business Model Evolution & Strategic Marketing",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM312/0"
+  },
+  {
+   "id": "i18",
+   "code": "US1734",
+   "title": "Management in multicultural contexts",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1734/0"
+  },
+  {
+   "id": "i19",
+   "code": "USM314",
+   "title": "Advance Project Management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM314/0"
+  },
+  {
+   "id": "i20",
+   "code": "USM315",
+   "title": "Agile Management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM315/0"
+  },
+  {
+   "id": "i21",
+   "code": "USM30A",
+   "title": "Lean transformation and management",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USM30A/0"
+  },
+  {
+   "id": "i22",
+   "code": "US1739",
+   "title": "Feasibility Study and Business Plan",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1739/0"
+  },
+  {
+   "id": "i23",
+   "code": "US1733",
+   "title": "Organization and Team Dynamics",
+   "ects": 4,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1733/0"
+  },
+  {
+   "id": "i24",
+   "code": "UAMG16",
+   "title": "Professional Experience and Master Thesis",
+   "ects": 11,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAMG16/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

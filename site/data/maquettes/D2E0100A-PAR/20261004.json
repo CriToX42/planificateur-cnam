@@ -1,0 +1,43 @@
+{
+ "title": "Diplôme d'établissement ex niveau II Etudiant Entrepreneur (D2E)",
+ "code": "D2E0100A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-ii-etudiant-entrepreneur-d2e--1486801.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USCE01",
+   "title": "Suivi de l'engagement de l'étudiant",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCE01/0"
+  },
+  {
+   "id": "i2",
+   "code": "USCE02",
+   "title": "Projet",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCE02/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

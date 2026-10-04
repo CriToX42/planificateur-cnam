@@ -1,0 +1,76 @@
+{
+ "title": "Diplôme d'Université Participation et mobilisation citoyenne (Cnam Paris)",
+ "code": "DU00600A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-participation-et-mobilisation-citoyenne-cnam-paris--1620868.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USCT32",
+   "title": "Mener un diagnostic participatif",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT32/0"
+  },
+  {
+   "id": "i2",
+   "code": "USCT33",
+   "title": "Faire participer les citoyennes et les citoyens",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT33/0"
+  },
+  {
+   "id": "i3",
+   "code": "USCT34",
+   "title": "Construire des solutions d'intérêt général avec les citoyennes et les citoyens",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT34/0"
+  },
+  {
+   "id": "i4",
+   "code": "USCT35",
+   "title": "Négocier, construire des partenariats et valoriser l'action des citoyennes et des citoyens",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USCT35/0"
+  },
+  {
+   "id": "i5",
+   "code": "UACT02",
+   "title": "Projet de participation et de mobilisation citoyenne",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UACT02/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

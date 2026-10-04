@@ -1,0 +1,133 @@
+{
+ "title": "Doctorat Sciences pour l'ingénieur - Acoustique",
+ "code": "DOC5600A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/doctorat-sciences-pour-l-ingenieur-acoustique-1617136.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i2",
+    "i3",
+    "i4",
+    "i5",
+    "i6",
+    "i7",
+    "i8"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "1 US à choisir parmi",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 0
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UAME22",
+   "title": "Soutenance de thèse",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAME22/0"
+  },
+  {
+   "id": "i2",
+   "code": "USED10",
+   "title": "Ethique de la recherche et de l'ingénieur",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED10/0"
+  },
+  {
+   "id": "i3",
+   "code": "USED11",
+   "title": "Enjeux climats dans les pratiques de recherche",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED11/0"
+  },
+  {
+   "id": "i4",
+   "code": "USED12",
+   "title": "Module de Santé Planétaire",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED12/0"
+  },
+  {
+   "id": "i5",
+   "code": "USED09",
+   "title": "Initiation à l'épistémologie",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED09/0"
+  },
+  {
+   "id": "i6",
+   "code": "USED0B",
+   "title": "Ethique et déontologie scientifique",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0B/0"
+  },
+  {
+   "id": "i7",
+   "code": "USED0C",
+   "title": "Recherche de l'information (Maitrise de l'information scientifique et technique)",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED0C/0"
+  },
+  {
+   "id": "i8",
+   "code": "USED13",
+   "title": "Les processus d'innovation ; au-delà des objets et de la technique",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USED13/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Doctorat",
+  "level_in": "Niveau 7 (Bac+5)",
+  "level_out": "Niveau 8 (Bac+8)"
+ }
+}

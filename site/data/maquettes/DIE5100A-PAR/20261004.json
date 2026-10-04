@@ -1,0 +1,411 @@
+{
+ "title": "Diplôme d'établissement ex niveau II Responsable mesure, analyse, contrôle, qualité option instrumentation mesure",
+ "code": "DIE5100A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-ii-responsable-mesure-analyse-controle-qualite-option-instrumentation-mesure-1486820.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i13",
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18",
+    "i19"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [],
+   "children": [
+    "g3",
+    "g4"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i20",
+    "i21"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i22"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g2",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UTC601",
+   "title": "Mathématiques 1: mathématiques générales",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC601-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "UTC602",
+   "title": "Mathématiques 2 : probabilités, statistiques, calcul matriciel",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC602-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "UTC301",
+   "title": "Capteurs - Métrologie",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC301-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "MTR105",
+   "title": "Capteurs - Transducteurs - Conditionneurs",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "MTR103",
+   "title": "Mesure : unités, références, incertitudes, traitement des données expérimentales",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "MTR107",
+   "title": "Introduction au management qualité",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "MTR112",
+   "title": "Acquisition et traitement des signaux bruités",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "MTR109",
+   "title": "Techniques de mesures : optiques et mécaniques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "MTR106",
+   "title": "Techniques de mesures analogiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UTC302",
+   "title": "Algorithmique - Programmation - Langages",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC302-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "UTC303",
+   "title": "Introduction aux réseaux informatiques et de terrain",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC303-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "MTR111",
+   "title": "Outils logiciels pour l'instrumentation, la mesure et le contrôle industriel",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "MTR204",
+   "title": "Mesure, qualité, plans d'expérience",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR204-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "MTR211",
+   "title": "Mesures des températures",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "MTR209",
+   "title": "Mesures des rayonnements optiques",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "MTR210",
+   "title": "Mesures laser, Temps-fréquences",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR210-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "MTR208",
+   "title": "Mesures électriques et magnétiques",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "MTR207",
+   "title": "Chaînes de mesures et signaux",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MTR207-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "MTR113",
+   "title": "UE optionnelles proposées :",
+   "ects": 0,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "MSE102",
+   "title": "Management et organisation des entreprises",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=MSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i22",
+   "code": "",
+   "title": "Deux UE socio-économiques au choix",
+   "ects": 12,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i23",
+   "code": "UA4403",
+   "title": "Expérience professionnelle de 24 mois",
+   "ects": 48,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA4403/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

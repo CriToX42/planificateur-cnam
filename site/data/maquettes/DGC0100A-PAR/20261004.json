@@ -1,0 +1,226 @@
+{
+ "title": "Diplôme d'établissement ex niveau II Diplôme de gestion  et de comptabilité (DGC)",
+ "code": "DGC0100A-PAR",
+ "total_credits": 180,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-ii-diplome-de-gestion-et-de-comptabilite-dgc--1475985.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  },
+  {
+   "id": "y3",
+   "label": "3e année"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "TEC111",
+   "title": "Fondamentaux du droit",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "TEC115",
+   "title": "Economie contemporaine",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "TEC119",
+   "title": "Comptabilité",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "TEC118",
+   "title": "Systèmes d'information et de gestion",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "TEC112",
+   "title": "Droit des affaires",
+   "ects": 14,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "TEC114",
+   "title": "Droit fiscal",
+   "ects": 14,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "TEC116",
+   "title": "Finance d'entreprise",
+   "ects": 14,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "TEC120",
+   "title": "Comptabilité approfondie",
+   "ects": 14,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC120-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "TEC113",
+   "title": "Droit social",
+   "ects": 14,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "TEC117",
+   "title": "Management des organisations",
+   "ects": 14,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "TEC121",
+   "title": "Contrôle de gestion",
+   "ects": 14,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC121-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "TEC122",
+   "title": "Anglais des affaires",
+   "ects": 14,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC122-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "TEC123",
+   "title": "Communication professionnelle",
+   "ects": 12,
+   "year": "y3",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC123-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

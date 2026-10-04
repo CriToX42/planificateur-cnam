@@ -1,0 +1,53 @@
+{
+ "title": "Certificat de spécialisation Coaching professionnel : conduite de dispositifs de médiation singulière (Cnam Paris)",
+ "code": "CS9300A-PAR",
+ "total_credits": 20,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-coaching-professionnel-conduite-de-dispositifs-de-mediation-singuliere-cnam-paris--1620864.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "CCH201",
+   "title": "Conduite de dispositifs de médiation singulière (la formation de coach professionnel au Cnam)",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCH201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "CCH202",
+   "title": "Approfondissement des pratiques de médiation singulière",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CCH202-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée"
+ ],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

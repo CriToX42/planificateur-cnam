@@ -1,0 +1,98 @@
+{
+ "title": "Certificat de spécialisation Préparation aux concours de catégorie A de la fonction publique",
+ "code": "CS10800A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/certificat-de-specialisation-preparation-aux-concours-de-categorie-a-de-la-fonction-publique-1486726.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "UAEC10",
+   "title": "Ateliers méthodologiques",
+   "ects": 14,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAEC10/0"
+  },
+  {
+   "id": "i2",
+   "code": "USEC5S",
+   "title": "Grand enjeux contemporains et ouverture culturelle",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC5S/0"
+  },
+  {
+   "id": "i3",
+   "code": "USEC5T",
+   "title": "Economie",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC5T/0"
+  },
+  {
+   "id": "i4",
+   "code": "USEC5V",
+   "title": "Finances publiques",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC5V/0"
+  },
+  {
+   "id": "i5",
+   "code": "USEC8Q",
+   "title": "Droit public",
+   "ects": 16,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC8Q/0"
+  },
+  {
+   "id": "i6",
+   "code": "USEC8R",
+   "title": "Droit et gestion financière des collectivités territoriales",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC8R/0"
+  },
+  {
+   "id": "i7",
+   "code": "USEC8S",
+   "title": "Anglais",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USEC8S/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Certificat",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

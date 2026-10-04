@@ -1,0 +1,133 @@
+{
+ "title": "Diplôme d'établissement ex niveau V Diplôme supérieur de gestion et de comptabilité (DSGC)",
+ "code": "DSGC100A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-v-diplome-superieur-de-gestion-et-de-comptabilite-dsgc--1486872.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "1re année"
+  },
+  {
+   "id": "y2",
+   "label": "2e année"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "TEC211",
+   "title": "Gestion juridique, fiscale et sociale",
+   "ects": 20,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "TEC212",
+   "title": "Finance",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "TEC213",
+   "title": "Contrôle de gestion et stratégie",
+   "ects": 20,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "TEC214",
+   "title": "Comptabilité et audit",
+   "ects": 20,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC214-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "TEC215",
+   "title": "Management des systèmes d'information",
+   "ects": 15,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC215-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "TEC217",
+   "title": "Mémoire professionnel",
+   "ects": 15,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "TEC218",
+   "title": "Anglais des affaires",
+   "ects": 15,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TEC218-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

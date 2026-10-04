@@ -1,0 +1,186 @@
+{
+ "title": "Diplôme de spécialisation professionnelle Assistant Communication digitale",
+ "code": "DSP0700A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-de-specialisation-professionnelle-assistant-communication-digitale-1613096.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USAL3V",
+   "title": "Ouverture aux cultures numériques 1",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3V/0"
+  },
+  {
+   "id": "i2",
+   "code": "USAL50",
+   "title": "Ouverture aux Transitions écologiques énergétiques et numériques",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL50/0"
+  },
+  {
+   "id": "i3",
+   "code": "USAL3C",
+   "title": "Anglais 1",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3C/0"
+  },
+  {
+   "id": "i4",
+   "code": "USAL3D",
+   "title": "Outils Mathématiques",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3D/0"
+  },
+  {
+   "id": "i5",
+   "code": "USAL3E",
+   "title": "Méthodes et outils de la communication écrite 1",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3E/0"
+  },
+  {
+   "id": "i6",
+   "code": "USAL3F",
+   "title": "Economie, gestion et organisation de l'entreprise",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3F/0"
+  },
+  {
+   "id": "i7",
+   "code": "USAL3G",
+   "title": "Démarches de projet 1",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL3G/0"
+  },
+  {
+   "id": "i8",
+   "code": "USAL33",
+   "title": "HTML - CSS",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL33/0"
+  },
+  {
+   "id": "i9",
+   "code": "USAL4Q",
+   "title": "Administration CMS",
+   "ects": 2,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4Q/0"
+  },
+  {
+   "id": "i10",
+   "code": "USAL4R",
+   "title": "Gestion du poste client",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4R/0"
+  },
+  {
+   "id": "i11",
+   "code": "USAL4S",
+   "title": "Social media et écriture web",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4S/0"
+  },
+  {
+   "id": "i12",
+   "code": "USAL4T",
+   "title": "Bases de la communication digitale",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4T/0"
+  },
+  {
+   "id": "i13",
+   "code": "USAL4U",
+   "title": "Médiations sur le numérique",
+   "ects": 5,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4U/0"
+  },
+  {
+   "id": "i14",
+   "code": "USAL4V",
+   "title": "Fondamentaux de la gestion de la relation client",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USAL4V/0"
+  },
+  {
+   "id": "i15",
+   "code": "UAAL16",
+   "title": "Expérience professionnelle ou stage",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAAL16/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Niveau 4 (Bac)",
+  "level_out": "Niveau 4 (Bac)"
+ }
+}

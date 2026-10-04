@@ -1,0 +1,38 @@
+{
+ "title": "Diplôme d'Université Leadership et management des équipes du secteur sanitaire, social et médico-social",
+ "code": "DU00400A-PAR",
+ "total_credits": 8,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-leadership-et-management-des-equipes-du-secteur-sanitaire-social-et-medico-social-1552019.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "EGS150",
+   "title": "Gestion des ressources humaines et stratégiques en établissements sanitaires et médico-sociaux",
+   "ects": 8,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EGS150-PAR&LANGUE=0&RF="
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

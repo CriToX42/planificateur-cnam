@@ -1,0 +1,148 @@
+{
+ "title": "Licence professionnelle métiers de l'informatique : systèmes d'information et gestion de données Parcours Analyse et Conception des Systèmes d'Information Décisionnels (ACSID) En HTT",
+ "code": "LP12001A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/licence-professionnelle-metiers-de-l-informatique-systemes-d-information-et-gestion-de-donnees-parcours-analyse-et-conception-des-systemes-d-information-decisionnels-acsid-en-htt-1486932.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "US333E",
+   "title": "Business Intelligence et Data Mining",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333E/0"
+  },
+  {
+   "id": "i2",
+   "code": "USSI1R",
+   "title": "Algorithmique et programmation",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSI1R/0"
+  },
+  {
+   "id": "i3",
+   "code": "US333D",
+   "title": "Conception des systèmes d'information",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333D/0"
+  },
+  {
+   "id": "i4",
+   "code": "US3339",
+   "title": "Système, réseaux et sécurité",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US3339/0"
+  },
+  {
+   "id": "i5",
+   "code": "US335P",
+   "title": "Conception et administration de bases de données",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US335P/0"
+  },
+  {
+   "id": "i6",
+   "code": "US333F",
+   "title": "Programmation Web et développements mobiles",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333F/0"
+  },
+  {
+   "id": "i7",
+   "code": "US333G",
+   "title": "Culture générale informatique",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US333G/0"
+  },
+  {
+   "id": "i8",
+   "code": "USSI1S",
+   "title": "Communication écrite et orale",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSI1S/0"
+  },
+  {
+   "id": "i9",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "UA332G",
+   "title": "Projet de 120 h en équipe",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA332G/0"
+  },
+  {
+   "id": "i11",
+   "code": "UA332H",
+   "title": "Stage de 16 semaines en entreprise",
+   "ects": 10,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA332H/0"
+  }
+ ],
+ "modalities": [
+  "Formation ouverte et à distance"
+ ],
+ "meta": {
+  "type": "Licence professionnelle",
+  "level_in": "Niveau 5 (Bac+2)",
+  "level_out": "Niveau 6 (Bac+3 et 4)"
+ }
+}

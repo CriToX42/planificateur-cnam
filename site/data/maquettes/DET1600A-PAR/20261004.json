@@ -1,0 +1,216 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Diplôme de l'ICH (Cnam Paris)",
+ "code": "DET1600A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-diplome-de-l-ich-cnam-paris--1627548.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "DRM108",
+   "title": "Economie immobilière",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "DRM129",
+   "title": "Financement immobilier privé",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM129-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "DRM140",
+   "title": "Fiscalité immobilière générale",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM140-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "DRM142",
+   "title": "Sociétés immobilières",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM142-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "DRM143",
+   "title": "Statuts d'occupation des biens immobiliers",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM143-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "DRM101",
+   "title": "Planification urbaine et autorisations d'urbanisme",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "DRM119",
+   "title": "Enjeux environnementaux et immobilier",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "DRM144",
+   "title": "Autorisations patrimoniales et archéologie préventive",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM144-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "DRM145",
+   "title": "Construction durable",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel journée"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM145-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "DRM146",
+   "title": "Sécurité, accessibilité et confort des bâtiments",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM146-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "DRM132",
+   "title": "Marchés publics de travaux et de maîtrise d'oeuvre",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM132-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "DRM115",
+   "title": "Responsabilité et assurance des constructeurs",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=DRM115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "UADR0V",
+   "title": "Expérience professionnelle",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UADR0V/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel journée",
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

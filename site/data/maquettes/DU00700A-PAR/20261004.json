@@ -1,0 +1,120 @@
+{
+ "title": "Diplôme d'Université Hypnose en Santé intégrative (Cnam Paris)",
+ "code": "DU00700A-PAR",
+ "total_credits": 0,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-universite-hypnose-en-sante-integrative-cnam-paris--1620869.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "USSA3J",
+   "title": "Communication hypnotique",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3J/0"
+  },
+  {
+   "id": "i2",
+   "code": "USSA3K",
+   "title": "Introduction aux techniques hypnotiques",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3K/0"
+  },
+  {
+   "id": "i3",
+   "code": "USSA3L",
+   "title": "Hypnoanalgésie dans les douleurs chroniques",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3L/0"
+  },
+  {
+   "id": "i4",
+   "code": "USSA3M",
+   "title": "Hypnose en oncologie",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3M/0"
+  },
+  {
+   "id": "i5",
+   "code": "USSA3N",
+   "title": "Inductions rapides",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3N/0"
+  },
+  {
+   "id": "i6",
+   "code": "USSA3P",
+   "title": "Autohypnose",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3P/0"
+  },
+  {
+   "id": "i7",
+   "code": "USSA3Q",
+   "title": "Spécialisation - Hypnose en pédiatrie, maternité et gériatrie",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3Q/0"
+  },
+  {
+   "id": "i8",
+   "code": "USSA3R",
+   "title": "Analyse de pratiques",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USSA3R/0"
+  },
+  {
+   "id": "i9",
+   "code": "UASA17",
+   "title": "Mémoire",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UASA17/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

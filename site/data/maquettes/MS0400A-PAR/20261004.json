@@ -1,0 +1,167 @@
+{
+ "title": "Mastère spécialisé (label conférence des grandes écoles) Techniques des radiocommunications",
+ "code": "MS0400A-PAR",
+ "total_credits": 75,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/mastere-specialise-label-conference-des-grandes-ecoles-techniques-des-radiocommunications-1487007.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [],
+ "items": [
+  {
+   "id": "i1",
+   "code": "ELE112",
+   "title": "Bases de transmissions numériques(1)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "ELE113",
+   "title": "Bases de transmissions numériques (2)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE113-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "ELE109",
+   "title": "Techniques avancées en électronique analogique et numérique (2)",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE109-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "ELE115",
+   "title": "Propagation, rayonnement, électromagnétisme",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE115-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "ELE203",
+   "title": "Traitement du signal en télécommunications",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE203-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "ELE208",
+   "title": "Radiocommunications",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE208-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "ELE209",
+   "title": "Technologie des E/R",
+   "ects": 4,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ELE209-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "TED001",
+   "title": "Enjeux des transitions écologiques: comprendre et agir",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "A": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=TED001-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "UA3126",
+   "title": "Stage final de 5 mois à temps complet en entreprise du domaine",
+   "ects": 15,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3126/0"
+  },
+  {
+   "id": "i10",
+   "code": "UA3125",
+   "title": "Thèse professionnelle",
+   "ects": 17,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3125/0"
+  }
+ ],
+ "modalities": [
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Mastère spécialisé",
+  "level_in": "Niveau 7 (Bac+5)",
+  "level_out": "Sans niveau spécifique"
+ }
+}

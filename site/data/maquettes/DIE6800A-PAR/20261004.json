@@ -1,0 +1,410 @@
+{
+ "title": "Diplôme d'établissement ex niveau IV Responsable de projet en santé, sécurité au travail",
+ "code": "DIE6800A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/diplome-d-etablissement-ex-niveau-iv-responsable-de-projet-en-sante-securite-au-travail-1486827.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i6",
+    "i7"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i9",
+    "i10",
+    "i11",
+    "i12",
+    "i13",
+    "i14"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i15",
+    "i16"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "Une UE au choix parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 6
+   }
+  },
+  {
+   "id": "g4",
+   "items": [],
+   "children": [
+    "g5",
+    "g6"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "2 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g5",
+   "items": [
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g4",
+   "label": "Option 1",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g6",
+   "items": [
+    "i19"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g4",
+   "label": "Option 2",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "HSE130",
+   "title": "Pratique de l'étude des risques et des systèmes de management SST en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE130-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "HSE102",
+   "title": "Méthodes et outils d'analyse en santé, sécurité au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE102-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "HSE107",
+   "title": "Approches quantitatives du risque industriel et environnemental",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "HSE103",
+   "title": "Aspects techniques de l'évaluation des différents risques professionnels",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "HSE101",
+   "title": "Approches institutionnelles, législatives et réglementaires de la sécurité et santé au travail",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "HSE118",
+   "title": "Outils en mathématiques et statistiques pour la santé-sécurité au travail et l'environnement",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i7",
+   "code": "UTC704",
+   "title": "Mathématiques",
+   "ects": 3,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=UTC704-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "",
+   "title": "Deux UE scientifiques après accord du professeur",
+   "ects": 12,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i9",
+   "code": "STA105",
+   "title": "Contrôle de qualité",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "ACC111",
+   "title": "Acoustique du bâtiment et réglementation",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ACC111-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "EEP101",
+   "title": "Distribution électrique et technologie",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=EEP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "RDP103",
+   "title": "Radioprotection",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RDP103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "PHR103",
+   "title": "Prévention des risques physiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=PHR103-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "CGP105",
+   "title": "Prévention du risque chimique et sécurité industrielle",
+   "ects": 6,
+   "year": "y1",
+   "group": "g2",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CGP105-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "HSE114",
+   "title": "Epidémiologie et évaluation quantitative des risques sanitaires",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE114-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "HSE110",
+   "title": "Prévention des risques biologiques et épidémiques",
+   "ects": 6,
+   "year": "y1",
+   "group": "g3",
+   "offer": {
+    "S2": [
+     "Formation à distance planifiée soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "HSE213",
+   "title": "Santé, sécurité et qualité de vie au travail dans la pratique managériale",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {
+    "S2": [
+     "Formation co-modale soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=HSE213-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "TET102",
+   "title": "Management d'équipe et communication en entreprise",
+   "ects": 6,
+   "year": "y1",
+   "group": "g5",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/TET102/0"
+  },
+  {
+   "id": "i19",
+   "code": "",
+   "title": "Deux UE socio-économiques au choix",
+   "ects": 12,
+   "year": "y1",
+   "group": "g6",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "UA411F",
+   "title": "Expérience professionnelle de 24 mois",
+   "ects": 48,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA411F/0"
+  }
+ ],
+ "modalities": [
+  "Formation co-modale soir ou samedi",
+  "Formation en présentiel soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Diplôme d'établissement",
+  "level_in": "Sans niveau spécifique",
+  "level_out": "Sans niveau spécifique"
+ }
+}

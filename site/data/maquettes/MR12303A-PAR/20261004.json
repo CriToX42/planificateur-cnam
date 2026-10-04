@@ -1,0 +1,403 @@
+{
+ "title": "Master mathématiques appliquées, statistique Parcours Science des données",
+ "code": "MR12303A-PAR",
+ "total_credits": 120,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/master-mathematiques-appliquees-statistique-parcours-science-des-donnees-1486981.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "M1"
+  },
+  {
+   "id": "y2",
+   "label": "M2"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [
+    "i8",
+    "i9",
+    "i10",
+    "i11"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y1",
+   "parent": null,
+   "label": "2 UE à choisir parmi",
+   "rule": {
+    "ue_count": 2,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 12
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i17",
+    "i18",
+    "i19"
+   ],
+   "children": [],
+   "kind": "choice",
+   "year": "y2",
+   "parent": null,
+   "label": "Une UE à choisir parmi",
+   "rule": {
+    "ue_count": 1,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": 9
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "STA110",
+   "title": "Modélisation statistique",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA110-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i2",
+   "code": "STA116",
+   "title": "Modélisation et prévision des séries chronologiques",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA116-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i3",
+   "code": "STA117",
+   "title": "Introduction aux données fonctionnelles",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA117-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i4",
+   "code": "STA108",
+   "title": "Enquêtes et sondages",
+   "ects": 9,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA108-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i5",
+   "code": "NFP107",
+   "title": "Systèmes de gestion de bases de données",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=NFP107-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i6",
+   "code": "STA118",
+   "title": "Outils informatiques de la statistique",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA118-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i7",
+   "code": "STA119",
+   "title": "Confidentialité et protection des données",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA119-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i8",
+   "code": "CSC106",
+   "title": "Analyse numérique matricielle et optimisation (2)",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSC106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i9",
+   "code": "RCP101",
+   "title": "Recherche opérationnelle et aide à la décision",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ],
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP101-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i10",
+   "code": "STA106",
+   "title": "Plans d'expériences",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA106-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i11",
+   "code": "RCP104",
+   "title": "Optimisation en informatique",
+   "ects": 6,
+   "year": "y1",
+   "group": "g1",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP104-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i12",
+   "code": "STA112",
+   "title": "Statistique spatiale",
+   "ects": 6,
+   "year": "y1",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA112-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i13",
+   "code": "STA201",
+   "title": "Analyse multivariée approfondie",
+   "ects": 9,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ],
+    "A": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA201-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i14",
+   "code": "STA211",
+   "title": "Entreposage et fouille de données",
+   "ects": 9,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA211-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i15",
+   "code": "CSV002",
+   "title": "I.A. & Datascience au service de la gestion de la relation client – CRM",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=CSV002-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i16",
+   "code": "RCP216",
+   "title": "Ingénierie de la fouille et de la visualisation de données massives",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=RCP216-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i17",
+   "code": "STA212",
+   "title": "Données catégorielles",
+   "ects": 9,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation ouverte et à distance"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA212-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i18",
+   "code": "STA217",
+   "title": "Apprentissage statistique en grande dimension",
+   "ects": 9,
+   "year": "y2",
+   "group": "g2",
+   "offer": {
+    "S2": [
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA217-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i19",
+   "code": "STA215",
+   "title": "Méthodes statistiques pour l'analyse des durées de vie : fiabilité/survie",
+   "ects": 9,
+   "year": "y2",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": null
+  },
+  {
+   "id": "i20",
+   "code": "ANG330",
+   "title": "Anglais professionnel",
+   "ects": 6,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S1": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ],
+    "S2": [
+     "Formation à distance planifiée soir ou samedi",
+     "Formation hybride soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=ANG330-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i21",
+   "code": "STA218",
+   "title": "Science de la donnée en milieu professionnel",
+   "ects": 3,
+   "year": "y2",
+   "group": null,
+   "offer": {
+    "S2": [
+     "Formation en présentiel soir ou samedi"
+    ]
+   },
+   "offer_notes": [],
+   "link": "https://www.cnam-paris.fr/servlet/uFF?OBJET=uer&CODE=STA218-PAR&LANGUE=0&RF="
+  },
+  {
+   "id": "i22",
+   "code": "UA3417",
+   "title": "Stage ou mémoire",
+   "ects": 12,
+   "year": "y2",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UA3417/0"
+  }
+ ],
+ "modalities": [
+  "Formation en présentiel soir ou samedi",
+  "Formation hybride soir ou samedi",
+  "Formation ouverte et à distance",
+  "Formation à distance planifiée soir ou samedi"
+ ],
+ "meta": {
+  "type": "Master",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}

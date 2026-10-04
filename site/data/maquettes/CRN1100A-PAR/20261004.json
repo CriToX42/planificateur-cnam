@@ -1,0 +1,456 @@
+{
+ "title": "Titre RNCP Niveau 7 Directeur d'unité opérationnelle (Cnam Paris)",
+ "code": "CRN1100A-PAR",
+ "total_credits": 60,
+ "url": "https://www.cnam-paris.fr/choisir-ma-formation/par-discipline/titre-rncp-niveau-7-directeur-d-unite-operationnelle-cnam-paris--1620860.kjsp",
+ "years": [
+  {
+   "id": "y1",
+   "label": "Programme"
+  }
+ ],
+ "groups": [
+  {
+   "id": "g1",
+   "items": [],
+   "children": [
+    "g2",
+    "g3",
+    "g4"
+   ],
+   "kind": "alternative",
+   "year": "y1",
+   "parent": null,
+   "label": "3 parcours possibles, 1 à choisir",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g2",
+   "items": [
+    "i14",
+    "i15",
+    "i16",
+    "i17",
+    "i18"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Parcours Mode",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g3",
+   "items": [
+    "i19",
+    "i20",
+    "i21",
+    "i22",
+    "i23"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Parcours Business unit Management",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  },
+  {
+   "id": "g4",
+   "items": [
+    "i24",
+    "i25",
+    "i26",
+    "i27",
+    "i28"
+   ],
+   "children": [],
+   "kind": "branch",
+   "year": "y1",
+   "parent": "g1",
+   "label": "Parcours Innovation Management",
+   "rule": {
+    "ue_count": null,
+    "credits": null,
+    "min_domains": null,
+    "total_ects": null
+   }
+  }
+ ],
+ "items": [
+  {
+   "id": "i1",
+   "code": "US171S",
+   "title": "Corporate Strategy",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171S/0"
+  },
+  {
+   "id": "i2",
+   "code": "US171T",
+   "title": "Organization Behavior",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171T/0"
+  },
+  {
+   "id": "i3",
+   "code": "US171U",
+   "title": "Business Statistics",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171U/0"
+  },
+  {
+   "id": "i4",
+   "code": "US171V",
+   "title": "Management Information Systems",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171V/0"
+  },
+  {
+   "id": "i5",
+   "code": "US171W",
+   "title": "Operations Management",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171W/0"
+  },
+  {
+   "id": "i6",
+   "code": "US171X",
+   "title": "Business Law and Ethics",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171X/0"
+  },
+  {
+   "id": "i7",
+   "code": "US171Y",
+   "title": "Economics",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171Y/0"
+  },
+  {
+   "id": "i8",
+   "code": "US171Z",
+   "title": "Financial Accounting",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US171Z/0"
+  },
+  {
+   "id": "i9",
+   "code": "US1720",
+   "title": "Management Accounting",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1720/0"
+  },
+  {
+   "id": "i10",
+   "code": "US1721",
+   "title": "Corporate Finance",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1721/0"
+  },
+  {
+   "id": "i11",
+   "code": "US1722",
+   "title": "Marketing Management and International Perspectives",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1722/0"
+  },
+  {
+   "id": "i12",
+   "code": "US1723",
+   "title": "Negotiation",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1723/0"
+  },
+  {
+   "id": "i13",
+   "code": "US1724",
+   "title": "Human Resource Management",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US1724/0"
+  },
+  {
+   "id": "i14",
+   "code": "USII14",
+   "title": "The Fashion Luxury Market",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII14/0"
+  },
+  {
+   "id": "i15",
+   "code": "USII15",
+   "title": "The Creative Process Management",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII15/0"
+  },
+  {
+   "id": "i16",
+   "code": "USII16",
+   "title": "The Essence of a Luxury Product",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII16/0"
+  },
+  {
+   "id": "i17",
+   "code": "USII17",
+   "title": "Marketing Luxury Customer Experience",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII17/0"
+  },
+  {
+   "id": "i18",
+   "code": "USII18",
+   "title": "Experiencing Fashion",
+   "ects": 3,
+   "year": "y1",
+   "group": "g2",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII18/0"
+  },
+  {
+   "id": "i19",
+   "code": "USII2B",
+   "title": "Team Dynamics & Communication",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII2B/0"
+  },
+  {
+   "id": "i20",
+   "code": "USII29",
+   "title": "Cost and Time Management",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII29/0"
+  },
+  {
+   "id": "i21",
+   "code": "USII1E",
+   "title": "Leadership and Change",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1E/0"
+  },
+  {
+   "id": "i22",
+   "code": "USII1G",
+   "title": "Project Management for Managers",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1G/0"
+  },
+  {
+   "id": "i23",
+   "code": "USII1Y",
+   "title": "Risk Management",
+   "ects": 3,
+   "year": "y1",
+   "group": "g3",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1Y/0"
+  },
+  {
+   "id": "i24",
+   "code": "USII1D",
+   "title": "How to Turn Ideas into Successful Start-ups",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1D/0"
+  },
+  {
+   "id": "i25",
+   "code": "USII1B",
+   "title": "Corporate Entrepreneurship",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1B/0"
+  },
+  {
+   "id": "i26",
+   "code": "USII1F",
+   "title": "Marketing of Innovations",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1F/0"
+  },
+  {
+   "id": "i27",
+   "code": "USII1P",
+   "title": "Strategic Innovation Management",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1P/0"
+  },
+  {
+   "id": "i28",
+   "code": "USII1Z",
+   "title": "Digital Transformation",
+   "ects": 3,
+   "year": "y1",
+   "group": "g4",
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII1Z/0"
+  },
+  {
+   "id": "i29",
+   "code": "US172B",
+   "title": "Guest lecture - Expand Your Horizons",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/US172B/0"
+  },
+  {
+   "id": "i30",
+   "code": "USII26",
+   "title": "Career Development and Coaching",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/USII26/0"
+  },
+  {
+   "id": "i31",
+   "code": "UAII02",
+   "title": "Study trips",
+   "ects": 0,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII02/0"
+  },
+  {
+   "id": "i32",
+   "code": "UAII03",
+   "title": "Capstone Final Project",
+   "ects": 3,
+   "year": "y1",
+   "group": null,
+   "offer": {},
+   "offer_notes": [],
+   "link": "https://www.cnam.fr/cnam/formation/UAII03/0"
+  }
+ ],
+ "modalities": [],
+ "meta": {
+  "type": "Titre RNCP",
+  "level_in": "Niveau 6 (Bac+3 et 4)",
+  "level_out": "Niveau 7 (Bac+5)"
+ }
+}
