@@ -2,7 +2,7 @@
  "repo": "CriToX42/planificateur-cnam",
  "diplomas": [
   {
-   "id": "1608276",
+   "id": "CYC9106A-PAR",
    "key": "www.cnam-paris.fr:1608276",
    "versions": [
     {
@@ -15,10 +15,13 @@
    "title": "Diplôme d'ingénieur Spécialité informatique Parcours Cybersécurité",
    "code": "CYC9106A-PAR",
    "total_credits": 180,
-   "checked_at": "2026-10-04T15:44:11"
+   "checked_at": "2026-10-04T15:44:11",
+   "aliases": [
+    "1608276"
+   ]
   },
   {
-   "id": "1486888",
+   "id": "LG02501A-PAR",
    "key": "www.cnam-paris.fr:1486888",
    "versions": [
     {
@@ -31,7 +34,10 @@
    "title": "Licence informatique Parcours Informatique générale",
    "code": "LG02501A-PAR",
    "total_credits": 180,
-   "checked_at": "2026-10-04T19:45:07"
+   "checked_at": "2026-10-04T19:45:07",
+   "aliases": [
+    "1486888"
+   ]
   }
  ]
 }
