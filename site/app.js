@@ -213,8 +213,10 @@ function openConflicts() {
 
 // ================================================================= ACCUEIL
 
-// Taille d'une page de résultats : plus courte au doigt, où chaque fiche occupe plus de hauteur.
-const PAGE = matchMedia('(max-width: 900px)').matches ? 10 : 25;
+// Sur ordinateur, la liste défile dans un cadre de hauteur fixe ; sur mobile, elle s'affiche par pages de 10.
+const PAGE = 10;
+const smallScreen = matchMedia('(max-width: 900px)');
+smallScreen.addEventListener('change', () => { if (home.open) paint(renderHome); });
 const home = { open: false, catalog: null, error: null, query: '', type: '', level: '', limit: PAGE, draft: null, tokenBusy: false };
 
 // Un diplôme est identifié par son code ; ses anciens identifiants restent valables (alias).
@@ -295,7 +297,7 @@ function renderHome() {
       h('input', {
         id: 'find', type: 'search', value: home.query, 'data-key': 'find', autocomplete: 'off',
         placeholder: 'Rechercher un diplôme, ou coller l’adresse de sa fiche',
-        oninput: (ev) => { home.query = ev.target.value; home.limit = PAGE; paint(renderHome); },
+        oninput: (ev) => { home.query = ev.target.value; resetResults(); },
       }),
       renderFilters(),
       renderResults(),
@@ -311,6 +313,13 @@ const LEVEL_ORDER = (label) => {
   return m ? Number(m[1]) : 99;
 };
 
+// Nouvelle recherche ou nouveau filtre : on repart du début de la liste.
+function resetResults() {
+  home.limit = PAGE;
+  paint(renderHome);
+  document.querySelector('.dip-list')?.scrollTo(0, 0);
+}
+
 function renderFilters() {
   if (!home.catalog?.diplomas.length || /^https?:\/\//i.test(home.query.trim())) return null;
   const count = (key) => {
@@ -322,7 +331,7 @@ function renderFilters() {
   const levels = [...count('level_out')].sort((a, b) => LEVEL_ORDER(a[0]) - LEVEL_ORDER(b[0]) || a[0].localeCompare(b[0]));
   const select = (key, label, entries, all) => h('label', { class: 'filter' },
     h('span', {}, label),
-    h('select', { value: home[key], 'data-key': `f-${key}`, onchange: (ev) => { home[key] = ev.target.value; home.limit = PAGE; paint(renderHome); } },
+    h('select', { value: home[key], 'data-key': `f-${key}`, onchange: (ev) => { home[key] = ev.target.value; resetResults(); } },
       h('option', { value: '' }, all),
       entries.map(([v, n]) => h('option', { value: v }, `${v} (${n})`))));
   return h('div', { class: 'filters' },
@@ -358,8 +367,8 @@ function renderResults() {
   const filtered = q || home.type || home.level;
   return [
     h('p', { class: 'muted results-count' }, filtered ? `${plural(list.length, 'diplôme correspond', 'diplômes correspondent')} sur ${diplomas.length}` : `${plural(diplomas.length, 'diplôme', 'diplômes')} du Cnam Paris`),
-    list.length ? diplomaList(list.slice(0, home.limit)) : h('p', { class: 'muted results-note' }, 'Aucun diplôme ne correspond à cette recherche.'),
-    list.length > home.limit ? h('button', {
+    list.length ? diplomaList(smallScreen.matches ? list.slice(0, home.limit) : list) : h('p', { class: 'muted results-note' }, 'Aucun diplôme ne correspond à cette recherche.'),
+    smallScreen.matches && list.length > home.limit ? h('button', {
       class: 'btn btn-quiet more-btn', 'data-key': 'more',
       onclick: () => { home.limit += PAGE; paint(renderHome); },
     }, `Afficher ${Math.min(PAGE, list.length - home.limit)} de plus (${list.length - home.limit} restants)`) : null,

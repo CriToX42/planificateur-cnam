@@ -288,6 +288,9 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--focus); width:
 .filter { display: flex; flex-direction: column; gap: 4px; flex: 1 1 220px; font-size: 13px; font-weight: 600; }
 .filter select { min-height: 40px; }
 .results-count { margin: 14px 0 0; font-size: 13px; }
+@media (min-width: 901px) {
+  .dip-list { max-height: 460px; overflow-y: auto; overscroll-behavior: contain; }
+}
 .dip-retired .dip-title { color: var(--ink-2); }
 .dip-title mark { background: var(--marker-wash); color: inherit; box-shadow: inset 0 -2px 0 var(--marker); padding: 0 1px; }
 .dip-flags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
