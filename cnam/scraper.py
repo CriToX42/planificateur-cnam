@@ -31,6 +31,8 @@ USER_AGENT = f"Mozilla/5.0 (compatible; planificateur-cnam/0.3; +https://github.
 
 # Type de formation déduit du début de l'intitulé, dans l'ordre (le plus précis d'abord).
 DIPLOMA_TYPES = [
+    (r"^grade (de )?licence", "Grade de licence"),
+    (r"^grade (de )?master", "Grade de master"),
     (r"^licence professionnelle", "Licence professionnelle"),
     (r"^licence", "Licence"),
     (r"^mast[eè]re", "Mastère spécialisé"),
